@@ -1,0 +1,1949 @@
+LTER	Dataset	Locale	Species	Abundance.trend
+Arctic	StreamInsects	3000	BAETIS	-1.57155791651831
+Arctic	StreamInsects	3000	BAETSP3	1.49024253841939
+Arctic	StreamInsects	3000	BLACK	-0.988642579568138
+Arctic	StreamInsects	3000	BLKPUPA	1.26560000973367
+Arctic	StreamInsects	3000	BRACHY	-0.640613107681205
+Arctic	StreamInsects	3000	CHIPUPA	1.17321429765509
+Arctic	StreamInsects	3000	CINYG	-1.60381537337086
+Arctic	StreamInsects	3000	EPHEM	2.61524452117282
+Arctic	StreamInsects	3000	NATARSIA	1.29280362343908
+Arctic	StreamInsects	3000	NEMOURA	1.68845463932071
+Arctic	StreamInsects	3000	ORTHO	-2.66123775183463
+Arctic	StreamInsects	3000	OTHCHIR	2.02816316880941
+Arctic	StreamInsects	3000	RHYAC	0.310253798278118
+Arctic	StreamInsects	3000	TIPULA	2.21977042355792
+BonanzaCreek	BarkBeetles	BarkBeetles	Ips beetle	-0.260310824871243
+BonanzaCreek	BarkBeetles	BarkBeetles	Larch beetle	-1.11963375387938
+BonanzaCreek	BarkBeetles	BarkBeetles	Spruce beetle	-1.84620084912789
+BonanzaCreek	Leafminers	BS	leafminers	-1.86680767524017
+BonanzaCreek	Leafminers	ED	leafminers	-2.11440459015753
+BonanzaCreek	Leafminers	RP	leafminers	-2.55819827746862
+BonanzaCreek	Leafminers	WR	leafminers	-0.548376813694654
+CedarCreek	Grasshoppers	4	Aeropedellus clavatus	-1.12320511236637
+CedarCreek	Grasshoppers	21	Aeropedellus clavatus	-1.29610342660444
+CedarCreek	Grasshoppers	24	Aeropedellus clavatus	-2.3350124956228
+CedarCreek	Grasshoppers	27	Aeropedellus clavatus	-1.99987705685891
+CedarCreek	Grasshoppers	32	Aeropedellus clavatus	-2.18370251187361
+CedarCreek	Grasshoppers	40	Aeropedellus clavatus	-1.12208870216738
+CedarCreek	Grasshoppers	41	Aeropedellus clavatus	-1.26775880132952
+CedarCreek	Grasshoppers	44	Aeropedellus clavatus	-1.35757096450309
+CedarCreek	Grasshoppers	45	Aeropedellus clavatus	-1.02049966594114
+CedarCreek	Grasshoppers	47	Aeropedellus clavatus	-1.13780124344886
+CedarCreek	Grasshoppers	53	Aeropedellus clavatus	-2.77900291414703
+CedarCreek	Grasshoppers	70	Aeropedellus clavatus	-1.89435177508792
+CedarCreek	Grasshoppers	72	Aeropedellus clavatus	0.93171573278912
+CedarCreek	Grasshoppers	77	Aeropedellus clavatus	-2.34912919271621
+CedarCreek	Grasshoppers	24	Ageneotettix deorum	-1.83519503721054
+CedarCreek	Grasshoppers	39	Ageneotettix deorum	-2.14342857174382
+CedarCreek	Grasshoppers	41	Ageneotettix deorum	-2.47948800023373
+CedarCreek	Grasshoppers	44	Ageneotettix deorum	-1.63612862335734
+CedarCreek	Grasshoppers	45	Ageneotettix deorum	-2.7096192338759
+CedarCreek	Grasshoppers	47	Ageneotettix deorum	-2.29598812865242
+CedarCreek	Grasshoppers	53	Ageneotettix deorum	-2.21772317853721
+CedarCreek	Grasshoppers	70	Ageneotettix deorum	-2.6497846717366
+CedarCreek	Grasshoppers	72	Ageneotettix deorum	-2.82790716645802
+CedarCreek	Grasshoppers	39	Arphia conspersa	-0.260743122113282
+CedarCreek	Grasshoppers	45	Arphia conspersa	-1.91048029513278
+CedarCreek	Grasshoppers	70	Arphia conspersa	-0.567939161970042
+CedarCreek	Grasshoppers	4	Arphia pseudonietana	-2.63812457790667
+CedarCreek	Grasshoppers	39	Arphia pseudonietana	-1.46442313640047
+CedarCreek	Grasshoppers	5	Chorthippus curtipennis	-1.70066025048215
+CedarCreek	Grasshoppers	21	Chorthippus curtipennis	-0.643393368383759
+CedarCreek	Grasshoppers	32	Chorthippus curtipennis	0.193902828685849
+CedarCreek	Grasshoppers	35	Chorthippus curtipennis	-0.262834835587489
+CedarCreek	Grasshoppers	40	Chorthippus curtipennis	-0.695026042521673
+CedarCreek	Grasshoppers	44	Chorthippus curtipennis	-0.779340555105808
+CedarCreek	Grasshoppers	53	Chorthippus curtipennis	1.00512478528041
+CedarCreek	Grasshoppers	72	Chorthippus curtipennis	0.0188728791736873
+CedarCreek	Grasshoppers	21	Chortophaga viridifasciata	-0.533768348780578
+CedarCreek	Grasshoppers	4	Conocephalus saltans	0.125971726975086
+CedarCreek	Grasshoppers	5	Conocephalus saltans	-1.17721620428328
+CedarCreek	Grasshoppers	21	Conocephalus saltans	-1.31992115038493
+CedarCreek	Grasshoppers	24	Conocephalus saltans	-0.071424375581877
+CedarCreek	Grasshoppers	26	Conocephalus saltans	1.47472368996499
+CedarCreek	Grasshoppers	27	Conocephalus saltans	-0.958418368681155
+CedarCreek	Grasshoppers	32	Conocephalus saltans	0.63782514411834
+CedarCreek	Grasshoppers	35	Conocephalus saltans	0.0179154097533165
+CedarCreek	Grasshoppers	41	Conocephalus saltans	-1.93352194582406
+CedarCreek	Grasshoppers	44	Conocephalus saltans	-1.04117949658717
+CedarCreek	Grasshoppers	45	Conocephalus saltans	0.966836531429025
+CedarCreek	Grasshoppers	47	Conocephalus saltans	-3.62430152989859
+CedarCreek	Grasshoppers	53	Conocephalus saltans	-0.164904799853093
+CedarCreek	Grasshoppers	70	Conocephalus saltans	-1.27807200426518
+CedarCreek	Grasshoppers	72	Conocephalus saltans	0.666192387337069
+CedarCreek	Grasshoppers	76	Conocephalus saltans	0.181680494421077
+CedarCreek	Grasshoppers	77	Conocephalus saltans	0.55049455431072
+CedarCreek	Grasshoppers	21	Conocephalus strictus	0.700160900037439
+CedarCreek	Grasshoppers	27	Conocephalus strictus	0.298888092859263
+CedarCreek	Grasshoppers	40	Conocephalus strictus	0.108579174017943
+CedarCreek	Grasshoppers	41	Conocephalus strictus	1.94452024817303
+CedarCreek	Grasshoppers	44	Conocephalus strictus	-0.138633930507874
+CedarCreek	Grasshoppers	45	Conocephalus strictus	0.753579797094485
+CedarCreek	Grasshoppers	47	Conocephalus strictus	1.49804869970747
+CedarCreek	Grasshoppers	53	Conocephalus strictus	-1.29464264723817
+CedarCreek	Grasshoppers	77	Conocephalus strictus	-1.51060513836082
+CedarCreek	Grasshoppers	4	Conocephalus undet	-0.278022211181928
+CedarCreek	Grasshoppers	5	Conocephalus undet	-2.38513986384039
+CedarCreek	Grasshoppers	21	Conocephalus undet	2.47955792276504
+CedarCreek	Grasshoppers	24	Conocephalus undet	0.434141697529397
+CedarCreek	Grasshoppers	26	Conocephalus undet	0.73817523823787
+CedarCreek	Grasshoppers	27	Conocephalus undet	1.43129851578504
+CedarCreek	Grasshoppers	32	Conocephalus undet	0.988418350897971
+CedarCreek	Grasshoppers	35	Conocephalus undet	0.221443001906327
+CedarCreek	Grasshoppers	39	Conocephalus undet	-0.842819319290404
+CedarCreek	Grasshoppers	40	Conocephalus undet	0.69204174482697
+CedarCreek	Grasshoppers	41	Conocephalus undet	1.29927604203325
+CedarCreek	Grasshoppers	44	Conocephalus undet	0.564607490407534
+CedarCreek	Grasshoppers	45	Conocephalus undet	1.83800143996765
+CedarCreek	Grasshoppers	47	Conocephalus undet	1.73714833621888
+CedarCreek	Grasshoppers	53	Conocephalus undet	1.3282043623533
+CedarCreek	Grasshoppers	70	Conocephalus undet	0.962315203955973
+CedarCreek	Grasshoppers	72	Conocephalus undet	1.56170372930544
+CedarCreek	Grasshoppers	76	Conocephalus undet	-0.410083289958517
+CedarCreek	Grasshoppers	77	Conocephalus undet	-1.02538583341331
+CedarCreek	Grasshoppers	4	Encoptolophus sordidus	3.724693335202
+CedarCreek	Grasshoppers	72	Eritettix simplex	0.724284136173904
+CedarCreek	Grasshoppers	26	Melanoplus angustipennis	-2.27387817392006
+CedarCreek	Grasshoppers	45	Melanoplus angustipennis	-1.55260656667606
+CedarCreek	Grasshoppers	70	Melanoplus angustipennis	-0.67947965881693
+CedarCreek	Grasshoppers	72	Melanoplus angustipennis	-2.0830054235798
+CedarCreek	Grasshoppers	77	Melanoplus angustipennis	-1.56273116943476
+CedarCreek	Grasshoppers	21	Melanoplus bivittatus	-2.39959965008489
+CedarCreek	Grasshoppers	24	Melanoplus bivittatus	-2.07670448778998
+CedarCreek	Grasshoppers	32	Melanoplus bivittatus	-0.847305086989132
+CedarCreek	Grasshoppers	35	Melanoplus bivittatus	-1.60087634724771
+CedarCreek	Grasshoppers	44	Melanoplus bivittatus	-2.15076407192826
+CedarCreek	Grasshoppers	45	Melanoplus bivittatus	-1.52789764365843
+CedarCreek	Grasshoppers	72	Melanoplus bivittatus	0
+CedarCreek	Grasshoppers	76	Melanoplus bivittatus	-1.73875859809345
+CedarCreek	Grasshoppers	77	Melanoplus bivittatus	-0.790791297273324
+CedarCreek	Grasshoppers	32	Melanoplus dawsoni	-0.596007767221832
+CedarCreek	Grasshoppers	35	Melanoplus dawsoni	-1.52783280829007
+CedarCreek	Grasshoppers	72	Melanoplus dawsoni	-1.69895800625865
+CedarCreek	Grasshoppers	4	Melanoplus femurrubrum	-1.12483929566081
+CedarCreek	Grasshoppers	5	Melanoplus femurrubrum	-0.594006132076116
+CedarCreek	Grasshoppers	21	Melanoplus femurrubrum	-0.290486582441403
+CedarCreek	Grasshoppers	24	Melanoplus femurrubrum	-2.15436445104299
+CedarCreek	Grasshoppers	26	Melanoplus femurrubrum	-1.25216394624999
+CedarCreek	Grasshoppers	27	Melanoplus femurrubrum	-0.22937937827883
+CedarCreek	Grasshoppers	28	Melanoplus femurrubrum	2.00397245990318
+CedarCreek	Grasshoppers	32	Melanoplus femurrubrum	2.01750350263979
+CedarCreek	Grasshoppers	35	Melanoplus femurrubrum	-0.651544012391281
+CedarCreek	Grasshoppers	39	Melanoplus femurrubrum	0.451580445185775
+CedarCreek	Grasshoppers	40	Melanoplus femurrubrum	-0.23646102783853
+CedarCreek	Grasshoppers	41	Melanoplus femurrubrum	-0.594563867345374
+CedarCreek	Grasshoppers	44	Melanoplus femurrubrum	0.0103400025052286
+CedarCreek	Grasshoppers	45	Melanoplus femurrubrum	-0.5782018855117
+CedarCreek	Grasshoppers	47	Melanoplus femurrubrum	0.875211989926721
+CedarCreek	Grasshoppers	53	Melanoplus femurrubrum	-0.109479653605227
+CedarCreek	Grasshoppers	70	Melanoplus femurrubrum	-0.862193961031937
+CedarCreek	Grasshoppers	72	Melanoplus femurrubrum	-0.341581172699934
+CedarCreek	Grasshoppers	76	Melanoplus femurrubrum	1.12331494816085
+CedarCreek	Grasshoppers	77	Melanoplus femurrubrum	-0.862185312627634
+CedarCreek	Grasshoppers	39	Melanoplus flavidus	1.83271062804248
+CedarCreek	Grasshoppers	24	Melanoplus keeleri	-1.41781623920126
+CedarCreek	Grasshoppers	26	Melanoplus keeleri	-1.07156064234578
+CedarCreek	Grasshoppers	27	Melanoplus keeleri	-0.0773587884915814
+CedarCreek	Grasshoppers	32	Melanoplus keeleri	0.106549471691559
+CedarCreek	Grasshoppers	35	Melanoplus keeleri	-1.12548079440064
+CedarCreek	Grasshoppers	39	Melanoplus keeleri	-0.821338719659792
+CedarCreek	Grasshoppers	41	Melanoplus keeleri	-1.03233429229197
+CedarCreek	Grasshoppers	44	Melanoplus keeleri	-1.09674258435704
+CedarCreek	Grasshoppers	45	Melanoplus keeleri	-1.22171134013189
+CedarCreek	Grasshoppers	53	Melanoplus keeleri	-2.17767626271096
+CedarCreek	Grasshoppers	70	Melanoplus keeleri	1.271715343245
+CedarCreek	Grasshoppers	72	Melanoplus keeleri	1.58384396814064
+CedarCreek	Grasshoppers	76	Melanoplus keeleri	-0.917754564005535
+CedarCreek	Grasshoppers	77	Melanoplus keeleri	1.54830547458993
+CedarCreek	Grasshoppers	4	Melanoplus sanguinipes	-3.20467075918148
+CedarCreek	Grasshoppers	28	Melanoplus sanguinipes	-0.516755553383229
+CedarCreek	Grasshoppers	76	Neoconocephalus ensiger	-0.772698543132904
+CedarCreek	Grasshoppers	4	Oecanthus undet	-2.55737173595643
+CedarCreek	Grasshoppers	5	Oecanthus undet	-2.24398548638923
+CedarCreek	Grasshoppers	24	Oecanthus undet	-2.37558381804875
+CedarCreek	Grasshoppers	27	Oecanthus undet	-2.47652961824095
+CedarCreek	Grasshoppers	39	Oecanthus undet	-1.38935627608668
+CedarCreek	Grasshoppers	40	Oecanthus undet	-3.27443465730161
+CedarCreek	Grasshoppers	41	Oecanthus undet	-3.10429853994488
+CedarCreek	Grasshoppers	45	Oecanthus undet	-1.96391760777854
+CedarCreek	Grasshoppers	47	Oecanthus undet	-1.77060014386241
+CedarCreek	Grasshoppers	70	Oecanthus undet	-2.34623473847936
+CedarCreek	Grasshoppers	72	Oecanthus undet	-1.42457872038324
+CedarCreek	Grasshoppers	77	Oecanthus undet	-1.06390207348084
+CedarCreek	Grasshoppers	4	Orphulella speciosa	-3.32544569881056e-10
+CedarCreek	Grasshoppers	5	Orphulella speciosa	-0.804069665570488
+CedarCreek	Grasshoppers	26	Orphulella speciosa	1.48934385593596
+CedarCreek	Grasshoppers	32	Orphulella speciosa	0.190056923264707
+CedarCreek	Grasshoppers	35	Orphulella speciosa	-0.438801654812634
+CedarCreek	Grasshoppers	77	Orphulella speciosa	-0.312795808218047
+CedarCreek	Grasshoppers	4	Pardalophora apiculata	-0.104845072414422
+CedarCreek	Grasshoppers	5	Pardalophora apiculata	0
+CedarCreek	Grasshoppers	24	Pardalophora apiculata	-0.655597919633974
+CedarCreek	Grasshoppers	26	Pardalophora apiculata	-1.88361867937795
+CedarCreek	Grasshoppers	39	Pardalophora apiculata	-1.42533432291396
+CedarCreek	Grasshoppers	45	Pardalophora apiculata	-1.41203111040218
+CedarCreek	Grasshoppers	53	Pardalophora apiculata	-0.762138902643938
+CedarCreek	Grasshoppers	70	Pardalophora apiculata	-0.822074607365446
+CedarCreek	Grasshoppers	72	Pardalophora apiculata	-0.778229893146039
+CedarCreek	Grasshoppers	77	Pardalophora apiculata	-1.17951396043482
+CedarCreek	Grasshoppers	4	Phoetaliotes nebrascensis	0.799980128866929
+CedarCreek	Grasshoppers	5	Phoetaliotes nebrascensis	1.3740261913105
+CedarCreek	Grasshoppers	24	Phoetaliotes nebrascensis	-2.1841872549722
+CedarCreek	Grasshoppers	26	Phoetaliotes nebrascensis	-1.79385171354466
+CedarCreek	Grasshoppers	27	Phoetaliotes nebrascensis	0.555122814289981
+CedarCreek	Grasshoppers	28	Phoetaliotes nebrascensis	0.0172039210331565
+CedarCreek	Grasshoppers	32	Phoetaliotes nebrascensis	1.80502590768957
+CedarCreek	Grasshoppers	35	Phoetaliotes nebrascensis	0.464393861493976
+CedarCreek	Grasshoppers	41	Phoetaliotes nebrascensis	1.26334869174093
+CedarCreek	Grasshoppers	44	Phoetaliotes nebrascensis	1.24758972823679
+CedarCreek	Grasshoppers	45	Phoetaliotes nebrascensis	0.134431203824746
+CedarCreek	Grasshoppers	47	Phoetaliotes nebrascensis	0.971736379325623
+CedarCreek	Grasshoppers	53	Phoetaliotes nebrascensis	0.556386641608046
+CedarCreek	Grasshoppers	70	Phoetaliotes nebrascensis	0.807130415078135
+CedarCreek	Grasshoppers	72	Phoetaliotes nebrascensis	1.34425627122272
+CedarCreek	Grasshoppers	76	Phoetaliotes nebrascensis	-1.79080303043828
+CedarCreek	Grasshoppers	77	Phoetaliotes nebrascensis	0.378025077528736
+CedarCreek	Grasshoppers	4	Pseudopomala brachyptera	-1.46712367755142
+CedarCreek	Grasshoppers	26	Pseudopomala brachyptera	-0.458710814552292
+CedarCreek	Grasshoppers	27	Pseudopomala brachyptera	1.858321932404
+CedarCreek	Grasshoppers	32	Pseudopomala brachyptera	-1.09314844003113
+CedarCreek	Grasshoppers	35	Pseudopomala brachyptera	-0.982399762262218
+CedarCreek	Grasshoppers	44	Pseudopomala brachyptera	-0.920141283297826
+CedarCreek	Grasshoppers	72	Pseudopomala brachyptera	-0.245239103710116
+CedarCreek	Grasshoppers	76	Pseudopomala brachyptera	-1.60625944601672
+CedarCreek	Grasshoppers	77	Pseudopomala brachyptera	0.501079700861673
+CedarCreek	Grasshoppers	39	Schistocerca emarginata	-0.787281887969604
+CedarCreek	Grasshoppers	70	Schistocerca emarginata	0.105078688684024
+CedarCreek	Grasshoppers	72	Schistocerca emarginata	-2.38350605949061
+CedarCreek	Grasshoppers	4	Spharagemon collare	-0.93258392642293
+CedarCreek	Grasshoppers	41	Spharagemon collare	-0.96720090513238
+CedarCreek	Grasshoppers	70	Spharagemon collare	-1.41124199026634
+CedarCreek	sweep2	205	Aceratagallia sanguinolenta	-0.504072803237
+CedarCreek	sweep2	93	Endria inimica	0.595387353281053
+CedarCreek	sweep2	75	Laevicephalus unicoloratus	-0.687376563341309
+CedarCreek	sweep2	167	Macrosteles fascifrons	-1.12930058542011
+CedarCreek	sweep2	190	Macrosteles fascifrons	-1.61443100132451
+CedarCreek	sweep2	267	Macrosteles fascifrons	-2.56033162780889
+CedarCreek	sweep2	50	Monomorium minimum	0.376822125947156
+CedarCreek	sweep2	62	Monomorium minimum	1.71369778402984
+CedarCreek	sweep2	170	Monomorium minimum	1.94507202968476
+CedarCreek	sweep2	115	Olcella undet	-0.444129947743576
+CedarCreek	sweep2	185	Olcella undet	0.653920636473974
+CedarCreek	sweep2	190	Olcella undet	-1.80868981978544
+CedarCreek	sweep2	267	Olcella undet	-1.80139781684838
+CedarCreek	sweep2	302	Olcella undet	-1.52661909446089
+CedarCreek	sweep2	111	Orius insidiosus	-0.377482261122445
+CedarCreek	sweep2	74	Oscinella undet	-0.0116290237660476
+CedarCreek	sweep2	129	Oscinella undet	-1.62177947736672
+CedarCreek	sweep2	190	Oscinella undet	-0.812404415742216
+CedarCreek	sweep2	233	Oscinella undet	0.693749295991219
+CedarCreek	sweep2	267	Oscinella undet	-0.918805634972037
+CedarCreek	sweep2	291	Oscinella undet	-0.815586302143294
+CedarCreek	sweep2	46	Tetrastichus undet	0.557042729561889
+CedarCreek	sweep2	56	Tetrastichus undet	-2.47997006681518
+CedarCreek	sweep2	98	Tetrastichus undet	1.55861148843293
+CedarCreek	sweep2	136	Tetrastichus undet	0.0110773528129412
+CedarCreek	sweep2	169	Tetrastichus undet	-0.673509489371253
+CedarCreek	sweep2	202	Tetrastichus undet	-0.428810594341454
+CedarCreek	sweep2	227	Tetrastichus undet	-1.25906430833111
+CedarCreek	sweep2	235	Tetrastichus undet	0.3142824898832
+CedarCreek	sweep2	239	Tetrastichus undet	0.106846826609467
+CedarCreek	sweep2	273	Tetrastichus undet	-1.77468887012977
+CedarCreek	sweep2	292	Tetrastichus undet	-0.374604359485933
+CedarCreek	sweep2	293	Tetrastichus undet	-1.99897372423791
+CedarCreek	sweep2	329	Tetrastichus undet	-3.11158037077568
+CedarCreek	sweep2	339	Tetrastichus undet	-1.41199546407989
+CedarCreek	sweep2	153	Trigonotylus coelestialium	1.09188269750754
+Coweeta	StreamInvertebrates	C53	Mixed_Substrate_Filterer	1.30501341295493
+Coweeta	StreamInvertebrates	C55	Mixed_Substrate_Filterer	0.12558040392198
+Coweeta	StreamInvertebrates	C53	Mixed_Substrate_Gatherer	-1.57086731159284
+Coweeta	StreamInvertebrates	C55	Mixed_Substrate_Gatherer	-1.32696991667508
+Coweeta	StreamInvertebrates	C53	Mixed_Substrate_Predator	-2.41847532890892
+Coweeta	StreamInvertebrates	C55	Mixed_Substrate_Predator	-2.00031587121602
+Coweeta	StreamInvertebrates	C53	Mixed_Substrate_Scraper	-0.912887274641393
+Coweeta	StreamInvertebrates	C55	Mixed_Substrate_Scraper	-0.428180151233311
+Coweeta	StreamInvertebrates	C53	Mixed_Substrate_Shredder	2.40609249334259
+Coweeta	StreamInvertebrates	C55	Mixed_Substrate_Shredder	-0.412296564814537
+Coweeta	StreamInvertebrates	C53	Rockface_Filterer	3.2305034016442
+Coweeta	StreamInvertebrates	C55	Rockface_Filterer	0.702009190101242
+Coweeta	StreamInvertebrates	C53	Rockface_Gatherer	-2.41040684723212
+Coweeta	StreamInvertebrates	C55	Rockface_Gatherer	-0.348778821752559
+Coweeta	StreamInvertebrates	C53	Rockface_Predator	-1.91276384055771
+Coweeta	StreamInvertebrates	C55	Rockface_Predator	-2.41344039788548
+Coweeta	StreamInvertebrates	C53	Rockface_Scraper	2.22087169461237
+Coweeta	StreamInvertebrates	C55	Rockface_Scraper	0.853358882361645
+Coweeta	StreamInvertebrates	C53	Rockface_Shredder	-1.562470799034
+Coweeta	StreamInvertebrates	C55	Rockface_Shredder	-2.72256954602329
+GeorgiaCoastal	BurrowingCrabs	1	BurrowingCrabs	1.76543242992784
+GeorgiaCoastal	BurrowingCrabs	2	BurrowingCrabs	-0.468368984828214
+GeorgiaCoastal	BurrowingCrabs	3	BurrowingCrabs	-0.420270744800356
+GeorgiaCoastal	BurrowingCrabs	4	BurrowingCrabs	0.389441937953171
+GeorgiaCoastal	BurrowingCrabs	5	BurrowingCrabs	-1.36834756402081
+GeorgiaCoastal	BurrowingCrabs	6	BurrowingCrabs	0.95661655544898
+GeorgiaCoastal	BurrowingCrabs	7	BurrowingCrabs	-1.34817300026357
+GeorgiaCoastal	BurrowingCrabs	8	BurrowingCrabs	-1.76732966546192
+GeorgiaCoastal	BurrowingCrabs	9	BurrowingCrabs	-1.4465998616072
+GeorgiaCoastal	BurrowingCrabs	10	BurrowingCrabs	-1.59078904377399
+GeorgiaCoastal	Grasshoppers	1	G0	-2.71927277841531
+GeorgiaCoastal	Grasshoppers	10	G0	1.03642755820252
+GeorgiaCoastal	Grasshoppers	1	G1	1.77550780374942
+GeorgiaCoastal	Grasshoppers	3	G1	-1.2546933030163
+GeorgiaCoastal	Grasshoppers	4	G1	-1.1898044359899
+GeorgiaCoastal	Grasshoppers	6	G1	1.74720129634852
+GeorgiaCoastal	Grasshoppers	9	G1	1.50158344827567
+GeorgiaCoastal	Grasshoppers	10	G1	-1.38432068627934
+GeorgiaCoastal	Grasshoppers	1	G2	2.51987966912882
+GeorgiaCoastal	Grasshoppers	9	G2	1.48927719182743
+GeorgiaCoastal	Grasshoppers	10	G2	0.392047612004774
+GeorgiaCoastal	Grasshoppers	1	G3	0.318848327964066
+GeorgiaCoastal	Grasshoppers	9	G3	-1.48927718710276
+GeorgiaCoastal	Grasshoppers	10	G3	0.774165927670842
+GeorgiaCoastal	Grasshoppers	10	G4	3.64828726916112
+GeorgiaCoastal	Grasshoppers	9	G5	-0.656737515618748
+HarvardForest	Ticks	Fisher House	Dermacentor variabilis	1.66767905554263
+HarvardForest	Ticks	Outside	Dermacentor variabilis	-0.2955526154588
+HarvardForest	Ticks	Prospect Hill	Dermacentor variabilis	1.39662391362462
+HarvardForest	Ticks	Shaler Hall	Dermacentor variabilis	2.91583162978527
+HarvardForest	Ticks	Simes Tract	Dermacentor variabilis	0.867939489760285
+HarvardForest	Ticks	Tom Swamp	Dermacentor variabilis	1.52370267913796
+HarvardForest	Ticks	Torrey Lab	Dermacentor variabilis	1.7459142308821
+HarvardForest	Ticks	Fisher House	Ixodes scapularis	0.511038971981346
+HarvardForest	Ticks	Outside	Ixodes scapularis	-0.225711020981841
+HarvardForest	Ticks	Prospect Hill	Ixodes scapularis	0.27254977342557
+HarvardForest	Ticks	Shaler Hall	Ixodes scapularis	0.460405059400883
+HarvardForest	Ticks	Simes Tract	Ixodes scapularis	-0.677236667581295
+HarvardForest	Ticks	Tom Swamp	Ixodes scapularis	0.813355087673862
+HarvardForest	Ticks	Torrey Lab	Ixodes scapularis	1.37511622688205
+HubbardBrook	lepidoptera1	HBEF	2	-1.34913685450377
+HubbardBrook	lepidoptera1	HBEF	3	-1.1792691825139
+HubbardBrook	lepidoptera1	HBEF	4	0.353036765950095
+HubbardBrook	lepidoptera1	HBEF	5	-1.91912083710487
+HubbardBrook	lepidoptera1	HBEF	6	0.171906008915576
+HubbardBrook	lepidoptera2	2	2	2.75675381803822
+HubbardBrook	lepidoptera2	3	2	2.16411674115454
+HubbardBrook	lepidoptera2	4	2	2.55704984815333
+HubbardBrook	lepidoptera2	2	3	-0.0607395726455104
+HubbardBrook	lepidoptera2	3	3	-0.95893328741122
+HubbardBrook	lepidoptera2	4	3	2.44878769047703
+KonzaPrairie	Grasshoppers	N01A	Ageneotettix deorum	0.0355483441386514
+KonzaPrairie	Grasshoppers	N01B	Ageneotettix deorum	-2.7756663172422
+KonzaPrairie	Grasshoppers	N04A	Ageneotettix deorum	0.589887690441423
+KonzaPrairie	Grasshoppers	N04D	Ageneotettix deorum	1.11435851099506
+KonzaPrairie	Grasshoppers	N20A	Ageneotettix deorum	0.638180506953339
+KonzaPrairie	Grasshoppers	001D	Campylacantha olivacea	1.12912545354359
+KonzaPrairie	Grasshoppers	002C	Campylacantha olivacea	-1.3821565009159
+KonzaPrairie	Grasshoppers	002D	Campylacantha olivacea	-1.42581191745309
+KonzaPrairie	Grasshoppers	004B	Campylacantha olivacea	-0.658921692356348
+KonzaPrairie	Grasshoppers	004F	Campylacantha olivacea	-0.731860527708655
+KonzaPrairie	Grasshoppers	020B	Campylacantha olivacea	-0.553064273036975
+KonzaPrairie	Grasshoppers	0SpB	Campylacantha olivacea	0.0834631744259943
+KonzaPrairie	Grasshoppers	0SuB	Campylacantha olivacea	-0.589294580386425
+KonzaPrairie	Grasshoppers	N01A	Campylacantha olivacea	-0.216231121440162
+KonzaPrairie	Grasshoppers	N01B	Campylacantha olivacea	-0.954344523396708
+KonzaPrairie	Grasshoppers	N04A	Campylacantha olivacea	1.14624112395113
+KonzaPrairie	Grasshoppers	N04D	Campylacantha olivacea	-0.914766612414658
+KonzaPrairie	Grasshoppers	N20A	Campylacantha olivacea	-0.167122013424551
+KonzaPrairie	Grasshoppers	N20B	Campylacantha olivacea	0.72837329989052
+KonzaPrairie	Grasshoppers	004B	Hesperotettix speciosus	-1.81285551480127
+KonzaPrairie	Grasshoppers	004F	Hesperotettix speciosus	-1.43722580916007
+KonzaPrairie	Grasshoppers	020B	Hesperotettix speciosus	-1.60506793075154
+KonzaPrairie	Grasshoppers	0SuB	Hesperotettix speciosus	-1.61369291645547
+KonzaPrairie	Grasshoppers	N01A	Hesperotettix speciosus	1.32664837369286
+KonzaPrairie	Grasshoppers	N01B	Hesperotettix speciosus	2.49118725688397
+KonzaPrairie	Grasshoppers	N04A	Hesperotettix speciosus	0.256623507725776
+KonzaPrairie	Grasshoppers	N04D	Hesperotettix speciosus	-0.40002476897264
+KonzaPrairie	Grasshoppers	N20A	Hesperotettix speciosus	0.122276186426499
+KonzaPrairie	Grasshoppers	N20B	Hesperotettix speciosus	-1.55724198930337
+KonzaPrairie	Grasshoppers	020B	Hesperotettix viridis	-0.271719690750238
+KonzaPrairie	Grasshoppers	002D	Hypochlora alba	-1.33165566023359
+KonzaPrairie	Grasshoppers	004B	Hypochlora alba	-1.45029918850281
+KonzaPrairie	Grasshoppers	004F	Hypochlora alba	-1.37448648510432
+KonzaPrairie	Grasshoppers	020B	Hypochlora alba	-1.32509649259735
+KonzaPrairie	Grasshoppers	0SuB	Hypochlora alba	-1.08993810205231
+KonzaPrairie	Grasshoppers	N01A	Hypochlora alba	1.53803463466462
+KonzaPrairie	Grasshoppers	N01B	Hypochlora alba	-3.25577113800255
+KonzaPrairie	Grasshoppers	N04A	Hypochlora alba	-1.36064239420153
+KonzaPrairie	Grasshoppers	N04D	Hypochlora alba	-0.290950367787954
+KonzaPrairie	Grasshoppers	N20A	Hypochlora alba	0.255039469648362
+KonzaPrairie	Grasshoppers	N20B	Hypochlora alba	-0.308335725403171
+KonzaPrairie	Grasshoppers	001D	Melanoplus bivittatus	-1.34233029192568
+KonzaPrairie	Grasshoppers	002C	Melanoplus bivittatus	0.73091883042389
+KonzaPrairie	Grasshoppers	002D	Melanoplus bivittatus	-0.612688546159641
+KonzaPrairie	Grasshoppers	004B	Melanoplus bivittatus	0.561293611413826
+KonzaPrairie	Grasshoppers	004F	Melanoplus bivittatus	-1.18642526176019
+KonzaPrairie	Grasshoppers	020B	Melanoplus bivittatus	-0.602436333510234
+KonzaPrairie	Grasshoppers	0SpB	Melanoplus bivittatus	0.592312557772567
+KonzaPrairie	Grasshoppers	0SuB	Melanoplus bivittatus	-0.751205480848101
+KonzaPrairie	Grasshoppers	N01A	Melanoplus bivittatus	-1.19923297012546
+KonzaPrairie	Grasshoppers	N01B	Melanoplus bivittatus	-1.4518218770651
+KonzaPrairie	Grasshoppers	N04A	Melanoplus bivittatus	-0.661611902734829
+KonzaPrairie	Grasshoppers	N04D	Melanoplus bivittatus	-0.580597305356792
+KonzaPrairie	Grasshoppers	N20A	Melanoplus bivittatus	1.06934188698124
+KonzaPrairie	Grasshoppers	N20B	Melanoplus bivittatus	0.340174868120216
+KonzaPrairie	Grasshoppers	001D	Melanoplus femurrubrum	-1.67979766380926
+KonzaPrairie	Grasshoppers	002C	Melanoplus femurrubrum	-1.62219182510229
+KonzaPrairie	Grasshoppers	002D	Melanoplus femurrubrum	-0.91572424813054
+KonzaPrairie	Grasshoppers	004B	Melanoplus femurrubrum	0.0515101998644927
+KonzaPrairie	Grasshoppers	004F	Melanoplus femurrubrum	-2.41854127801847
+KonzaPrairie	Grasshoppers	020B	Melanoplus femurrubrum	-1.59081152304009
+KonzaPrairie	Grasshoppers	0SpB	Melanoplus femurrubrum	-1.25961115697385
+KonzaPrairie	Grasshoppers	0SuB	Melanoplus femurrubrum	-1.70966442086684
+KonzaPrairie	Grasshoppers	N01A	Melanoplus femurrubrum	0.452876991944127
+KonzaPrairie	Grasshoppers	N01B	Melanoplus femurrubrum	0.472773648781846
+KonzaPrairie	Grasshoppers	N04A	Melanoplus femurrubrum	-0.342637327016554
+KonzaPrairie	Grasshoppers	N04D	Melanoplus femurrubrum	-0.230058785176636
+KonzaPrairie	Grasshoppers	N20A	Melanoplus femurrubrum	0.987680722780277
+KonzaPrairie	Grasshoppers	N20B	Melanoplus femurrubrum	-1.3605999076799
+KonzaPrairie	Grasshoppers	001D	Melanoplus keeleri	-0.907132270756948
+KonzaPrairie	Grasshoppers	002C	Melanoplus keeleri	-2.32105284282342
+KonzaPrairie	Grasshoppers	002D	Melanoplus keeleri	-0.687055783517615
+KonzaPrairie	Grasshoppers	004B	Melanoplus keeleri	-1.17804128305685
+KonzaPrairie	Grasshoppers	004F	Melanoplus keeleri	-0.98267197321376
+KonzaPrairie	Grasshoppers	020B	Melanoplus keeleri	-0.823809527305464
+KonzaPrairie	Grasshoppers	0SpB	Melanoplus keeleri	-1.47578276143906
+KonzaPrairie	Grasshoppers	0SuB	Melanoplus keeleri	-0.0910885091875688
+KonzaPrairie	Grasshoppers	N01A	Melanoplus keeleri	-2.39571218504966
+KonzaPrairie	Grasshoppers	N01B	Melanoplus keeleri	-2.77863562244359
+KonzaPrairie	Grasshoppers	N04A	Melanoplus keeleri	-2.68456591491072
+KonzaPrairie	Grasshoppers	N04D	Melanoplus keeleri	-2.9829107429888
+KonzaPrairie	Grasshoppers	N20A	Melanoplus keeleri	-0.695211083470704
+KonzaPrairie	Grasshoppers	N20B	Melanoplus keeleri	-1.40337383425783
+KonzaPrairie	Grasshoppers	N01A	Melanoplus sanguinipes	0.155680484704018
+KonzaPrairie	Grasshoppers	N04A	Melanoplus sanguinipes	0.0117322787607804
+KonzaPrairie	Grasshoppers	N04D	Melanoplus sanguinipes	-2.45185200721039
+KonzaPrairie	Grasshoppers	002C	Melanoplus scudderi	0.283215619389797
+KonzaPrairie	Grasshoppers	002D	Melanoplus scudderi	0.211609240847587
+KonzaPrairie	Grasshoppers	004B	Melanoplus scudderi	0.799686526364893
+KonzaPrairie	Grasshoppers	004F	Melanoplus scudderi	-0.350418219340749
+KonzaPrairie	Grasshoppers	020B	Melanoplus scudderi	-0.402232375770009
+KonzaPrairie	Grasshoppers	0SpB	Melanoplus scudderi	0.147137368565865
+KonzaPrairie	Grasshoppers	0SuB	Melanoplus scudderi	0.376886355213107
+KonzaPrairie	Grasshoppers	N01A	Melanoplus scudderi	-2.37483714132756
+KonzaPrairie	Grasshoppers	N01B	Melanoplus scudderi	-1.37531834477064
+KonzaPrairie	Grasshoppers	N04A	Melanoplus scudderi	-1.65546142698815
+KonzaPrairie	Grasshoppers	N20A	Melanoplus scudderi	-2.24660967610151
+KonzaPrairie	Grasshoppers	N20B	Melanoplus scudderi	-1.04962581284117
+KonzaPrairie	Grasshoppers	001D	Mermiria bivittata	-0.563869038398081
+KonzaPrairie	Grasshoppers	002C	Mermiria bivittata	1.24634103808145
+KonzaPrairie	Grasshoppers	002D	Mermiria bivittata	0.278101415980126
+KonzaPrairie	Grasshoppers	004B	Mermiria bivittata	0.514857763305201
+KonzaPrairie	Grasshoppers	004F	Mermiria bivittata	-0.757876893765674
+KonzaPrairie	Grasshoppers	020B	Mermiria bivittata	-0.232774036583339
+KonzaPrairie	Grasshoppers	0SpB	Mermiria bivittata	1.00896846536551
+KonzaPrairie	Grasshoppers	0SuB	Mermiria bivittata	-0.557924486476949
+KonzaPrairie	Grasshoppers	N01A	Mermiria bivittata	-0.50522791741224
+KonzaPrairie	Grasshoppers	N04A	Mermiria bivittata	-2.16595802124063
+KonzaPrairie	Grasshoppers	N04D	Mermiria bivittata	-4.29035663428719
+KonzaPrairie	Grasshoppers	N20A	Mermiria bivittata	-1.08605525075235
+KonzaPrairie	Grasshoppers	002C	Mermiria picta	2.21962541901599
+KonzaPrairie	Grasshoppers	002D	Mermiria picta	1.34046030265315
+KonzaPrairie	Grasshoppers	020B	Mermiria picta	-0.157969490521654
+KonzaPrairie	Grasshoppers	0SpB	Mermiria picta	0.652776857698571
+KonzaPrairie	Grasshoppers	0SuB	Mermiria picta	-0.912884905280249
+KonzaPrairie	Grasshoppers	N01A	Mermiria picta	0.958821112420707
+KonzaPrairie	Grasshoppers	N20A	Mermiria picta	-0.506218164222946
+KonzaPrairie	Grasshoppers	001D	Orphulella speciosa	-1.45212097961846
+KonzaPrairie	Grasshoppers	002C	Orphulella speciosa	-0.733796999077664
+KonzaPrairie	Grasshoppers	002D	Orphulella speciosa	-0.951441607155185
+KonzaPrairie	Grasshoppers	004B	Orphulella speciosa	-0.450308961898008
+KonzaPrairie	Grasshoppers	004F	Orphulella speciosa	-2.13678863918378
+KonzaPrairie	Grasshoppers	020B	Orphulella speciosa	-0.918787847673886
+KonzaPrairie	Grasshoppers	0SpB	Orphulella speciosa	-1.90274237268681
+KonzaPrairie	Grasshoppers	0SuB	Orphulella speciosa	-0.896587274645333
+KonzaPrairie	Grasshoppers	N01A	Orphulella speciosa	-1.67129262787524
+KonzaPrairie	Grasshoppers	N01B	Orphulella speciosa	-2.5773131734468
+KonzaPrairie	Grasshoppers	N04A	Orphulella speciosa	-2.7192402202363
+KonzaPrairie	Grasshoppers	N04D	Orphulella speciosa	-3.32745564501837
+KonzaPrairie	Grasshoppers	N20A	Orphulella speciosa	0.118773011808532
+KonzaPrairie	Grasshoppers	N20B	Orphulella speciosa	-1.16980566934992
+KonzaPrairie	Grasshoppers	001D	Phoetaliotes nebrascensis	-1.41620901616039
+KonzaPrairie	Grasshoppers	002C	Phoetaliotes nebrascensis	-1.07391375128329
+KonzaPrairie	Grasshoppers	002D	Phoetaliotes nebrascensis	-0.326525624644884
+KonzaPrairie	Grasshoppers	004B	Phoetaliotes nebrascensis	-0.314480182251162
+KonzaPrairie	Grasshoppers	004F	Phoetaliotes nebrascensis	-0.129619977496272
+KonzaPrairie	Grasshoppers	020B	Phoetaliotes nebrascensis	0.281170744823747
+KonzaPrairie	Grasshoppers	0SpB	Phoetaliotes nebrascensis	-0.975369970074924
+KonzaPrairie	Grasshoppers	0SuB	Phoetaliotes nebrascensis	-0.830502629402502
+KonzaPrairie	Grasshoppers	N01A	Phoetaliotes nebrascensis	-1.64922290216972
+KonzaPrairie	Grasshoppers	N01B	Phoetaliotes nebrascensis	-0.0964769527653947
+KonzaPrairie	Grasshoppers	N04A	Phoetaliotes nebrascensis	-2.27518523415985
+KonzaPrairie	Grasshoppers	N04D	Phoetaliotes nebrascensis	-2.52054133660093
+KonzaPrairie	Grasshoppers	N20A	Phoetaliotes nebrascensis	-1.85271470406642
+KonzaPrairie	Grasshoppers	N20B	Phoetaliotes nebrascensis	-0.653855183810374
+KonzaPrairie	Grasshoppers	001D	Syrbula admirabilis	-6.13865541591648
+KonzaPrairie	Grasshoppers	002C	Syrbula admirabilis	-5.25533063434356
+KonzaPrairie	Grasshoppers	002D	Syrbula admirabilis	-0.824814703501388
+KonzaPrairie	Grasshoppers	004F	Syrbula admirabilis	-6.92120735408197
+KonzaPrairie	Grasshoppers	020B	Syrbula admirabilis	-0.766328552968796
+KonzaPrairie	Grasshoppers	0SpB	Syrbula admirabilis	-1.75602704958403
+KonzaPrairie	Grasshoppers	0SuB	Syrbula admirabilis	-2.64407636092324
+KonzaPrairie	Grasshoppers	N01A	Syrbula admirabilis	0.248497917986867
+KonzaPrairie	Grasshoppers	N01B	Syrbula admirabilis	-0.738480085438613
+KonzaPrairie	Grasshoppers	N04A	Syrbula admirabilis	-0.151624637247402
+KonzaPrairie	Grasshoppers	N04D	Syrbula admirabilis	-0.349154028589139
+KonzaPrairie	Grasshoppers	N20A	Syrbula admirabilis	-0.586539740331859
+KonzaPrairie	Grasshoppers	N20B	Syrbula admirabilis	0.116915133095525
+Midwest	Aphids	Ames	Acyrthosiphon pisum	-1.5646435412315
+Midwest	Aphids	Antigo	Acyrthosiphon pisum	-0.416691830523711
+Midwest	Aphids	Arlington	Acyrthosiphon pisum	-1.46406224001061
+Midwest	Aphids	Columbia	Acyrthosiphon pisum	-0.370946083596995
+Midwest	Aphids	Crookston	Acyrthosiphon pisum	1.02454126833835
+Midwest	Aphids	DeKalb	Acyrthosiphon pisum	-0.197047878980982
+Midwest	Aphids	Dixon Springs	Acyrthosiphon pisum	-1.59233053268717
+Midwest	Aphids	DPAC	Acyrthosiphon pisum	-2.31920019789191
+Midwest	Aphids	East Lansing	Acyrthosiphon pisum	-2.44167530387855
+Midwest	Aphids	Eau Claire	Acyrthosiphon pisum	-0.31086863017701
+Midwest	Aphids	Hancock	Acyrthosiphon pisum	-2.07384486190533
+Midwest	Aphids	Kellogg	Acyrthosiphon pisum	-1.02847916651265
+Midwest	Aphids	Lamberton	Acyrthosiphon pisum	-0.497040621187591
+Midwest	Aphids	Lancaster	Acyrthosiphon pisum	-1.33083429239069
+Midwest	Aphids	Manhattan	Acyrthosiphon pisum	-1.55413381171811
+Midwest	Aphids	McNay	Acyrthosiphon pisum	-0.402569232130792
+Midwest	Aphids	Monmouth	Acyrthosiphon pisum	-0.409344009585946
+Midwest	Aphids	Monroe	Acyrthosiphon pisum	-1.54347236649535
+Midwest	Aphids	Morris_IL	Acyrthosiphon pisum	-0.423916239854285
+Midwest	Aphids	Morris_MN	Acyrthosiphon pisum	-0.573363711752176
+Midwest	Aphids	Nashua	Acyrthosiphon pisum	-1.54962324634719
+Midwest	Aphids	NEPAC	Acyrthosiphon pisum	-1.27617770457381
+Midwest	Aphids	Orr	Acyrthosiphon pisum	-0.722808983197892
+Midwest	Aphids	PPAC	Acyrthosiphon pisum	-2.1689558315144
+Midwest	Aphids	Rosemount	Acyrthosiphon pisum	-2.72710238507563
+Midwest	Aphids	SEPAC	Acyrthosiphon pisum	-1.58230122489633
+Midwest	Aphids	Seymour	Acyrthosiphon pisum	-1.91693212602673
+Midwest	Aphids	Sutherland	Acyrthosiphon pisum	-0.849250901613817
+Midwest	Aphids	Urbana-Champaign-II	Acyrthosiphon pisum	-1.12038973140454
+Midwest	Aphids	Walworth	Acyrthosiphon pisum	-0.199592593954111
+Midwest	Aphids	Antigo	Anoecia corni	-1.86498253871658
+Midwest	Aphids	Arlington	Anoecia corni	-2.1751084316347
+Midwest	Aphids	East Lansing	Anoecia corni	-2.64780085536805
+Midwest	Aphids	Kellogg	Anoecia corni	-2.25762885687741
+Midwest	Aphids	Lancaster	Anoecia corni	-2.3437811817934
+Midwest	Aphids	Monroe	Anoecia corni	0.470430857808688
+Midwest	Aphids	Nashua	Anoecia corni	-1.76005511875354
+Midwest	Aphids	NEPAC	Anoecia corni	2.02475143528159
+Midwest	Aphids	PPAC	Anoecia corni	-0.766414501886355
+Midwest	Aphids	Sutherland	Anoecia corni	-1.13111320824233
+Midwest	Aphids	Walworth	Anoecia corni	-0.0614552594324979
+Midwest	Aphids	Ames	Anoecia cornicola	-0.964619624413589
+Midwest	Aphids	Antigo	Anoecia cornicola	-2.50486522172653
+Midwest	Aphids	Arlington	Anoecia cornicola	-1.40800280757661
+Midwest	Aphids	DeKalb	Anoecia cornicola	-0.923941992172706
+Midwest	Aphids	East Lansing	Anoecia cornicola	-0.996799639484995
+Midwest	Aphids	Hancock	Anoecia cornicola	-3.49662564630461
+Midwest	Aphids	Kellogg	Anoecia cornicola	-0.573776132002362
+Midwest	Aphids	Lamberton	Anoecia cornicola	-0.343635648624366
+Midwest	Aphids	Lancaster	Anoecia cornicola	-0.833800562079522
+Midwest	Aphids	Manhattan	Anoecia cornicola	-0.479586728779914
+Midwest	Aphids	Monmouth	Anoecia cornicola	-1.10714444666721
+Midwest	Aphids	Monroe	Anoecia cornicola	-1.49319485420397
+Midwest	Aphids	Morris_MN	Anoecia cornicola	-0.330654509354304
+Midwest	Aphids	Nashua	Anoecia cornicola	-2.20460398027476
+Midwest	Aphids	NEPAC	Anoecia cornicola	0.0915495883212853
+Midwest	Aphids	Orr	Anoecia cornicola	-0.17705770359112
+Midwest	Aphids	PPAC	Anoecia cornicola	-2.75874806188323
+Midwest	Aphids	Rosemount	Anoecia cornicola	1.97175437098142
+Midwest	Aphids	SEPAC	Anoecia cornicola	-1.86767523505405
+Midwest	Aphids	Sutherland	Anoecia cornicola	-1.50902216851057
+Midwest	Aphids	Urbana-Champaign-II	Anoecia cornicola	-2.50894055185842
+Midwest	Aphids	Hancock	Anoecia setariae	1.06184472533211
+Midwest	Aphids	Ames	Aphis asclepiadis	0.211927532395005
+Midwest	Aphids	Arlington	Aphis asclepiadis	2.33123038422886
+Midwest	Aphids	Crookston	Aphis asclepiadis	-2.0378537083502
+Midwest	Aphids	East Lansing	Aphis asclepiadis	2.4092987741108
+Midwest	Aphids	Eau Claire	Aphis asclepiadis	1.70067629268815
+Midwest	Aphids	Hancock	Aphis asclepiadis	0.724510016338546
+Midwest	Aphids	Lamberton	Aphis asclepiadis	2.78235961597851
+Midwest	Aphids	Lancaster	Aphis asclepiadis	-0.206944056924948
+Midwest	Aphids	Monmouth	Aphis asclepiadis	1.83480320060748
+Midwest	Aphids	Monroe	Aphis asclepiadis	1.05168993782498
+Midwest	Aphids	Morris_MN	Aphis asclepiadis	1.55066827631978
+Midwest	Aphids	Nashua	Aphis asclepiadis	1.27548084561418
+Midwest	Aphids	NEPAC	Aphis asclepiadis	6.69658755842653
+Midwest	Aphids	Orr	Aphis asclepiadis	1.55571960195815
+Midwest	Aphids	Rosemount	Aphis asclepiadis	1.65948874637495
+Midwest	Aphids	Sutherland	Aphis asclepiadis	3.70532841854258
+Midwest	Aphids	Monroe	Aphis coreopsidis	0.693012391743613
+Midwest	Aphids	NEPAC	Aphis coreopsidis	1.19226734210092
+Midwest	Aphids	PPAC	Aphis coreopsidis	-0.504622638211674
+Midwest	Aphids	SEPAC	Aphis coreopsidis	-0.301684653952112
+Midwest	Aphids	Ames	Aphis craccivora	-2.5383646271576
+Midwest	Aphids	Antigo	Aphis craccivora	0.482681100810549
+Midwest	Aphids	Arlington	Aphis craccivora	0.338342204182441
+Midwest	Aphids	Columbia	Aphis craccivora	0.242041722942925
+Midwest	Aphids	Crookston	Aphis craccivora	-0.67081688793938
+Midwest	Aphids	DeKalb	Aphis craccivora	-1.49087779845811
+Midwest	Aphids	Dixon Springs	Aphis craccivora	-1.96254256900369
+Midwest	Aphids	DPAC	Aphis craccivora	-1.84030139692087
+Midwest	Aphids	East Lansing	Aphis craccivora	-0.773997873440197
+Midwest	Aphids	Eau Claire	Aphis craccivora	0.783907615504555
+Midwest	Aphids	Hancock	Aphis craccivora	-1.99748937288055
+Midwest	Aphids	Kellogg	Aphis craccivora	0.551936352695902
+Midwest	Aphids	Lamberton	Aphis craccivora	-0.634684605900399
+Midwest	Aphids	Lancaster	Aphis craccivora	-1.70536982103302
+Midwest	Aphids	Manhattan	Aphis craccivora	-0.334616975798401
+Midwest	Aphids	McNay	Aphis craccivora	-1.80256853801567
+Midwest	Aphids	Monmouth	Aphis craccivora	-1.57296121025292
+Midwest	Aphids	Monroe	Aphis craccivora	-1.79192458066993
+Midwest	Aphids	Morris_IL	Aphis craccivora	-1.17935426035122
+Midwest	Aphids	Morris_MN	Aphis craccivora	-0.671387994334346
+Midwest	Aphids	Nashua	Aphis craccivora	-2.24257727281736
+Midwest	Aphids	NEPAC	Aphis craccivora	-1.20465364125209
+Midwest	Aphids	Orr	Aphis craccivora	-1.73240686672706
+Midwest	Aphids	PPAC	Aphis craccivora	-1.68126620516146
+Midwest	Aphids	Rosemount	Aphis craccivora	-2.01033938475424
+Midwest	Aphids	SEPAC	Aphis craccivora	-2.30800550295223
+Midwest	Aphids	Seymour	Aphis craccivora	-3.99720089398133
+Midwest	Aphids	Sutherland	Aphis craccivora	-2.33605931840524
+Midwest	Aphids	Urbana-Champaign-II	Aphis craccivora	-1.54858948417345
+Midwest	Aphids	Walworth	Aphis craccivora	-2.13162403726597
+Midwest	Aphids	Antigo	Aphis fabae	-0.49079215676417
+Midwest	Aphids	Arlington	Aphis fabae	-2.2106080885446
+Midwest	Aphids	DPAC	Aphis fabae	1.68015442266882
+Midwest	Aphids	East Lansing	Aphis fabae	-0.925391822866345
+Midwest	Aphids	Kellogg	Aphis fabae	0.905714203978152
+Midwest	Aphids	Monroe	Aphis fabae	1.08183511460223
+Midwest	Aphids	PPAC	Aphis fabae	2.0897424161926
+Midwest	Aphids	Sutherland	Aphis fabae	-0.745875652082112
+Midwest	Aphids	Hancock	Aphis folsomii	1.57529897216776
+Midwest	Aphids	Ames	Aphis glycines	-2.48887398149733
+Midwest	Aphids	Antigo	Aphis glycines	0.0279726314122485
+Midwest	Aphids	Arlington	Aphis glycines	-1.02849952590302
+Midwest	Aphids	Columbia	Aphis glycines	-1.25196395526817
+Midwest	Aphids	Crookston	Aphis glycines	-0.505367876539478
+Midwest	Aphids	DeKalb	Aphis glycines	-1.4729212152455
+Midwest	Aphids	Dixon Springs	Aphis glycines	-1.39681013227304
+Midwest	Aphids	DPAC	Aphis glycines	-0.398375971015402
+Midwest	Aphids	East Lansing	Aphis glycines	-1.44666888375626
+Midwest	Aphids	Eau Claire	Aphis glycines	-0.951694540282913
+Midwest	Aphids	Hancock	Aphis glycines	-0.811260133616605
+Midwest	Aphids	Kellogg	Aphis glycines	-0.394054223681014
+Midwest	Aphids	Lamberton	Aphis glycines	-1.62667341535846
+Midwest	Aphids	Lancaster	Aphis glycines	-1.9841148764461
+Midwest	Aphids	Manhattan	Aphis glycines	-1.06137422643183
+Midwest	Aphids	McNay	Aphis glycines	-0.948473404303606
+Midwest	Aphids	Monmouth	Aphis glycines	-0.811231720032248
+Midwest	Aphids	Monroe	Aphis glycines	-0.996342578964121
+Midwest	Aphids	Morris_IL	Aphis glycines	-2.16982326115204
+Midwest	Aphids	Morris_MN	Aphis glycines	-0.987931129762177
+Midwest	Aphids	Nashua	Aphis glycines	-1.5387909815605
+Midwest	Aphids	NEPAC	Aphis glycines	-0.89598141752899
+Midwest	Aphids	Orr	Aphis glycines	-1.58139702757353
+Midwest	Aphids	PPAC	Aphis glycines	-1.4343819717894
+Midwest	Aphids	Rosemount	Aphis glycines	-1.49967861895989
+Midwest	Aphids	SEPAC	Aphis glycines	-1.55780771295573
+Midwest	Aphids	Seymour	Aphis glycines	-2.43816581380922
+Midwest	Aphids	Sutherland	Aphis glycines	-0.860828970161841
+Midwest	Aphids	Urbana-Champaign-II	Aphis glycines	-1.50731570763123
+Midwest	Aphids	Walworth	Aphis glycines	-1.87113358500879
+Midwest	Aphids	Ames	Aphis gossypii	-1.49931551508117
+Midwest	Aphids	Antigo	Aphis gossypii	-0.516414887858871
+Midwest	Aphids	Arlington	Aphis gossypii	-1.85777274644097
+Midwest	Aphids	Columbia	Aphis gossypii	1.61161561773633
+Midwest	Aphids	Crookston	Aphis gossypii	-1.22178732593845
+Midwest	Aphids	DeKalb	Aphis gossypii	0.538622733833216
+Midwest	Aphids	Dixon Springs	Aphis gossypii	-1.00595185015617
+Midwest	Aphids	DPAC	Aphis gossypii	-0.853886860550231
+Midwest	Aphids	East Lansing	Aphis gossypii	-0.988587654627966
+Midwest	Aphids	Eau Claire	Aphis gossypii	-0.232818394948541
+Midwest	Aphids	Hancock	Aphis gossypii	-0.844963249845806
+Midwest	Aphids	Kellogg	Aphis gossypii	0.335358931115431
+Midwest	Aphids	Lamberton	Aphis gossypii	-0.344623709745467
+Midwest	Aphids	Lancaster	Aphis gossypii	0.0328576059797826
+Midwest	Aphids	Manhattan	Aphis gossypii	0.772106353022846
+Midwest	Aphids	McNay	Aphis gossypii	-1.81222933464856
+Midwest	Aphids	Monmouth	Aphis gossypii	1.83000698109066
+Midwest	Aphids	Monroe	Aphis gossypii	-0.640971440502761
+Midwest	Aphids	Morris_IL	Aphis gossypii	-1.60295610032673
+Midwest	Aphids	Morris_MN	Aphis gossypii	-0.136633004523543
+Midwest	Aphids	Nashua	Aphis gossypii	-1.71445290308008
+Midwest	Aphids	NEPAC	Aphis gossypii	-0.801700807839908
+Midwest	Aphids	Orr	Aphis gossypii	2.0218883429183
+Midwest	Aphids	PPAC	Aphis gossypii	-0.89077217385967
+Midwest	Aphids	Rosemount	Aphis gossypii	0.295177357424447
+Midwest	Aphids	SEPAC	Aphis gossypii	-0.480691480509072
+Midwest	Aphids	Seymour	Aphis gossypii	0.144520318796825
+Midwest	Aphids	Sutherland	Aphis gossypii	-0.180212594235403
+Midwest	Aphids	Urbana-Champaign-II	Aphis gossypii	-0.269714022813172
+Midwest	Aphids	Walworth	Aphis gossypii	0.091028351559206
+Midwest	Aphids	Ames	Aphis nasturtii	-1.71357334469034
+Midwest	Aphids	Antigo	Aphis nasturtii	-0.935994420715584
+Midwest	Aphids	Arlington	Aphis nasturtii	-0.142607636556134
+Midwest	Aphids	Columbia	Aphis nasturtii	-0.391109073041497
+Midwest	Aphids	Crookston	Aphis nasturtii	-0.631170253951648
+Midwest	Aphids	DeKalb	Aphis nasturtii	-0.386761589090065
+Midwest	Aphids	DPAC	Aphis nasturtii	0.117128876707271
+Midwest	Aphids	East Lansing	Aphis nasturtii	-1.14831683354225
+Midwest	Aphids	Eau Claire	Aphis nasturtii	-0.44074851385033
+Midwest	Aphids	Hancock	Aphis nasturtii	0.8184928735841
+Midwest	Aphids	Kellogg	Aphis nasturtii	0.743344723774099
+Midwest	Aphids	Lamberton	Aphis nasturtii	-0.161427956097693
+Midwest	Aphids	Lancaster	Aphis nasturtii	-0.408689637930346
+Midwest	Aphids	Manhattan	Aphis nasturtii	-1.03906285546927
+Midwest	Aphids	McNay	Aphis nasturtii	-1.86362138315847
+Midwest	Aphids	Monmouth	Aphis nasturtii	-0.391171892840394
+Midwest	Aphids	Monroe	Aphis nasturtii	-0.523794687414265
+Midwest	Aphids	Morris_IL	Aphis nasturtii	0.0286259568222428
+Midwest	Aphids	Morris_MN	Aphis nasturtii	-1.03433794017334
+Midwest	Aphids	Nashua	Aphis nasturtii	-0.599028274823356
+Midwest	Aphids	NEPAC	Aphis nasturtii	0.28355877483355
+Midwest	Aphids	Orr	Aphis nasturtii	1.22572136996984
+Midwest	Aphids	PPAC	Aphis nasturtii	-0.984305641934953
+Midwest	Aphids	Rosemount	Aphis nasturtii	-0.362086793044409
+Midwest	Aphids	SEPAC	Aphis nasturtii	-0.337460795531243
+Midwest	Aphids	Seymour	Aphis nasturtii	-0.59120065405189
+Midwest	Aphids	Sutherland	Aphis nasturtii	-0.638439245545418
+Midwest	Aphids	Urbana-Champaign-II	Aphis nasturtii	-0.861006189914974
+Midwest	Aphids	Walworth	Aphis nasturtii	-1.13491929636
+Midwest	Aphids	Columbia	Aphis nerii	2.33195954536468
+Midwest	Aphids	Manhattan	Aphis nerii	1.63715460568536
+Midwest	Aphids	Monmouth	Aphis nerii	0.596314592714534
+Midwest	Aphids	Monroe	Aphis nerii	2.03859886125478
+Midwest	Aphids	PPAC	Aphis nerii	0.640971538057806
+Midwest	Aphids	SEPAC	Aphis nerii	-0.156344338038715
+Midwest	Aphids	Urbana-Champaign-II	Aphis nerii	0.415700046098506
+Midwest	Aphids	Sutherland	Aphis polygonata	-0.689611106148576
+Midwest	Aphids	Antigo	Aphis sambuci	0.699720953055505
+Midwest	Aphids	Arlington	Aphis sambuci	-0.0750396924566244
+Midwest	Aphids	Hancock	Aphis sambuci	1.2713140344362
+Midwest	Aphids	Nashua	Aphis sambuci	-0.00518700862906293
+Midwest	Aphids	Ames	Aphis spiraecola	-2.29607374904076
+Midwest	Aphids	Antigo	Aphis spiraecola	1.0275235757716
+Midwest	Aphids	Arlington	Aphis spiraecola	-0.87154060420018
+Midwest	Aphids	Columbia	Aphis spiraecola	1.26192555915673
+Midwest	Aphids	Crookston	Aphis spiraecola	-0.951189995917109
+Midwest	Aphids	DeKalb	Aphis spiraecola	-0.736296200895138
+Midwest	Aphids	Dixon Springs	Aphis spiraecola	-8.75853937094593e-11
+Midwest	Aphids	DPAC	Aphis spiraecola	-0.501830045624934
+Midwest	Aphids	East Lansing	Aphis spiraecola	-1.21905296052836
+Midwest	Aphids	Eau Claire	Aphis spiraecola	-1.62898762661787
+Midwest	Aphids	Hancock	Aphis spiraecola	-0.0290046660055092
+Midwest	Aphids	Kellogg	Aphis spiraecola	-1.31054133196529
+Midwest	Aphids	Lamberton	Aphis spiraecola	-1.43901555200339
+Midwest	Aphids	Lancaster	Aphis spiraecola	-0.838663622161236
+Midwest	Aphids	Manhattan	Aphis spiraecola	0.745933950574425
+Midwest	Aphids	McNay	Aphis spiraecola	-1.08571752982981
+Midwest	Aphids	Monmouth	Aphis spiraecola	0.453109670863436
+Midwest	Aphids	Monroe	Aphis spiraecola	0.440252997154684
+Midwest	Aphids	Morris_IL	Aphis spiraecola	-1.24698418314859
+Midwest	Aphids	Morris_MN	Aphis spiraecola	-1.74653119247925
+Midwest	Aphids	Nashua	Aphis spiraecola	-0.631203837957381
+Midwest	Aphids	NEPAC	Aphis spiraecola	0.69060084014517
+Midwest	Aphids	Orr	Aphis spiraecola	0.696441031449709
+Midwest	Aphids	PPAC	Aphis spiraecola	-0.0115661961529861
+Midwest	Aphids	Rosemount	Aphis spiraecola	-0.740257484959406
+Midwest	Aphids	SEPAC	Aphis spiraecola	-0.251546887487674
+Midwest	Aphids	Seymour	Aphis spiraecola	-1.52948707647859
+Midwest	Aphids	Sutherland	Aphis spiraecola	-2.03192970458408
+Midwest	Aphids	Urbana-Champaign-II	Aphis spiraecola	-0.334022920251041
+Midwest	Aphids	Walworth	Aphis spiraecola	-2.09680230776856
+Midwest	Aphids	Monroe	Calaphis betulella	-0.433528015863349
+Midwest	Aphids	PPAC	Calaphis betulella	0.815219581641281
+Midwest	Aphids	Ames	Capitophorus elaeagni	-2.50143535435597
+Midwest	Aphids	Antigo	Capitophorus elaeagni	-2.20667618640197
+Midwest	Aphids	Arlington	Capitophorus elaeagni	-2.39141165652342
+Midwest	Aphids	Columbia	Capitophorus elaeagni	-0.875802510216278
+Midwest	Aphids	Crookston	Capitophorus elaeagni	-1.22328318218744
+Midwest	Aphids	DeKalb	Capitophorus elaeagni	-2.60445819128198
+Midwest	Aphids	DPAC	Capitophorus elaeagni	-2.18917321112684
+Midwest	Aphids	East Lansing	Capitophorus elaeagni	-1.72321085635454
+Midwest	Aphids	Eau Claire	Capitophorus elaeagni	0.17379288841866
+Midwest	Aphids	Hancock	Capitophorus elaeagni	-1.51013661389927
+Midwest	Aphids	Kellogg	Capitophorus elaeagni	-0.567672413135439
+Midwest	Aphids	Lamberton	Capitophorus elaeagni	-1.02757527533929
+Midwest	Aphids	Lancaster	Capitophorus elaeagni	-2.65741140320311
+Midwest	Aphids	Manhattan	Capitophorus elaeagni	0.96639585994086
+Midwest	Aphids	McNay	Capitophorus elaeagni	-2.36246106606934
+Midwest	Aphids	Monmouth	Capitophorus elaeagni	0.670686336344476
+Midwest	Aphids	Monroe	Capitophorus elaeagni	-1.56579879033268
+Midwest	Aphids	Morris_IL	Capitophorus elaeagni	-1.04814055654222
+Midwest	Aphids	Morris_MN	Capitophorus elaeagni	-0.205836382483553
+Midwest	Aphids	Nashua	Capitophorus elaeagni	-1.99657142201166
+Midwest	Aphids	NEPAC	Capitophorus elaeagni	-2.08085244386532
+Midwest	Aphids	Orr	Capitophorus elaeagni	-1.0362505856497
+Midwest	Aphids	PPAC	Capitophorus elaeagni	-2.15624469165429
+Midwest	Aphids	Rosemount	Capitophorus elaeagni	-1.94985976386337
+Midwest	Aphids	SEPAC	Capitophorus elaeagni	-2.22031502524947
+Midwest	Aphids	Seymour	Capitophorus elaeagni	-3.40003863499014
+Midwest	Aphids	Sutherland	Capitophorus elaeagni	-1.22769588058036
+Midwest	Aphids	Urbana-Champaign-II	Capitophorus elaeagni	-1.30440363787115
+Midwest	Aphids	Walworth	Capitophorus elaeagni	-2.18801086127668
+Midwest	Aphids	Ames	Capitophorus hippophaes	-1.49761621638571
+Midwest	Aphids	Antigo	Capitophorus hippophaes	0.777073824532861
+Midwest	Aphids	Arlington	Capitophorus hippophaes	-0.667550207614839
+Midwest	Aphids	Columbia	Capitophorus hippophaes	-0.136763430248466
+Midwest	Aphids	DeKalb	Capitophorus hippophaes	0.174279276102847
+Midwest	Aphids	Dixon Springs	Capitophorus hippophaes	-1.89547988671029
+Midwest	Aphids	DPAC	Capitophorus hippophaes	-1.82550678484356
+Midwest	Aphids	East Lansing	Capitophorus hippophaes	-1.67296084083051
+Midwest	Aphids	Hancock	Capitophorus hippophaes	0.208494919336592
+Midwest	Aphids	Kellogg	Capitophorus hippophaes	-0.454943103242314
+Midwest	Aphids	Lamberton	Capitophorus hippophaes	1.80922831923269
+Midwest	Aphids	Lancaster	Capitophorus hippophaes	-1.45533891933513
+Midwest	Aphids	Manhattan	Capitophorus hippophaes	1.17680287514968
+Midwest	Aphids	McNay	Capitophorus hippophaes	-2.12048158456789
+Midwest	Aphids	Monmouth	Capitophorus hippophaes	0.831226236393056
+Midwest	Aphids	Monroe	Capitophorus hippophaes	-0.690453184666353
+Midwest	Aphids	Morris_IL	Capitophorus hippophaes	-0.210616845061752
+Midwest	Aphids	Morris_MN	Capitophorus hippophaes	0.394177811822579
+Midwest	Aphids	Nashua	Capitophorus hippophaes	-0.675252785440251
+Midwest	Aphids	NEPAC	Capitophorus hippophaes	-0.539947611531218
+Midwest	Aphids	Orr	Capitophorus hippophaes	-1.29464436296121
+Midwest	Aphids	PPAC	Capitophorus hippophaes	0.134658679615493
+Midwest	Aphids	Rosemount	Capitophorus hippophaes	-0.521832174310435
+Midwest	Aphids	SEPAC	Capitophorus hippophaes	-1.07600885913365
+Midwest	Aphids	Seymour	Capitophorus hippophaes	-1.85253000613355
+Midwest	Aphids	Sutherland	Capitophorus hippophaes	0.274661248081956
+Midwest	Aphids	Urbana-Champaign-II	Capitophorus hippophaes	-0.282748990841513
+Midwest	Aphids	Walworth	Capitophorus hippophaes	-0.46773959432817
+Midwest	Aphids	Antigo	Cavariella aegopodii	-1.12954795052217
+Midwest	Aphids	Arlington	Cavariella aegopodii	-0.63942466643318
+Midwest	Aphids	East Lansing	Cavariella aegopodii	1.38925877906486
+Midwest	Aphids	Kellogg	Cavariella aegopodii	1.0322725998403
+Midwest	Aphids	Monroe	Cavariella aegopodii	-0.969056741923523
+Midwest	Aphids	Antigo	Chaitophorus populicola	-2.66552871503146
+Midwest	Aphids	Arlington	Chaitophorus populicola	-0.722031895213004
+Midwest	Aphids	Crookston	Chaitophorus populicola	0.333301649673724
+Midwest	Aphids	Hancock	Chaitophorus populicola	1.02208634611812
+Midwest	Aphids	Lamberton	Chaitophorus populicola	2.0715875590718
+Midwest	Aphids	Nashua	Chaitophorus populicola	-0.617967344589943
+Midwest	Aphids	Rosemount	Chaitophorus populicola	-1.72044884081899
+Midwest	Aphids	Seymour	Chaitophorus populicola	-2.88579824665963
+Midwest	Aphids	Sutherland	Chaitophorus populicola	-1.24005064218951
+Midwest	Aphids	Antigo	Colopha ulmicola	1.59650711416413
+Midwest	Aphids	Arlington	Colopha ulmicola	-0.652621383839184
+Midwest	Aphids	DeKalb	Colopha ulmicola	0.802483550211822
+Midwest	Aphids	DPAC	Colopha ulmicola	0.656261595092137
+Midwest	Aphids	East Lansing	Colopha ulmicola	-1.21001767195286
+Midwest	Aphids	Hancock	Colopha ulmicola	-0.620847613902693
+Midwest	Aphids	Kellogg	Colopha ulmicola	0.405582052533085
+Midwest	Aphids	Monmouth	Colopha ulmicola	0.397986422190458
+Midwest	Aphids	Monroe	Colopha ulmicola	-0.999061379146702
+Midwest	Aphids	NEPAC	Colopha ulmicola	-0.665951778544984
+Midwest	Aphids	Orr	Colopha ulmicola	-0.611736649083891
+Midwest	Aphids	PPAC	Colopha ulmicola	-0.505396691227694
+Midwest	Aphids	SEPAC	Colopha ulmicola	-1.81564314504933
+Midwest	Aphids	Sutherland	Colopha ulmicola	0.731246114750404
+Midwest	Aphids	Urbana-Champaign-II	Colopha ulmicola	-2.51622666094368
+Midwest	Aphids	Antigo	Drepanaphis acerifoliae	-0.268237845317153
+Midwest	Aphids	Hancock	Drepanaphis acerifoliae	-0.100288928355878
+Midwest	Aphids	SEPAC	Drepanaphis acerifoliae	2.33682832172041
+Midwest	Aphids	Antigo	Dysaphis plantaginea	0.760195701393632
+Midwest	Aphids	DPAC	Dysaphis plantaginea	-0.126639336507291
+Midwest	Aphids	East Lansing	Dysaphis plantaginea	-2.04647783548255
+Midwest	Aphids	Kellogg	Dysaphis plantaginea	0.103679305646094
+Midwest	Aphids	Monroe	Dysaphis plantaginea	2.25298550975185
+Midwest	Aphids	NEPAC	Dysaphis plantaginea	0.419159328243973
+Midwest	Aphids	PPAC	Dysaphis plantaginea	-1.00186227722823
+Midwest	Aphids	SEPAC	Dysaphis plantaginea	-1.35414705211091
+Midwest	Aphids	Arlington	Forda marginata	-1.95288669246072
+Midwest	Aphids	Hancock	Forda marginata	-2.27632360449115
+Midwest	Aphids	Kellogg	Forda marginata	-1.76713456959605
+Midwest	Aphids	Lamberton	Forda marginata	-1.25849571698852
+Midwest	Aphids	Lancaster	Forda marginata	-2.58278023354217
+Midwest	Aphids	Nashua	Forda marginata	-0.929097057109339
+Midwest	Aphids	Orr	Forda marginata	-1.65804414140246
+Midwest	Aphids	Rosemount	Forda marginata	-2.15886431479009
+Midwest	Aphids	SEPAC	Forda marginata	-1.37222126285688
+Midwest	Aphids	Sutherland	Forda marginata	-1.81565011130302
+Midwest	Aphids	Kellogg	Geoica utricularia	-1.75639129743923
+Midwest	Aphids	Monroe	Geoica utricularia	-0.646266377959215
+Midwest	Aphids	SEPAC	Geoica utricularia	-1.97060442978152
+Midwest	Aphids	Antigo	Hamamelistes spinosus	1.94932656574147
+Midwest	Aphids	Hancock	Hamamelistes spinosus	-0.0120586512947689
+Midwest	Aphids	Monroe	Hamamelistes spinosus	-0.700487156203376
+Midwest	Aphids	Antigo	Hayhurstia atriplicis	-1.59054246535939
+Midwest	Aphids	Eau Claire	Hayhurstia atriplicis	-0.968393663471225
+Midwest	Aphids	Hancock	Hayhurstia atriplicis	-0.462229850300015
+Midwest	Aphids	Kellogg	Hayhurstia atriplicis	4.99370773222494
+Midwest	Aphids	Lamberton	Hayhurstia atriplicis	-2.48404175735891
+Midwest	Aphids	Morris_MN	Hayhurstia atriplicis	-0.42581450208113
+Midwest	Aphids	Rosemount	Hayhurstia atriplicis	-1.98868181282089
+Midwest	Aphids	Ames	Hyadaphis foeniculi	0.0702933678720078
+Midwest	Aphids	Antigo	Hyadaphis foeniculi	-1.56625287814074
+Midwest	Aphids	Arlington	Hyadaphis foeniculi	-0.865689807212445
+Midwest	Aphids	Columbia	Hyadaphis foeniculi	2.20774585179996
+Midwest	Aphids	DeKalb	Hyadaphis foeniculi	-0.409632129041221
+Midwest	Aphids	Dixon Springs	Hyadaphis foeniculi	-2.27621877587781
+Midwest	Aphids	DPAC	Hyadaphis foeniculi	-1.53876839061842
+Midwest	Aphids	East Lansing	Hyadaphis foeniculi	-0.657020694776801
+Midwest	Aphids	Hancock	Hyadaphis foeniculi	0.939784226573179
+Midwest	Aphids	Kellogg	Hyadaphis foeniculi	1.68672073502728
+Midwest	Aphids	Lancaster	Hyadaphis foeniculi	0.0365468126961304
+Midwest	Aphids	Manhattan	Hyadaphis foeniculi	-0.743939299370735
+Midwest	Aphids	Monmouth	Hyadaphis foeniculi	-0.983933892922252
+Midwest	Aphids	Monroe	Hyadaphis foeniculi	1.43822055230099
+Midwest	Aphids	Morris_IL	Hyadaphis foeniculi	-1.63674915162816
+Midwest	Aphids	Nashua	Hyadaphis foeniculi	-1.73158949468524
+Midwest	Aphids	NEPAC	Hyadaphis foeniculi	0.0553652368710157
+Midwest	Aphids	Orr	Hyadaphis foeniculi	-0.330086734636656
+Midwest	Aphids	PPAC	Hyadaphis foeniculi	1.36808462502751
+Midwest	Aphids	SEPAC	Hyadaphis foeniculi	-1.95249083476278
+Midwest	Aphids	Sutherland	Hyadaphis foeniculi	0.279142842899181
+Midwest	Aphids	Urbana-Champaign-II	Hyadaphis foeniculi	-1.05893064579164
+Midwest	Aphids	Walworth	Hyadaphis foeniculi	0.725651566690457
+Midwest	Aphids	Ames	Hyalopterus pruni	-1.15284183111327
+Midwest	Aphids	Antigo	Hyalopterus pruni	0.188390302995969
+Midwest	Aphids	Arlington	Hyalopterus pruni	-1.38665782638116
+Midwest	Aphids	Crookston	Hyalopterus pruni	-0.143949902298122
+Midwest	Aphids	DeKalb	Hyalopterus pruni	0.111236686949782
+Midwest	Aphids	East Lansing	Hyalopterus pruni	-1.07512656005079
+Midwest	Aphids	Eau Claire	Hyalopterus pruni	-0.010255089074902
+Midwest	Aphids	Hancock	Hyalopterus pruni	0.257575220626159
+Midwest	Aphids	Kellogg	Hyalopterus pruni	-0.786645185013559
+Midwest	Aphids	Lamberton	Hyalopterus pruni	-0.340764254426
+Midwest	Aphids	Lancaster	Hyalopterus pruni	-1.99558640411702
+Midwest	Aphids	Monmouth	Hyalopterus pruni	1.28500643164625
+Midwest	Aphids	Monroe	Hyalopterus pruni	-0.42317362832497
+Midwest	Aphids	Morris_IL	Hyalopterus pruni	-2.29644418227934
+Midwest	Aphids	Morris_MN	Hyalopterus pruni	-1.20171261473009
+Midwest	Aphids	Nashua	Hyalopterus pruni	-1.37696131373693
+Midwest	Aphids	NEPAC	Hyalopterus pruni	-1.42163030614858
+Midwest	Aphids	PPAC	Hyalopterus pruni	-0.906113111922674
+Midwest	Aphids	Rosemount	Hyalopterus pruni	-1.38038933274384
+Midwest	Aphids	Seymour	Hyalopterus pruni	-2.40302763180076
+Midwest	Aphids	Sutherland	Hyalopterus pruni	-1.70357175250056
+Midwest	Aphids	Walworth	Hyalopterus pruni	-0.724253519872382
+Midwest	Aphids	Ames	Hysteroneura setariae	-0.865528042147722
+Midwest	Aphids	Columbia	Hysteroneura setariae	-0.966486690742248
+Midwest	Aphids	Dixon Springs	Hysteroneura setariae	-2.55806699125366
+Midwest	Aphids	Hancock	Hysteroneura setariae	-1.01757221663408
+Midwest	Aphids	Manhattan	Hysteroneura setariae	-0.115640783461259
+Midwest	Aphids	Monroe	Hysteroneura setariae	1.75396655586395
+Midwest	Aphids	Morris_MN	Hysteroneura setariae	0.552627204105622
+Midwest	Aphids	Nashua	Hysteroneura setariae	-1.76865543538708
+Midwest	Aphids	Orr	Hysteroneura setariae	-1.1932520481872
+Midwest	Aphids	SEPAC	Hysteroneura setariae	-0.934169267620974
+Midwest	Aphids	Sutherland	Hysteroneura setariae	-1.64968095200223
+Midwest	Aphids	Urbana-Champaign-II	Hysteroneura setariae	-1.73838472102497
+Midwest	Aphids	Hancock	Iziphya flabella	0.402529862048568
+Midwest	Aphids	Ames	Lipaphis pseudobrassicae	-1.81287466884083
+Midwest	Aphids	Antigo	Lipaphis pseudobrassicae	-2.05983541400399
+Midwest	Aphids	Arlington	Lipaphis pseudobrassicae	-2.1288035590026
+Midwest	Aphids	Columbia	Lipaphis pseudobrassicae	0.86534903695489
+Midwest	Aphids	Crookston	Lipaphis pseudobrassicae	0.429172968304917
+Midwest	Aphids	DeKalb	Lipaphis pseudobrassicae	-1.18479667717118
+Midwest	Aphids	Dixon Springs	Lipaphis pseudobrassicae	-0.608221203096962
+Midwest	Aphids	DPAC	Lipaphis pseudobrassicae	-2.30234856298714
+Midwest	Aphids	East Lansing	Lipaphis pseudobrassicae	-1.11546777357132
+Midwest	Aphids	Eau Claire	Lipaphis pseudobrassicae	0.612681884926171
+Midwest	Aphids	Hancock	Lipaphis pseudobrassicae	-1.34468818447118
+Midwest	Aphids	Kellogg	Lipaphis pseudobrassicae	-1.07023094474409
+Midwest	Aphids	Lamberton	Lipaphis pseudobrassicae	-0.658537394477508
+Midwest	Aphids	Lancaster	Lipaphis pseudobrassicae	-1.43230163266047
+Midwest	Aphids	Manhattan	Lipaphis pseudobrassicae	-0.0655059623857553
+Midwest	Aphids	McNay	Lipaphis pseudobrassicae	-2.31028514297976
+Midwest	Aphids	Monmouth	Lipaphis pseudobrassicae	-2.13096002233586
+Midwest	Aphids	Monroe	Lipaphis pseudobrassicae	-1.09588156719979
+Midwest	Aphids	Morris_IL	Lipaphis pseudobrassicae	-0.350713285311658
+Midwest	Aphids	Morris_MN	Lipaphis pseudobrassicae	-0.119740094895408
+Midwest	Aphids	Nashua	Lipaphis pseudobrassicae	-2.24781389830465
+Midwest	Aphids	NEPAC	Lipaphis pseudobrassicae	-2.21926865498968
+Midwest	Aphids	Orr	Lipaphis pseudobrassicae	-1.3535925139419
+Midwest	Aphids	PPAC	Lipaphis pseudobrassicae	-2.00737422588624
+Midwest	Aphids	Rosemount	Lipaphis pseudobrassicae	-2.02190191239439
+Midwest	Aphids	SEPAC	Lipaphis pseudobrassicae	-2.12931906300117
+Midwest	Aphids	Seymour	Lipaphis pseudobrassicae	-2.602943970668
+Midwest	Aphids	Sutherland	Lipaphis pseudobrassicae	-0.295660700019365
+Midwest	Aphids	Urbana-Champaign-II	Lipaphis pseudobrassicae	-1.57682454528562
+Midwest	Aphids	Walworth	Lipaphis pseudobrassicae	0.271664147385455
+Midwest	Aphids	Orr	Macrosiphoniella spp.	-0.785005302315192
+Midwest	Aphids	SEPAC	Macrosiphoniella spp.	-0.365738347949431
+Midwest	Aphids	Ames	Macrosiphum euphorbiae	-2.71292361120553
+Midwest	Aphids	Antigo	Macrosiphum euphorbiae	-2.1268154023485
+Midwest	Aphids	Arlington	Macrosiphum euphorbiae	-1.49082335554935
+Midwest	Aphids	Columbia	Macrosiphum euphorbiae	-0.527624700923348
+Midwest	Aphids	Crookston	Macrosiphum euphorbiae	-1.23193334480472
+Midwest	Aphids	DeKalb	Macrosiphum euphorbiae	-1.1250481938294
+Midwest	Aphids	Dixon Springs	Macrosiphum euphorbiae	-2.14325496827142
+Midwest	Aphids	DPAC	Macrosiphum euphorbiae	-2.52503808119579
+Midwest	Aphids	East Lansing	Macrosiphum euphorbiae	-1.69886036689118
+Midwest	Aphids	Eau Claire	Macrosiphum euphorbiae	-2.20074370702067
+Midwest	Aphids	Hancock	Macrosiphum euphorbiae	-1.26329383303753
+Midwest	Aphids	Kellogg	Macrosiphum euphorbiae	-1.43526642966936
+Midwest	Aphids	Lamberton	Macrosiphum euphorbiae	-1.90660759915755
+Midwest	Aphids	Lancaster	Macrosiphum euphorbiae	-2.29488932707809
+Midwest	Aphids	Manhattan	Macrosiphum euphorbiae	-0.227063787224946
+Midwest	Aphids	McNay	Macrosiphum euphorbiae	-1.79904285062874
+Midwest	Aphids	Monmouth	Macrosiphum euphorbiae	0.164797378174291
+Midwest	Aphids	Monroe	Macrosiphum euphorbiae	-0.670028003450677
+Midwest	Aphids	Morris_IL	Macrosiphum euphorbiae	-1.60000505788166
+Midwest	Aphids	Morris_MN	Macrosiphum euphorbiae	-0.0562474711455556
+Midwest	Aphids	Nashua	Macrosiphum euphorbiae	-1.34170074676811
+Midwest	Aphids	NEPAC	Macrosiphum euphorbiae	-1.40126380752411
+Midwest	Aphids	Orr	Macrosiphum euphorbiae	-0.619241478524205
+Midwest	Aphids	PPAC	Macrosiphum euphorbiae	-1.94969687059587
+Midwest	Aphids	Rosemount	Macrosiphum euphorbiae	-2.39451217556612
+Midwest	Aphids	SEPAC	Macrosiphum euphorbiae	-2.17842203861005
+Midwest	Aphids	Seymour	Macrosiphum euphorbiae	-2.7848057108985
+Midwest	Aphids	Sutherland	Macrosiphum euphorbiae	-2.430719579527
+Midwest	Aphids	Urbana-Champaign-II	Macrosiphum euphorbiae	-1.19480268992425
+Midwest	Aphids	Walworth	Macrosiphum euphorbiae	-1.65075131596855
+Midwest	Aphids	Orr	Monellia caryella	-0.781873403035864
+Midwest	Aphids	Hancock	Myzocallis spp.	2.18591912761911
+Midwest	Aphids	Antigo	Myzus lythri	-0.575292439101646
+Midwest	Aphids	Arlington	Myzus lythri	-0.729476857927236
+Midwest	Aphids	East Lansing	Myzus lythri	0.00761935007274531
+Midwest	Aphids	Hancock	Myzus lythri	0.241256127012379
+Midwest	Aphids	Kellogg	Myzus lythri	-0.671458012052983
+Midwest	Aphids	Monroe	Myzus lythri	0.0137274947589594
+Midwest	Aphids	Morris_MN	Myzus lythri	0.168390644737574
+Midwest	Aphids	PPAC	Myzus lythri	-0.525725549425886
+Midwest	Aphids	Rosemount	Myzus lythri	1.13402985572656
+Midwest	Aphids	Ames	Myzus persicae	-2.00985224076436
+Midwest	Aphids	Antigo	Myzus persicae	0.758071701721048
+Midwest	Aphids	Arlington	Myzus persicae	-0.431737840660092
+Midwest	Aphids	Columbia	Myzus persicae	-0.0892855100764473
+Midwest	Aphids	Crookston	Myzus persicae	-1.86381390179941
+Midwest	Aphids	DeKalb	Myzus persicae	0.69403352031464
+Midwest	Aphids	Dixon Springs	Myzus persicae	-0.542122258602434
+Midwest	Aphids	DPAC	Myzus persicae	-0.939714008919134
+Midwest	Aphids	East Lansing	Myzus persicae	-1.73934105589462
+Midwest	Aphids	Eau Claire	Myzus persicae	-0.166664367751249
+Midwest	Aphids	Hancock	Myzus persicae	1.715467075115
+Midwest	Aphids	Kellogg	Myzus persicae	-1.69130495335788
+Midwest	Aphids	Lamberton	Myzus persicae	-0.527317462510125
+Midwest	Aphids	Lancaster	Myzus persicae	-0.844040382468123
+Midwest	Aphids	Manhattan	Myzus persicae	0.979511157162674
+Midwest	Aphids	McNay	Myzus persicae	-0.690309433501972
+Midwest	Aphids	Monmouth	Myzus persicae	0.984314289895841
+Midwest	Aphids	Monroe	Myzus persicae	-1.9412307323264
+Midwest	Aphids	Morris_IL	Myzus persicae	-2.09617554161484
+Midwest	Aphids	Morris_MN	Myzus persicae	0.258556969927758
+Midwest	Aphids	Nashua	Myzus persicae	-0.957227045828197
+Midwest	Aphids	NEPAC	Myzus persicae	-2.01149587188389
+Midwest	Aphids	Orr	Myzus persicae	1.2895898949676
+Midwest	Aphids	PPAC	Myzus persicae	-1.49300143054778
+Midwest	Aphids	Rosemount	Myzus persicae	-2.54430883364865
+Midwest	Aphids	SEPAC	Myzus persicae	-1.95514976369527
+Midwest	Aphids	Seymour	Myzus persicae	-2.39264324877044
+Midwest	Aphids	Sutherland	Myzus persicae	-0.0899107863622789
+Midwest	Aphids	Urbana-Champaign-II	Myzus persicae	-2.1173411142679
+Midwest	Aphids	Walworth	Myzus persicae	0.467369476721623
+Midwest	Aphids	Antigo	Nearctaphis bakeri	-2.516260138945
+Midwest	Aphids	Arlington	Nearctaphis bakeri	-2.19596301361612
+Midwest	Aphids	DeKalb	Nearctaphis bakeri	1.14272660144898
+Midwest	Aphids	Hancock	Nearctaphis bakeri	0.35171634571526
+Midwest	Aphids	Kellogg	Nearctaphis bakeri	-1.72550359729248
+Midwest	Aphids	Lancaster	Nearctaphis bakeri	-1.18120657255867
+Midwest	Aphids	Monroe	Nearctaphis bakeri	-2.2820227871218
+Midwest	Aphids	Morris_MN	Nearctaphis bakeri	0.198387084105725
+Midwest	Aphids	PPAC	Nearctaphis bakeri	0.346389514733477
+Midwest	Aphids	Rosemount	Nearctaphis bakeri	0.489662528893391
+Midwest	Aphids	SEPAC	Nearctaphis bakeri	-0.634805300456304
+Midwest	Aphids	Walworth	Nearctaphis bakeri	-0.659891058949472
+Midwest	Aphids	Antigo	Nearctaphis crataegifoliae	-1.56597804846028
+Midwest	Aphids	Arlington	Nearctaphis crataegifoliae	1.03997391848979
+Midwest	Aphids	DPAC	Nearctaphis crataegifoliae	0.68070304069071
+Midwest	Aphids	East Lansing	Nearctaphis crataegifoliae	1.92388328363229
+Midwest	Aphids	Hancock	Nearctaphis crataegifoliae	0.56788663432108
+Midwest	Aphids	Kellogg	Nearctaphis crataegifoliae	-1.15143884827788
+Midwest	Aphids	Lancaster	Nearctaphis crataegifoliae	-1.99373604973338
+Midwest	Aphids	Monroe	Nearctaphis crataegifoliae	1.21007928739614
+Midwest	Aphids	Nashua	Nearctaphis crataegifoliae	0.95346778295515
+Midwest	Aphids	NEPAC	Nearctaphis crataegifoliae	1.28917869827229
+Midwest	Aphids	PPAC	Nearctaphis crataegifoliae	1.2229739797396
+Midwest	Aphids	SEPAC	Nearctaphis crataegifoliae	0.488640934105299
+Midwest	Aphids	Antigo	Prociphilus spp.	0.482372906315969
+Midwest	Aphids	Arlington	Prociphilus spp.	0.733146123587128
+Midwest	Aphids	Hancock	Prociphilus spp.	0.308814266768531
+Midwest	Aphids	Lancaster	Prociphilus spp.	0.876478490359653
+Midwest	Aphids	Ames	Protaphis middletonii	-2.68098341069622
+Midwest	Aphids	Antigo	Protaphis middletonii	-0.155789855856445
+Midwest	Aphids	Arlington	Protaphis middletonii	-2.44528679135846
+Midwest	Aphids	Crookston	Protaphis middletonii	-0.552526613044597
+Midwest	Aphids	DPAC	Protaphis middletonii	-0.893960556767693
+Midwest	Aphids	Eau Claire	Protaphis middletonii	0.0225031532546611
+Midwest	Aphids	Hancock	Protaphis middletonii	-1.47685154785594
+Midwest	Aphids	Kellogg	Protaphis middletonii	0.577419080643172
+Midwest	Aphids	Lamberton	Protaphis middletonii	-1.62155870607673
+Midwest	Aphids	Lancaster	Protaphis middletonii	-1.49538393973263
+Midwest	Aphids	Monmouth	Protaphis middletonii	-0.145092646235241
+Midwest	Aphids	Monroe	Protaphis middletonii	-1.16180464632804
+Midwest	Aphids	Morris_MN	Protaphis middletonii	0.179227082568163
+Midwest	Aphids	Nashua	Protaphis middletonii	-1.99748473637942
+Midwest	Aphids	NEPAC	Protaphis middletonii	-0.34919179460517
+Midwest	Aphids	PPAC	Protaphis middletonii	-1.85652646277994
+Midwest	Aphids	Rosemount	Protaphis middletonii	-1.29352734050426
+Midwest	Aphids	SEPAC	Protaphis middletonii	1.84280666161072
+Midwest	Aphids	Seymour	Protaphis middletonii	-2.40937255765149
+Midwest	Aphids	Sutherland	Protaphis middletonii	-3.45001424829165
+Midwest	Aphids	Urbana-Champaign-II	Protaphis middletonii	-0.976267494526583
+Midwest	Aphids	Antigo	Pterocallis alnifoliae	0.627398198490073
+Midwest	Aphids	Hancock	Pterocallis alnifoliae	1.03474966325032
+Midwest	Aphids	Kellogg	Rhopalosiphoninus staphyleae	0.554702907112433
+Midwest	Aphids	Antigo	Rhopalosiphum cerasifoliae	0.635625106473457
+Midwest	Aphids	Lamberton	Rhopalosiphum cerasifoliae	-0.141381016970075
+Midwest	Aphids	Nashua	Rhopalosiphum cerasifoliae	0.74497376323824
+Midwest	Aphids	Ames	Rhopalosiphum maidis	-2.68951047038352
+Midwest	Aphids	Antigo	Rhopalosiphum maidis	-2.43439416199362
+Midwest	Aphids	Arlington	Rhopalosiphum maidis	-2.0439289935752
+Midwest	Aphids	Columbia	Rhopalosiphum maidis	-1.14445352853981
+Midwest	Aphids	Crookston	Rhopalosiphum maidis	-0.961884171165481
+Midwest	Aphids	DeKalb	Rhopalosiphum maidis	-2.78407489800099
+Midwest	Aphids	Dixon Springs	Rhopalosiphum maidis	-2.87584640971863
+Midwest	Aphids	DPAC	Rhopalosiphum maidis	-1.03476965806243
+Midwest	Aphids	East Lansing	Rhopalosiphum maidis	-2.2259963339941
+Midwest	Aphids	Eau Claire	Rhopalosiphum maidis	-1.52439333428749
+Midwest	Aphids	Hancock	Rhopalosiphum maidis	-1.68266507672099
+Midwest	Aphids	Kellogg	Rhopalosiphum maidis	0.52465882427908
+Midwest	Aphids	Lamberton	Rhopalosiphum maidis	-1.62804258275067
+Midwest	Aphids	Lancaster	Rhopalosiphum maidis	-1.2833022654997
+Midwest	Aphids	Manhattan	Rhopalosiphum maidis	-0.0562075107334275
+Midwest	Aphids	McNay	Rhopalosiphum maidis	-2.60306834726105
+Midwest	Aphids	Monmouth	Rhopalosiphum maidis	-1.10919755163737
+Midwest	Aphids	Monroe	Rhopalosiphum maidis	-0.750341072195135
+Midwest	Aphids	Morris_IL	Rhopalosiphum maidis	-0.617514939616728
+Midwest	Aphids	Morris_MN	Rhopalosiphum maidis	-1.86391721119555
+Midwest	Aphids	Nashua	Rhopalosiphum maidis	-2.45978640901724
+Midwest	Aphids	NEPAC	Rhopalosiphum maidis	-1.63201131229606
+Midwest	Aphids	Orr	Rhopalosiphum maidis	-0.768160236340025
+Midwest	Aphids	PPAC	Rhopalosiphum maidis	-2.26993236601352
+Midwest	Aphids	Rosemount	Rhopalosiphum maidis	-2.08436473389319
+Midwest	Aphids	SEPAC	Rhopalosiphum maidis	-2.19799761363814
+Midwest	Aphids	Seymour	Rhopalosiphum maidis	-2.67904287843889
+Midwest	Aphids	Sutherland	Rhopalosiphum maidis	-1.08229838787942
+Midwest	Aphids	Urbana-Champaign-II	Rhopalosiphum maidis	-1.03916947147291
+Midwest	Aphids	Walworth	Rhopalosiphum maidis	-2.70589103793523
+Midwest	Aphids	Ames	Rhopalosiphum nymphaeae	-0.718533521306942
+Midwest	Aphids	Antigo	Rhopalosiphum nymphaeae	-0.0577195059814336
+Midwest	Aphids	Arlington	Rhopalosiphum nymphaeae	-1.75212426335533
+Midwest	Aphids	Columbia	Rhopalosiphum nymphaeae	0.0224484787176071
+Midwest	Aphids	Crookston	Rhopalosiphum nymphaeae	0.0394013215593868
+Midwest	Aphids	DeKalb	Rhopalosiphum nymphaeae	0.927540786537471
+Midwest	Aphids	DPAC	Rhopalosiphum nymphaeae	-0.184970727497773
+Midwest	Aphids	East Lansing	Rhopalosiphum nymphaeae	-1.62834543731837
+Midwest	Aphids	Eau Claire	Rhopalosiphum nymphaeae	-1.88856117219951
+Midwest	Aphids	Hancock	Rhopalosiphum nymphaeae	-0.267449022771215
+Midwest	Aphids	Kellogg	Rhopalosiphum nymphaeae	-0.0614403001837424
+Midwest	Aphids	Lamberton	Rhopalosiphum nymphaeae	1.39940437565758
+Midwest	Aphids	Lancaster	Rhopalosiphum nymphaeae	-1.2706670808619
+Midwest	Aphids	Manhattan	Rhopalosiphum nymphaeae	-1.3300531997976
+Midwest	Aphids	Monmouth	Rhopalosiphum nymphaeae	-1.52599767053325
+Midwest	Aphids	Monroe	Rhopalosiphum nymphaeae	1.20164916521448
+Midwest	Aphids	Morris_IL	Rhopalosiphum nymphaeae	-1.81362521156792
+Midwest	Aphids	Morris_MN	Rhopalosiphum nymphaeae	-1.03327462652499
+Midwest	Aphids	Nashua	Rhopalosiphum nymphaeae	-1.68898435427262
+Midwest	Aphids	NEPAC	Rhopalosiphum nymphaeae	0.0306230090731693
+Midwest	Aphids	Orr	Rhopalosiphum nymphaeae	0.458563544647451
+Midwest	Aphids	PPAC	Rhopalosiphum nymphaeae	-1.02451851326386
+Midwest	Aphids	Rosemount	Rhopalosiphum nymphaeae	-1.52182278388876
+Midwest	Aphids	SEPAC	Rhopalosiphum nymphaeae	0.369358707690478
+Midwest	Aphids	Seymour	Rhopalosiphum nymphaeae	-2.43068549197966
+Midwest	Aphids	Sutherland	Rhopalosiphum nymphaeae	-1.17766934050106
+Midwest	Aphids	Walworth	Rhopalosiphum nymphaeae	-0.808171145687104
+Midwest	Aphids	Ames	Rhopalosiphum oxyacanthae	-1.11458940245055
+Midwest	Aphids	Antigo	Rhopalosiphum oxyacanthae	0.247585459161069
+Midwest	Aphids	Arlington	Rhopalosiphum oxyacanthae	-1.7443992035875
+Midwest	Aphids	Crookston	Rhopalosiphum oxyacanthae	-0.458663578534479
+Midwest	Aphids	DeKalb	Rhopalosiphum oxyacanthae	-0.823235679153019
+Midwest	Aphids	Dixon Springs	Rhopalosiphum oxyacanthae	-1.82335765132952
+Midwest	Aphids	DPAC	Rhopalosiphum oxyacanthae	-1.11746387290245
+Midwest	Aphids	East Lansing	Rhopalosiphum oxyacanthae	-0.997801555374623
+Midwest	Aphids	Eau Claire	Rhopalosiphum oxyacanthae	-0.20892615960334
+Midwest	Aphids	Hancock	Rhopalosiphum oxyacanthae	-0.823788449323508
+Midwest	Aphids	Kellogg	Rhopalosiphum oxyacanthae	-1.8889721079884
+Midwest	Aphids	Lamberton	Rhopalosiphum oxyacanthae	0.330977240126947
+Midwest	Aphids	Lancaster	Rhopalosiphum oxyacanthae	-1.36249091839935
+Midwest	Aphids	Manhattan	Rhopalosiphum oxyacanthae	-0.949145029053977
+Midwest	Aphids	McNay	Rhopalosiphum oxyacanthae	-1.44271070872362
+Midwest	Aphids	Monmouth	Rhopalosiphum oxyacanthae	-0.209605853658101
+Midwest	Aphids	Monroe	Rhopalosiphum oxyacanthae	-0.0937523961926068
+Midwest	Aphids	Morris_IL	Rhopalosiphum oxyacanthae	-1.36437625242568
+Midwest	Aphids	Morris_MN	Rhopalosiphum oxyacanthae	-1.37565802432683
+Midwest	Aphids	Nashua	Rhopalosiphum oxyacanthae	0.195673200540835
+Midwest	Aphids	NEPAC	Rhopalosiphum oxyacanthae	-1.02102418399312
+Midwest	Aphids	Orr	Rhopalosiphum oxyacanthae	-1.60126920756541
+Midwest	Aphids	PPAC	Rhopalosiphum oxyacanthae	-1.60737064030878
+Midwest	Aphids	Rosemount	Rhopalosiphum oxyacanthae	-0.289710298158901
+Midwest	Aphids	SEPAC	Rhopalosiphum oxyacanthae	-0.735739129822377
+Midwest	Aphids	Sutherland	Rhopalosiphum oxyacanthae	-1.19284953021748
+Midwest	Aphids	Urbana-Champaign-II	Rhopalosiphum oxyacanthae	-0.126946151779003
+Midwest	Aphids	Walworth	Rhopalosiphum oxyacanthae	-1.22882519419845
+Midwest	Aphids	Ames	Rhopalosiphum padi	-2.85008997664746
+Midwest	Aphids	Antigo	Rhopalosiphum padi	-2.31274900461042
+Midwest	Aphids	Arlington	Rhopalosiphum padi	-1.79832551052117
+Midwest	Aphids	Columbia	Rhopalosiphum padi	-0.821794522062961
+Midwest	Aphids	Crookston	Rhopalosiphum padi	-1.55792800394931
+Midwest	Aphids	DeKalb	Rhopalosiphum padi	-0.0684215380301877
+Midwest	Aphids	Dixon Springs	Rhopalosiphum padi	-2.3260053820088
+Midwest	Aphids	DPAC	Rhopalosiphum padi	-2.44625645969213
+Midwest	Aphids	East Lansing	Rhopalosiphum padi	-1.74717378977657
+Midwest	Aphids	Eau Claire	Rhopalosiphum padi	-0.743241315790309
+Midwest	Aphids	Hancock	Rhopalosiphum padi	-0.62399790096939
+Midwest	Aphids	Kellogg	Rhopalosiphum padi	-0.949456666058723
+Midwest	Aphids	Lamberton	Rhopalosiphum padi	-1.42011503171844
+Midwest	Aphids	Lancaster	Rhopalosiphum padi	-2.00699335107274
+Midwest	Aphids	Manhattan	Rhopalosiphum padi	0.00175506093370667
+Midwest	Aphids	McNay	Rhopalosiphum padi	-0.279283411612756
+Midwest	Aphids	Monmouth	Rhopalosiphum padi	0.475263830665793
+Midwest	Aphids	Monroe	Rhopalosiphum padi	-1.65470374904392
+Midwest	Aphids	Morris_IL	Rhopalosiphum padi	-0.970616352889893
+Midwest	Aphids	Morris_MN	Rhopalosiphum padi	-0.387676855611003
+Midwest	Aphids	Nashua	Rhopalosiphum padi	-3.14392766936826
+Midwest	Aphids	NEPAC	Rhopalosiphum padi	-1.96988732755243
+Midwest	Aphids	Orr	Rhopalosiphum padi	-0.833228539482445
+Midwest	Aphids	PPAC	Rhopalosiphum padi	-2.04346599506965
+Midwest	Aphids	Rosemount	Rhopalosiphum padi	-2.08422715982029
+Midwest	Aphids	SEPAC	Rhopalosiphum padi	-1.36781118063159
+Midwest	Aphids	Seymour	Rhopalosiphum padi	-2.75767215065031
+Midwest	Aphids	Sutherland	Rhopalosiphum padi	-0.597575322020608
+Midwest	Aphids	Urbana-Champaign-II	Rhopalosiphum padi	-0.611441094902304
+Midwest	Aphids	Walworth	Rhopalosiphum padi	-0.443597554627812
+Midwest	Aphids	Ames	Rhopalosiphum rufiabdominale	-1.69920567263089
+Midwest	Aphids	Antigo	Rhopalosiphum rufiabdominale	-0.279965706144982
+Midwest	Aphids	Arlington	Rhopalosiphum rufiabdominale	-2.09290746139423
+Midwest	Aphids	Columbia	Rhopalosiphum rufiabdominale	-0.931649367547494
+Midwest	Aphids	Crookston	Rhopalosiphum rufiabdominale	-2.00526761275038
+Midwest	Aphids	DeKalb	Rhopalosiphum rufiabdominale	-0.266502874448355
+Midwest	Aphids	Dixon Springs	Rhopalosiphum rufiabdominale	-2.2763134813415
+Midwest	Aphids	DPAC	Rhopalosiphum rufiabdominale	-2.00149137469006
+Midwest	Aphids	East Lansing	Rhopalosiphum rufiabdominale	-6.87699276831622e-10
+Midwest	Aphids	Eau Claire	Rhopalosiphum rufiabdominale	-1.28891268665713
+Midwest	Aphids	Hancock	Rhopalosiphum rufiabdominale	-1.8886352011052
+Midwest	Aphids	Kellogg	Rhopalosiphum rufiabdominale	-1.18310087951605
+Midwest	Aphids	Lamberton	Rhopalosiphum rufiabdominale	-1.21096830001203
+Midwest	Aphids	Lancaster	Rhopalosiphum rufiabdominale	-1.63935033881162
+Midwest	Aphids	Manhattan	Rhopalosiphum rufiabdominale	-0.283109388185808
+Midwest	Aphids	McNay	Rhopalosiphum rufiabdominale	-1.90348396205266
+Midwest	Aphids	Monmouth	Rhopalosiphum rufiabdominale	0.0153253771576385
+Midwest	Aphids	Monroe	Rhopalosiphum rufiabdominale	-2.2466524594897
+Midwest	Aphids	Morris_IL	Rhopalosiphum rufiabdominale	0.415491657342317
+Midwest	Aphids	Morris_MN	Rhopalosiphum rufiabdominale	-1.93840257083969
+Midwest	Aphids	Nashua	Rhopalosiphum rufiabdominale	-1.96874470480611
+Midwest	Aphids	NEPAC	Rhopalosiphum rufiabdominale	-1.77246995000729
+Midwest	Aphids	Orr	Rhopalosiphum rufiabdominale	-1.62036807475132
+Midwest	Aphids	PPAC	Rhopalosiphum rufiabdominale	-2.18243787166991
+Midwest	Aphids	Rosemount	Rhopalosiphum rufiabdominale	-0.806856458823655
+Midwest	Aphids	SEPAC	Rhopalosiphum rufiabdominale	-2.12338885790031
+Midwest	Aphids	Seymour	Rhopalosiphum rufiabdominale	-1.71088850694366
+Midwest	Aphids	Sutherland	Rhopalosiphum rufiabdominale	-1.15387701413325
+Midwest	Aphids	Urbana-Champaign-II	Rhopalosiphum rufiabdominale	-1.73639809164824
+Midwest	Aphids	Walworth	Rhopalosiphum rufiabdominale	-1.45734561787477
+Midwest	Aphids	Ames	Schizaphis graminum	-0.527477736933741
+Midwest	Aphids	Antigo	Schizaphis graminum	-2.25422667796446
+Midwest	Aphids	Arlington	Schizaphis graminum	-1.60240214534593
+Midwest	Aphids	Columbia	Schizaphis graminum	0.389059525753877
+Midwest	Aphids	Crookston	Schizaphis graminum	-0.592756389036477
+Midwest	Aphids	DeKalb	Schizaphis graminum	0.528348510757794
+Midwest	Aphids	Dixon Springs	Schizaphis graminum	-2.37009426021602
+Midwest	Aphids	DPAC	Schizaphis graminum	-1.18885682842558
+Midwest	Aphids	East Lansing	Schizaphis graminum	-1.75722479563272
+Midwest	Aphids	Eau Claire	Schizaphis graminum	0.524994258854571
+Midwest	Aphids	Hancock	Schizaphis graminum	0.0016377474484062
+Midwest	Aphids	Kellogg	Schizaphis graminum	-0.642670610822907
+Midwest	Aphids	Lamberton	Schizaphis graminum	-0.183619124819674
+Midwest	Aphids	Lancaster	Schizaphis graminum	-1.41518153347218
+Midwest	Aphids	Manhattan	Schizaphis graminum	-1.29913787584716
+Midwest	Aphids	McNay	Schizaphis graminum	-0.62343861193583
+Midwest	Aphids	Monmouth	Schizaphis graminum	1.86612283015072
+Midwest	Aphids	Monroe	Schizaphis graminum	-1.6112414348743
+Midwest	Aphids	Morris_IL	Schizaphis graminum	-0.641256515162908
+Midwest	Aphids	Morris_MN	Schizaphis graminum	-1.85816029138954
+Midwest	Aphids	Nashua	Schizaphis graminum	0.775224058677077
+Midwest	Aphids	NEPAC	Schizaphis graminum	-0.973155922747736
+Midwest	Aphids	Orr	Schizaphis graminum	-0.252876997483242
+Midwest	Aphids	PPAC	Schizaphis graminum	-1.73445421215377
+Midwest	Aphids	Rosemount	Schizaphis graminum	-1.295953255512
+Midwest	Aphids	SEPAC	Schizaphis graminum	-0.672976340639165
+Midwest	Aphids	Seymour	Schizaphis graminum	-2.4276308277446
+Midwest	Aphids	Sutherland	Schizaphis graminum	1.02878534798872
+Midwest	Aphids	Urbana-Champaign-II	Schizaphis graminum	0.215605545896633
+Midwest	Aphids	Walworth	Schizaphis graminum	0.852036356640861
+Midwest	Aphids	Eau Claire	Sipha elegans	-0.410292529041678
+Midwest	Aphids	Hancock	Sipha elegans	-1.62109624790282
+Midwest	Aphids	Ames	Sitobion avenae	-0.988515051152728
+Midwest	Aphids	Antigo	Sitobion avenae	-1.61846945035179
+Midwest	Aphids	Arlington	Sitobion avenae	-0.604012681060675
+Midwest	Aphids	Columbia	Sitobion avenae	-0.107115939915534
+Midwest	Aphids	Crookston	Sitobion avenae	0.702711712874554
+Midwest	Aphids	DeKalb	Sitobion avenae	1.44701700420472
+Midwest	Aphids	Dixon Springs	Sitobion avenae	-2.30551410045685
+Midwest	Aphids	DPAC	Sitobion avenae	0.0162550135320194
+Midwest	Aphids	East Lansing	Sitobion avenae	-0.655888868260841
+Midwest	Aphids	Eau Claire	Sitobion avenae	-0.54425170875862
+Midwest	Aphids	Hancock	Sitobion avenae	-0.662454830616446
+Midwest	Aphids	Kellogg	Sitobion avenae	-0.17610802681641
+Midwest	Aphids	Lamberton	Sitobion avenae	-0.776725971578978
+Midwest	Aphids	Lancaster	Sitobion avenae	-0.501531868883814
+Midwest	Aphids	Manhattan	Sitobion avenae	1.44154535891591
+Midwest	Aphids	McNay	Sitobion avenae	0.784588656377507
+Midwest	Aphids	Monmouth	Sitobion avenae	1.43935327982403
+Midwest	Aphids	Monroe	Sitobion avenae	0.998192138965024
+Midwest	Aphids	Morris_IL	Sitobion avenae	-0.102072220659121
+Midwest	Aphids	Morris_MN	Sitobion avenae	0.940567491487215
+Midwest	Aphids	Nashua	Sitobion avenae	-2.17317973711855
+Midwest	Aphids	NEPAC	Sitobion avenae	-0.198845263961333
+Midwest	Aphids	Orr	Sitobion avenae	1.36404437622888
+Midwest	Aphids	PPAC	Sitobion avenae	0.0455386814456741
+Midwest	Aphids	Rosemount	Sitobion avenae	-0.31908232085703
+Midwest	Aphids	SEPAC	Sitobion avenae	0.260997753251738
+Midwest	Aphids	Seymour	Sitobion avenae	-2.35726732118513
+Midwest	Aphids	Sutherland	Sitobion avenae	1.75802939390791
+Midwest	Aphids	Urbana-Champaign-II	Sitobion avenae	0.306854132100764
+Midwest	Aphids	Walworth	Sitobion avenae	0.568637902480698
+Midwest	Aphids	Ames	Tetraneura spp.	-2.58878151409509
+Midwest	Aphids	Antigo	Tetraneura spp.	-3.28294632327693
+Midwest	Aphids	Arlington	Tetraneura spp.	2.36891030128966
+Midwest	Aphids	Columbia	Tetraneura spp.	-1.75316058484785
+Midwest	Aphids	DeKalb	Tetraneura spp.	-1.44012878925663
+Midwest	Aphids	DPAC	Tetraneura spp.	-2.07757971364144
+Midwest	Aphids	East Lansing	Tetraneura spp.	-1.79654278724254
+Midwest	Aphids	Hancock	Tetraneura spp.	1.02860559331273
+Midwest	Aphids	Kellogg	Tetraneura spp.	-1.63615259343967
+Midwest	Aphids	Lancaster	Tetraneura spp.	-1.4433491670833
+Midwest	Aphids	Manhattan	Tetraneura spp.	0.226140655749601
+Midwest	Aphids	Monmouth	Tetraneura spp.	-1.13094995277552
+Midwest	Aphids	Monroe	Tetraneura spp.	1.17778397985382
+Midwest	Aphids	Morris_IL	Tetraneura spp.	2.01767592650781
+Midwest	Aphids	Morris_MN	Tetraneura spp.	1.35099669644877
+Midwest	Aphids	Nashua	Tetraneura spp.	-1.06640814811714
+Midwest	Aphids	NEPAC	Tetraneura spp.	-2.35112641661148
+Midwest	Aphids	Orr	Tetraneura spp.	-1.12961469146138
+Midwest	Aphids	PPAC	Tetraneura spp.	-2.1407560925247
+Midwest	Aphids	Rosemount	Tetraneura spp.	-1.91168181775175
+Midwest	Aphids	SEPAC	Tetraneura spp.	-1.98631232569297
+Midwest	Aphids	Sutherland	Tetraneura spp.	-2.07476155208274
+Midwest	Aphids	Urbana-Champaign-II	Tetraneura spp.	-1.48871413345566
+Midwest	Aphids	Walworth	Tetraneura spp.	-1.60241681783144
+Midwest	Aphids	Lamberton	Therioaphis riehmi	-0.699335356516447
+Midwest	Aphids	Monroe	Therioaphis riehmi	-2.11208009488081
+Midwest	Aphids	Morris_IL	Therioaphis riehmi	0.829922446011315
+Midwest	Aphids	Morris_MN	Therioaphis riehmi	1.35592655588172
+Midwest	Aphids	Ames	Therioaphis trifolii	-2.83809647938128
+Midwest	Aphids	Antigo	Therioaphis trifolii	-2.39107647469554
+Midwest	Aphids	Arlington	Therioaphis trifolii	-1.34676522757669
+Midwest	Aphids	Columbia	Therioaphis trifolii	-0.279005823325099
+Midwest	Aphids	Crookston	Therioaphis trifolii	-0.693665198788116
+Midwest	Aphids	DeKalb	Therioaphis trifolii	-0.754339222840341
+Midwest	Aphids	Dixon Springs	Therioaphis trifolii	-2.83995690934123
+Midwest	Aphids	DPAC	Therioaphis trifolii	-1.91881895081211
+Midwest	Aphids	East Lansing	Therioaphis trifolii	0.231542827322388
+Midwest	Aphids	Eau Claire	Therioaphis trifolii	-0.210919098034011
+Midwest	Aphids	Hancock	Therioaphis trifolii	-0.856584945727535
+Midwest	Aphids	Kellogg	Therioaphis trifolii	0.95844256139062
+Midwest	Aphids	Lamberton	Therioaphis trifolii	-1.12986691110827
+Midwest	Aphids	Lancaster	Therioaphis trifolii	-1.83785486022354
+Midwest	Aphids	Manhattan	Therioaphis trifolii	0.595670524917101
+Midwest	Aphids	McNay	Therioaphis trifolii	-1.84881775467434
+Midwest	Aphids	Monmouth	Therioaphis trifolii	-0.464669395722062
+Midwest	Aphids	Monroe	Therioaphis trifolii	-1.92890912605888
+Midwest	Aphids	Morris_IL	Therioaphis trifolii	0.584108916817872
+Midwest	Aphids	Morris_MN	Therioaphis trifolii	-0.709811429834328
+Midwest	Aphids	Nashua	Therioaphis trifolii	-2.5169415620082
+Midwest	Aphids	NEPAC	Therioaphis trifolii	-1.49074797209513
+Midwest	Aphids	Orr	Therioaphis trifolii	-1.2223411109899
+Midwest	Aphids	PPAC	Therioaphis trifolii	-2.17133443520044
+Midwest	Aphids	Rosemount	Therioaphis trifolii	-2.57805340489182
+Midwest	Aphids	SEPAC	Therioaphis trifolii	-2.02206470396955
+Midwest	Aphids	Seymour	Therioaphis trifolii	-2.74953822135064
+Midwest	Aphids	Sutherland	Therioaphis trifolii	-2.04823085252066
+Midwest	Aphids	Urbana-Champaign-II	Therioaphis trifolii	-0.580789219898704
+Midwest	Aphids	Walworth	Therioaphis trifolii	-0.705870598138311
+Midwest	Aphids	Hancock	Thripsaphis spp.	0.285957482702204
+Midwest	Aphids	Lamberton	Thripsaphis spp.	1.37637026039001
+Midwest	Aphids	Kellogg	Tinocallis saltans	1.74050101031358
+Midwest	Aphids	Manhattan	Tinocallis saltans	0.117019855215755
+Midwest	Aphids	PPAC	Tinocallis saltans	-0.885075515825191
+Midwest	Aphids	Rosemount	Tinocallis saltans	0.0939629627178738
+Midwest	Aphids	Antigo	Uroleucon taraxaci	-1.25306106553396
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	ACARI	2.0019279147105
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	AESHN	-7.65112329791653
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	ANCYL	1.29886079665457
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	ASELD	-1.26806291632806
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	BAETI	-2.32219015343852
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	BAETI	0.203529436898291
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	BASIA	1.18305835510968
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	BASJAN	0.573947592722187
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	CAECI	-1.15674984707588
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	CAENI	0.492673132548147
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	CAENI	-1.24680341598495
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	CAENI	-1.87317313963228
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	CAENI	-1.72218249803902
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_67	CAENI	-1.33262861039795
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	CALLI	1.35404743152573
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	CENTROP	-0.0585878968240284
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	CERAT	-1.04085370290798
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	CERAT	-2.15921043167634
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	CERAT	-1.73459366571142
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	CHEATO	1.40789100619205
+NorthTemperateLakes	BenthicMacroinvertebrates	CR_43	CHIRO	0.422604655435377
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	CHIRO	-2.15146987175277
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_17	CHIRO	-0.820511634811951
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	CHIRO	-3.65282014445845
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	CHIRO	-2.04356604134177
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	CHIRO	-5.86792332463112
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_67	CHIRO	-4.10612633533662
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_7	CHIRO	-1.12054319622433
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_G	CHIRO	0.677681849927894
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	CHRIONI	1.11536180498728
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	COENA	1.2048593809781
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	COENA	-0.723464164328342
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	DASYH	-1.26943359425386
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	DIAMES	-0.0585878965715537
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	DUBIR	-2.01549791920922
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	DUBIR	-2.32399488621627
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	DUBMIN	1.37077674657198
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	DUBROB	0.856362503269143
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	ENAEBR	0.196462698044429
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	ENALL	-0.929936709044325
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	ENALL	-1.93201627975192
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	ENALL	-1.81420839961277
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	EPHED	-0.775948482745794
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_17	EPHED	-1.7657173609209
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	EPHEM	0.160871734960683
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	EPHRA	0.556223319261933
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	EPITH	-2.639649466653
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	EPITH	-8.62367808405632
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	ERPPUN	-1.46435927002098
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	EURYL	-1.34010944830951
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	EURYL	-1.92358797064273
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	GASTR	-0.998327088645299
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	GASTR	-3.04746774141485
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	GASTR	-2.69300002758786
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_67	GASTR	-1.85259191608939
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	GOMPHUS	-0.710319809262935
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	GYRAU	-1.55999658799423
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	HAGBRE	-0.496514341833847
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	HAGEN	-2.73912920866939
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	HALAC	2.0377028521031
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	HIRUD	-1.98275901005758
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	HIRUD	-2.20374622476786
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	HIRUD	-2.24044655263492
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_67	HIRUD	-2.13786479869706
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	HYALE	-2.04643815251898
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_17	HYALE	-1.98333853432041
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	HYALE	-1.40731972262055
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	HYALE	-0.094795786016529
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	HYALE	-0.854571571619941
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_67	HYALE	3.18874980496727
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_7	HYALE	-1.60225560474574
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_G	HYALE	-1.43029617951422
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	HYDRA	-0.560475284669797
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	HYDRB	-1.68210883624278
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	HYDRC	-2.35906215899867
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	HYDRC	0.664153025296879
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	HYDRO	-2.31489551334645
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	HYDRP	-1.36194450058254
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	LEPBI	-0.30847651809521
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	LEPTO	-2.31108481797971
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	LEPTO	-1.26741527325333
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	LEPTO	-1.4483847038314
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_67	LEPTO	-1.72620079205596
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	LEPTP	-0.795767448820937
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	LYMNA	-0.48010291011462
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	MYSTA	-2.37866921215921
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	MYSTA	-9.16981072857623
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	NAIDIN	1.17130853187767
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	NEMAT	9.1237707605267
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	NEMER	-1.83985028449677
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	NEMER	-0.190709220188758
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	OECET	-0.969386773131643
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	OECET	-1.51236618720612
+NorthTemperateLakes	BenthicMacroinvertebrates	CR_43	OLIGO	2.18405716988532
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	OLIGO	-0.676280923887989
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_17	OLIGO	-1.61255225917004
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	OLIGO	-0.988790690554112
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	OLIGO	-0.839207182357603
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	OLIGO	-1.4503179283742
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_67	OLIGO	-2.48765183295969
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_7	OLIGO	-4.48011163389891
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_G	OLIGO	1.03360646935747
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	ORBIT	-2.45845773754373
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	ORCON	-4.95418778347329
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	ORCON	-0.002652645128309
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	ORTHOC	0.80552581587075
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	OSTRA	-5.21404773019549
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_17	OSTRA	-1.99791692984336
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	OSTRA	-1.23270201537157
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	OSTRA	-2.96028884154838
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	OSTRA	-1.74648549338589
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_67	OSTRA	-1.82835023795748
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	OXYTH	0.768686950139304
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	OXYTH	-5.99047928941392
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	PALPOM	0.684277344001493
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	PARAL	-1.08471206828282
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	PELEC	-1.80043801318268
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	PELEC	0.317406991256554
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	PELEC	-0.981714052587705
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	PELEC	-0.0714346826792293
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	PHYSA	-0.886561479940499
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	PISIDM	0.906724816861301
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	PLANA	1.25281620321968
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	PLANO	-0.336547031388464
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	PLANO	1.13540720107364
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	POLYC	-1.04749149437918
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	POLYC	-2.2120005616915
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	POLYC	-1.58011893524652
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	POLYC	-0.61228241976813
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_67	POLYC	-2.37125408127295
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	POLYD	-2.31204252803122
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	PROCL	1.41245088935729
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	RIPPAR	0.905896253415317
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	SLAAPP	0.799497064425863
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	STEFEM	0.462338438512692
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	STENO	-1.66588184122426
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_17	STENO	-1.26397962997965
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_31	STENO	-1.05725333965157
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	STENO	1.03620126150126
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_56	STENO	-0.772366945031066
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_67	STENO	0.716240937081237
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_7	STENO	-0.711315881057809
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	STYLAC	-0.665031260544232
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	TANYP	1.63648479853771
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	TANYT	-3.04857115927889
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	TRIAE	-2.20978246570533
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	TRIAE	-2.76171100107909
+NorthTemperateLakes	BenthicMacroinvertebrates	SP_24	TRICH	-0.0513317596090691
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	TUBIMMWO	0.799497060991143
+NorthTemperateLakes	BenthicMacroinvertebrates	TR_50	TURBL	1.08572878876243
+NorthTemperateLakes	Crayfish1	AL_BSEINE	Orconectes propinquus	-0.419122767015996
+NorthTemperateLakes	Crayfish1	AL_CRAYTR	Orconectes propinquus	-2.00710225495593
+NorthTemperateLakes	Crayfish1	AL_FYKNET	Orconectes propinquus	-1.21741914531638
+NorthTemperateLakes	Crayfish1	BM_BSEINE	Orconectes propinquus	0.581206609684737
+NorthTemperateLakes	Crayfish1	BM_CRAYTR	Orconectes propinquus	4.05279606655826
+NorthTemperateLakes	Crayfish1	BM_FYKNET	Orconectes propinquus	3.305989178689
+NorthTemperateLakes	Crayfish1	SP_CRAYTR	Orconectes propinquus	-1.05884310115515
+NorthTemperateLakes	Crayfish1	TR_CRAYTR	Orconectes propinquus	-2.77977914073125
+NorthTemperateLakes	Crayfish1	SP_BSEINE	Orconectes rusticus	-2.1089104174201
+NorthTemperateLakes	Crayfish1	SP_CRAYTR	Orconectes rusticus	-1.69550669908222
+NorthTemperateLakes	Crayfish1	SP_FYKNET	Orconectes rusticus	1.30507953867256
+NorthTemperateLakes	Crayfish1	TR_BSEINE	Orconectes rusticus	3.2613321295037
+NorthTemperateLakes	Crayfish1	TR_CRAYTR	Orconectes rusticus	4.64586680967393
+NorthTemperateLakes	Crayfish1	TR_FYKNET	Orconectes rusticus	2.38499874666903
+NorthTemperateLakes	Crayfish1	BM_BSEINE	Orconectes virilis	0.938817883410795
+NorthTemperateLakes	Crayfish1	BM_CRAYTR	Orconectes virilis	-0.678379865253545
+NorthTemperateLakes	Crayfish1	SP_CRAYTR	Orconectes virilis	-0.409345466545541
+NorthTemperateLakes	Crayfish1	TR_CRAYTR	Orconectes virilis	-2.4093931211026
+NorthTemperateLakes	Crayfish2	SP	Orconectes rusticus	-2.56525755092403
+NorthTemperateLakes	Crayfish2	SP	Orconectes virilis	2.40089041852454
+NorthTemperateLakes	PelagicMacroinvertebrates	AL	CHAOBORUS LARVAE	0.787396528907258
+NorthTemperateLakes	PelagicMacroinvertebrates	BM	CHAOBORUS LARVAE	1.40771611773843
+NorthTemperateLakes	PelagicMacroinvertebrates	CB	CHAOBORUS LARVAE	-1.93431953882969
+NorthTemperateLakes	PelagicMacroinvertebrates	CR	CHAOBORUS LARVAE	-0.594185559202667
+NorthTemperateLakes	PelagicMacroinvertebrates	SP	CHAOBORUS LARVAE	-1.37388787696488
+NorthTemperateLakes	PelagicMacroinvertebrates	TB	CHAOBORUS LARVAE	-2.73473268309423
+NorthTemperateLakes	PelagicMacroinvertebrates	TR	CHAOBORUS LARVAE	-0.104088945651949
+NorthTemperateLakes	PelagicMacroinvertebrates	AL	CHAOBORUS PUPAE	1.25360304039405
+NorthTemperateLakes	PelagicMacroinvertebrates	BM	CHAOBORUS PUPAE	1.0393259596289
+NorthTemperateLakes	PelagicMacroinvertebrates	CB	CHAOBORUS PUPAE	0.665917440332554
+NorthTemperateLakes	PelagicMacroinvertebrates	CR	CHAOBORUS PUPAE	-0.715279123049012
+NorthTemperateLakes	PelagicMacroinvertebrates	SP	CHAOBORUS PUPAE	-2.00980666810565
+NorthTemperateLakes	PelagicMacroinvertebrates	TB	CHAOBORUS PUPAE	-2.15546749435604
+NorthTemperateLakes	PelagicMacroinvertebrates	TR	CHAOBORUS PUPAE	0.147147440906285
+NorthTemperateLakes	PelagicMacroinvertebrates	AL	LEPTODORA	-1.31806234010823
+NorthTemperateLakes	PelagicMacroinvertebrates	BM	LEPTODORA	0.19705696724412
+NorthTemperateLakes	PelagicMacroinvertebrates	CB	LEPTODORA	-1.43923053852721
+NorthTemperateLakes	PelagicMacroinvertebrates	CR	LEPTODORA	0.0461068924284098
+NorthTemperateLakes	PelagicMacroinvertebrates	SP	LEPTODORA	0.611894288558689
+NorthTemperateLakes	PelagicMacroinvertebrates	TB	LEPTODORA	-1.4385917530045
+NorthTemperateLakes	PelagicMacroinvertebrates	TR	LEPTODORA	-0.263451806968111
+NorthTemperateLakes	PelagicMacroinvertebrates	AL	MYSIS	-0.585417552873071
+NorthTemperateLakes	PelagicMacroinvertebrates	BM	MYSIS	-0.462442497470438
+NorthTemperateLakes	PelagicMacroinvertebrates	CR	MYSIS	-0.638950514889652
+NorthTemperateLakes	PelagicMacroinvertebrates	TR	MYSIS	0.670451083263023
+Phoenix	pitfall1	AA-17	Acari	-1.8071970654243
+Phoenix	pitfall1	AB-19	Acari	-6.2611359559796
+Phoenix	pitfall1	AC-16	Acari	-1.91789224389435
+Phoenix	pitfall1	AD-10	Acari	-2.16314528849373
+Phoenix	pitfall1	ADODAM	Acari	-1.18898408666776
+Phoenix	pitfall1	AF-12	Acari	-0.891243671357103
+Phoenix	pitfall1	DBG	Acari	-2.83174702467771
+Phoenix	pitfall1	DREAMY	Acari	-2.63563240598543
+Phoenix	pitfall1	I-17	Acari	-1.63405146587173
+Phoenix	pitfall1	L-7	Acari	-2.23010934769253
+Phoenix	pitfall1	NDV-C	Acari	-1.18701884492951
+Phoenix	pitfall1	NDV-M	Acari	-2.47135248030456
+Phoenix	pitfall1	NDV-N	Acari	-1.86889754673036
+Phoenix	pitfall1	NDV-O	Acari	-1.02026251625795
+Phoenix	pitfall1	NDV-X	Acari	-0.689353459497638
+Phoenix	pitfall1	O-9	Acari	0.157344391034635
+Phoenix	pitfall1	P-18	Acari	-1.77947799668147
+Phoenix	pitfall1	Q-16	Acari	-1.85177786327169
+Phoenix	pitfall1	Q-7	Acari	-0.980781227309409
+Phoenix	pitfall1	T-11	Acari	-1.72131139439002
+Phoenix	pitfall1	U-12	Acari	-2.73563808426901
+Phoenix	pitfall1	V-14	Acari	-2.34038485475869
+Phoenix	pitfall1	V-16	Acari	-1.82440488269552
+Phoenix	pitfall1	W-15	Acari	-2.74038470860811
+Phoenix	pitfall1	W-17	Acari	-1.62828507569458
+Phoenix	pitfall1	W-6	Acari	-2.03371383719626
+Phoenix	pitfall1	Y-19	Acari	-3.43907733691286
+Phoenix	pitfall1	NDV-M	Allocosa	-1.54836127698383
+Phoenix	pitfall1	NDV-O	Allocosa	0.0630877124099253
+Phoenix	pitfall1	AA-17	Aphididae	-1.98983963162203
+Phoenix	pitfall1	AC-16	Aphididae	-1.19430177578074
+Phoenix	pitfall1	AC-20	Aphididae	-1.75681679804182
+Phoenix	pitfall1	AD-10	Aphididae	-1.35810630783777
+Phoenix	pitfall1	AF-12	Aphididae	-0.80415954710368
+Phoenix	pitfall1	ALFPOW	Aphididae	-2.50988416693267
+Phoenix	pitfall1	DBG	Aphididae	-0.424067404683177
+Phoenix	pitfall1	DREAMY	Aphididae	-1.20042332101401
+Phoenix	pitfall1	I-17	Aphididae	-0.554348108301678
+Phoenix	pitfall1	L-7	Aphididae	-0.338993954207457
+Phoenix	pitfall1	NDV-C	Aphididae	1.0643271457112
+Phoenix	pitfall1	NDV-M	Aphididae	0.460597627431739
+Phoenix	pitfall1	NDV-N	Aphididae	1.64490920098404
+Phoenix	pitfall1	NDV-O	Aphididae	0.0832504262760752
+Phoenix	pitfall1	NDV-X	Aphididae	0.612653308013543
+Phoenix	pitfall1	O-9	Aphididae	0.20685635353025
+Phoenix	pitfall1	P-18	Aphididae	0.439424838458361
+Phoenix	pitfall1	Q-16	Aphididae	0.601990445303072
+Phoenix	pitfall1	Q-7	Aphididae	-1.62740179385451
+Phoenix	pitfall1	T-11	Aphididae	-0.867435967228627
+Phoenix	pitfall1	V-14	Aphididae	-0.97438515771997
+Phoenix	pitfall1	W-15	Aphididae	0.08866093373209
+Phoenix	pitfall1	W-17	Aphididae	-0.269793319484937
+Phoenix	pitfall1	Y-19	Aphididae	-1.81579662745943
+Phoenix	pitfall1	P-18	Arctosa	0.583784591428826
+Phoenix	pitfall1	AA-17	Blapstinus	2.7421070286609
+Phoenix	pitfall1	NDV-C	Blapstinus	-0.138478747484125
+Phoenix	pitfall1	NDV-M	Blapstinus	-0.154192506160806
+Phoenix	pitfall1	NDV-N	Blapstinus	-0.464444663812453
+Phoenix	pitfall1	NDV-O	Blapstinus	0.274391175567122
+Phoenix	pitfall1	NDV-X	Blapstinus	0.349078715304775
+Phoenix	pitfall1	T-11	Blapstinus	-1.92150051904838
+Phoenix	pitfall1	U-12	Blapstinus	3.62517169877867
+Phoenix	pitfall1	NDV-M	Blattidae	0.0149213409910428
+Phoenix	pitfall1	W-17	Blattidae	-1.35846212258254
+Phoenix	pitfall1	AA-17	Brachymyrmex	-2.3129344856961
+Phoenix	pitfall1	NDV-M	Brachymyrmex	2.51448973993694
+Phoenix	pitfall1	NDV-O	Brachymyrmex	5.15426577370571
+Phoenix	pitfall1	T-11	Brachymyrmex	1.74954497190862
+Phoenix	pitfall1	U-12	Brachymyrmex	0.329593445595989
+Phoenix	pitfall1	V-14	Brachymyrmex	-0.864761454046257
+Phoenix	pitfall1	Y-19	Brachymyrmex	1.05527920583334
+Phoenix	pitfall1	NDV-M	Chaetocnema	0.0500532114576175
+Phoenix	pitfall1	Y-19	Chaetocnema	-1.72065007111381
+Phoenix	pitfall1	NDV-C	Chironomidae	1.26383234911867
+Phoenix	pitfall1	NDV-M	Chironomidae	-0.0415168589261193
+Phoenix	pitfall1	NDV-O	Chironomidae	-0.629230891151636
+Phoenix	pitfall1	Y-19	Chironomidae	0.449202162169235
+Phoenix	pitfall1	NDV-M	Chloropidae	1.67708613049893
+Phoenix	pitfall1	AB-19	Cicadellidae	-0.702232660874032
+Phoenix	pitfall1	AD-10	Cicadellidae	-0.382154021810748
+Phoenix	pitfall1	AF-12	Cicadellidae	-1.74401381717383
+Phoenix	pitfall1	DBG	Cicadellidae	-0.858143991586276
+Phoenix	pitfall1	I-17	Cicadellidae	0.787957070611651
+Phoenix	pitfall1	NDV-O	Cicadellidae	0.215993223074137
+Phoenix	pitfall1	P-18	Cicadellidae	-1.14833474360994
+Phoenix	pitfall1	T-11	Cicadellidae	-0.214140141176528
+Phoenix	pitfall1	V-14	Cicadellidae	-1.63290875880631
+Phoenix	pitfall1	W-6	Cicadellidae	-0.655266616144059
+Phoenix	pitfall1	AF-12	Coleoptera	0.767499431104941
+Phoenix	pitfall1	DBG	Coleoptera	1.14956502097191
+Phoenix	pitfall1	DREAMY	Coleoptera	0.56221707245184
+Phoenix	pitfall1	I-17	Coleoptera	0.391556722990828
+Phoenix	pitfall1	L-7	Coleoptera	0.46573401063388
+Phoenix	pitfall1	NDV-M	Coleoptera	-0.494903766573214
+Phoenix	pitfall1	O-9	Coleoptera	0.632417376494331
+Phoenix	pitfall1	Q-7	Coleoptera	0.0930400388026134
+Phoenix	pitfall1	V-14	Coleoptera	-0.4679982287248
+Phoenix	pitfall1	AD-10	Crematogaster	1.8835363550255
+Phoenix	pitfall1	W-6	Crematogaster	-0.764137419495377
+Phoenix	pitfall1	DBG	Cryptoglossa	-2.17097578030313
+Phoenix	pitfall1	I-17	Cryptoglossa	1.70192584737878
+Phoenix	pitfall1	AC-16	Diptera	-0.871883583743641
+Phoenix	pitfall1	NDV-O	Dorymyrmex insanus	-0.174112098044151
+Phoenix	pitfall1	P-18	Dorymyrmex insanus	-0.556685645214309
+Phoenix	pitfall1	AF-12	Eleodes armatus	1.21368974835073
+Phoenix	pitfall1	DBG	Eleodes armatus	0.732625702184074
+Phoenix	pitfall1	DREAMY	Eleodes armatus	5.56655189106249
+Phoenix	pitfall1	I-17	Eleodes armatus	1.62124966023818
+Phoenix	pitfall1	L-7	Eleodes armatus	1.06500226161825
+Phoenix	pitfall1	O-9	Eleodes armatus	1.78616153629854
+Phoenix	pitfall1	AA-17	Entomobryidae	2.1045381944727
+Phoenix	pitfall1	AC-16	Entomobryidae	1.79431998229397
+Phoenix	pitfall1	AD-10	Entomobryidae	1.04414568716086
+Phoenix	pitfall1	ADODAM	Entomobryidae	0.940016261156176
+Phoenix	pitfall1	AF-12	Entomobryidae	1.78854645100538
+Phoenix	pitfall1	DBG	Entomobryidae	1.91317082157909
+Phoenix	pitfall1	DREAMY	Entomobryidae	1.5984549051245
+Phoenix	pitfall1	I-17	Entomobryidae	1.13085060305549
+Phoenix	pitfall1	M-16	Entomobryidae	2.24702755975036
+Phoenix	pitfall1	NDV-C	Entomobryidae	0.0135029487148174
+Phoenix	pitfall1	NDV-M	Entomobryidae	0.0629479342435899
+Phoenix	pitfall1	NDV-N	Entomobryidae	2.36286456211426
+Phoenix	pitfall1	NDV-O	Entomobryidae	-1.71829999778027
+Phoenix	pitfall1	NDV-X	Entomobryidae	-0.175095351090446
+Phoenix	pitfall1	O-9	Entomobryidae	0.45513502575499
+Phoenix	pitfall1	P-18	Entomobryidae	-0.0186896799201141
+Phoenix	pitfall1	Q-16	Entomobryidae	1.56807929895857
+Phoenix	pitfall1	T-11	Entomobryidae	1.34973348812393
+Phoenix	pitfall1	V-14	Entomobryidae	2.1877691891359
+Phoenix	pitfall1	W-17	Entomobryidae	2.68168409531085
+Phoenix	pitfall1	W-6	Entomobryidae	2.49629222510967
+Phoenix	pitfall1	Y-19	Entomobryidae	-0.940836819636875
+Phoenix	pitfall1	I-17	Ephebomyrmex	-1.47037549645566
+Phoenix	pitfall1	O-9	Ephebomyrmex	0.402469004331046
+Phoenix	pitfall1	W-15	Ephebomyrmex	-1.34983884668311
+Phoenix	pitfall1	AA-17	Forelius mccooki	-0.77819901925172
+Phoenix	pitfall1	AC-16	Forelius mccooki	-1.36923594545831
+Phoenix	pitfall1	ADODAM	Forelius mccooki	-1.16977109362331
+Phoenix	pitfall1	DBG	Forelius mccooki	-0.65247658577257
+Phoenix	pitfall1	DREAMY	Forelius mccooki	-0.542773407582624
+Phoenix	pitfall1	I-17	Forelius mccooki	-0.252450577221373
+Phoenix	pitfall1	T-11	Forelius mccooki	1.6559166811267
+Phoenix	pitfall1	V-14	Forelius mccooki	-2.27262519294858
+Phoenix	pitfall1	NDV-C	Forelius pruinosus	0.687127012078136
+Phoenix	pitfall1	NDV-M	Forelius pruinosus	0.365449315882024
+Phoenix	pitfall1	NDV-N	Forelius pruinosus	2.73175005870875
+Phoenix	pitfall1	NDV-O	Forelius pruinosus	-0.802093660555261
+Phoenix	pitfall1	NDV-X	Forelius pruinosus	1.15645656348006
+Phoenix	pitfall1	AA-17	Formicidae	-2.75269586260247
+Phoenix	pitfall1	DBG	Formicidae	-1.53641430726358
+Phoenix	pitfall1	DREAMY	Formicidae	-2.64262829832339
+Phoenix	pitfall1	NDV-C	Formicidae	1.38322833578658
+Phoenix	pitfall1	P-18	Formicidae	-1.17960678064853
+Phoenix	pitfall1	T-11	Formicidae	-2.10022560617064
+Phoenix	pitfall1	V-14	Formicidae	-0.711395674934773
+Phoenix	pitfall1	W-17	Formicidae	-2.44369795391124
+Phoenix	pitfall1	W-6	Formicidae	-0.562088228019932
+Phoenix	pitfall1	NDV-M	Formicilla	-1.20475558532266
+Phoenix	pitfall1	P-18	Geocoris	-1.56391890255513
+Phoenix	pitfall1	AA-17	Gryllidae	0.13755308300799
+Phoenix	pitfall1	AB-19	Gryllidae	-1.40615492364258
+Phoenix	pitfall1	ALFPOW	Gryllidae	-1.46468888059513
+Phoenix	pitfall1	NDV-C	Gryllidae	0.641254279780703
+Phoenix	pitfall1	NDV-M	Gryllidae	1.60030343046999
+Phoenix	pitfall1	NDV-O	Gryllidae	1.02395402493077
+Phoenix	pitfall1	Q-16	Gryllidae	-0.601206690063978
+Phoenix	pitfall1	V-14	Gryllidae	-0.429753879977299
+Phoenix	pitfall1	AA-17	Hypogastruridae	1.420165192668
+Phoenix	pitfall1	NDV-M	Hypogastruridae	-0.946212637884001
+Phoenix	pitfall1	NDV-N	Hypogastruridae	1.87200289926408
+Phoenix	pitfall1	NDV-O	Hypogastruridae	1.05135320559456
+Phoenix	pitfall1	Y-19	Hypogastruridae	1.20979264909022
+Phoenix	pitfall1	AB-19	Isopoda	-2.85366222602755
+Phoenix	pitfall1	AC-16	Isopoda	1.42786020587317
+Phoenix	pitfall1	DBG	Isopoda	-1.32483238028065
+Phoenix	pitfall1	NDV-M	Isopoda	2.35025082677398
+Phoenix	pitfall1	NDV-O	Isopoda	1.15621848599866
+Phoenix	pitfall1	U-12	Isopoda	-1.31784250399458
+Phoenix	pitfall1	V-14	Isopoda	-1.58790514335956
+Phoenix	pitfall1	V-16	Isopoda	1.0779342787877
+Phoenix	pitfall1	Y-19	Isopoda	-3.11943063105413
+Phoenix	pitfall1	NDV-M	Isotomidae	-2.30139664725379
+Phoenix	pitfall1	NDV-N	Isotomidae	-1.47875176696556
+Phoenix	pitfall1	NDV-O	Isotomidae	-1.88363112064088
+Phoenix	pitfall1	P-18	Isotomidae	1.58138151264059
+Phoenix	pitfall1	V-14	Isotomidae	-0.968995516859451
+Phoenix	pitfall1	Y-19	Isotomidae	-0.444622903556877
+Phoenix	pitfall1	AC-20	Labidura riparia	-0.150571391893628
+Phoenix	pitfall1	ALFPOW	Labidura riparia	-0.761998654923598
+Phoenix	pitfall1	P-18	Labidura riparia	-1.80132139254374
+Phoenix	pitfall1	DBG	Lepidoptera	-0.68113356858429
+Phoenix	pitfall1	DREAMY	Lepidoptera	-4.13748116677079
+Phoenix	pitfall1	L-7	Lepidoptera	0.64478623742761
+Phoenix	pitfall1	NDV-M	Lepidoptera	0.204827524412647
+Phoenix	pitfall1	P-18	Lepidoptera	-0.427155381690679
+Phoenix	pitfall1	Y-19	Lepidoptera	-0.454251737164168
+Phoenix	pitfall1	AC-16	Lepismatidae	-0.699067590697361
+Phoenix	pitfall1	AD-10	Lepismatidae	-1.76220550591088
+Phoenix	pitfall1	AF-12	Lepismatidae	-2.00230941746297
+Phoenix	pitfall1	DBG	Lepismatidae	-0.585318709639427
+Phoenix	pitfall1	DREAMY	Lepismatidae	-1.53583306674872
+Phoenix	pitfall1	I-17	Lepismatidae	-0.618972176326041
+Phoenix	pitfall1	L-7	Lepismatidae	-1.45861847205671
+Phoenix	pitfall1	O-9	Lepismatidae	-0.916975173909783
+Phoenix	pitfall1	Q-7	Lepismatidae	-1.63995512166605
+Phoenix	pitfall1	V-14	Lepismatidae	0.0951168075832995
+Phoenix	pitfall1	W-17	Lepismatidae	-0.385661539878066
+Phoenix	pitfall1	W-6	Lepismatidae	-2.91101769555578
+Phoenix	pitfall1	AB-19	Linyphiidae	-1.55704590385739
+Phoenix	pitfall1	NDV-M	Linyphiidae	1.75611208752729
+Phoenix	pitfall1	NDV-O	Linyphiidae	-0.306291469971398
+Phoenix	pitfall1	V-14	Linyphiidae	-2.06003766033941
+Phoenix	pitfall1	Y-19	Linyphiidae	-0.476607764301352
+Phoenix	pitfall1	ADODAM	Lygaeidae	1.46253129439523
+Phoenix	pitfall1	AD-10	Meinertellidae	-1.31295232166497
+Phoenix	pitfall1	AF-12	Meinertellidae	1.16171242098566
+Phoenix	pitfall1	DREAMY	Meinertellidae	-0.52529955579626
+Phoenix	pitfall1	O-9	Meinertellidae	0.641999882157465
+Phoenix	pitfall1	W-6	Meinertellidae	-1.60012043605056
+Phoenix	pitfall1	I-17	Messor	0.806825170216154
+Phoenix	pitfall1	DBG	Mutillidae	-2.26664049424395
+Phoenix	pitfall1	DREAMY	Mutillidae	-2.03884234862309
+Phoenix	pitfall1	I-17	Mutillidae	-1.61535854487945
+Phoenix	pitfall1	L-7	Mutillidae	-1.22511257238692
+Phoenix	pitfall1	O-9	Mutillidae	-0.355863030995047
+Phoenix	pitfall1	Q-7	Mutillidae	-0.378648782296642
+Phoenix	pitfall1	W-6	Mutillidae	-0.00926808086298122
+Phoenix	pitfall1	DBG	Myrmecocystus	-1.25535220045655
+Phoenix	pitfall1	I-17	Myrmecocystus	-0.0959682074888718
+Phoenix	pitfall1	AC-16	Nocibiotes	-1.2161662644728
+Phoenix	pitfall1	ADODAM	Nocibiotes	-2.13943519388096
+Phoenix	pitfall1	AF-12	Nocibiotes	-1.23883288554358
+Phoenix	pitfall1	DBG	Nocibiotes	-1.33574590743667
+Phoenix	pitfall1	DREAMY	Nocibiotes	-3.17280720098117
+Phoenix	pitfall1	I-17	Nocibiotes	-0.423050608764677
+Phoenix	pitfall1	O-9	Nocibiotes	-0.205903771964037
+Phoenix	pitfall1	Q-7	Nocibiotes	-0.366470239105578
+Phoenix	pitfall1	W-6	Nocibiotes	1.37340271599114
+Phoenix	pitfall1	AD-10	Novomessor cockerelli	-1.79940647948024
+Phoenix	pitfall1	AF-12	Novomessor cockerelli	-0.852597424330264
+Phoenix	pitfall1	L-7	Novomessor cockerelli	1.53116686792323
+Phoenix	pitfall1	Q-7	Novomessor cockerelli	1.72593696651504
+Phoenix	pitfall1	W-6	Novomessor cockerelli	1.20762789941166
+Phoenix	pitfall1	AA-17	Oecobius	2.55722518633227
+Phoenix	pitfall1	AC-16	Oecobius	-0.0503363884851111
+Phoenix	pitfall1	NDV-O	Oecobius	2.79717096711962
+Phoenix	pitfall1	W-17	Oecobius	1.15584889826524
+Phoenix	pitfall1	DREAMY	Opiliones	-1.10588290888536
+Phoenix	pitfall1	W-6	Opiliones	-1.78583542484189
+Phoenix	pitfall1	NDV-M	Paratrechina	1.38420795956764
+Phoenix	pitfall1	NDV-O	Paratrechina	-2.4662454866697
+Phoenix	pitfall1	NDV-M	Pardosa	-3.29620472543673
+Phoenix	pitfall1	P-18	Pardosa	-2.74198516302747
+Phoenix	pitfall1	AD-10	Pheidole	-1.01703519036013
+Phoenix	pitfall1	ADODAM	Pheidole	0.476193621817908
+Phoenix	pitfall1	AF-12	Pheidole	-0.335996014258377
+Phoenix	pitfall1	DBG	Pheidole	0.602437732888861
+Phoenix	pitfall1	DREAMY	Pheidole	-0.832804548013046
+Phoenix	pitfall1	I-17	Pheidole	-1.067246861098
+Phoenix	pitfall1	L-7	Pheidole	0.126028568263339
+Phoenix	pitfall1	NDV-C	Pheidole	-1.53437937729267
+Phoenix	pitfall1	NDV-M	Pheidole	0.373056268995141
+Phoenix	pitfall1	O-9	Pheidole	-0.130765537119508
+Phoenix	pitfall1	W-6	Pheidole	-2.76657841999525
+Phoenix	pitfall1	AD-10	Pheidole desertorum	-2.56329700462694
+Phoenix	pitfall1	ADODAM	Pheidole desertorum	-1.48820408770776
+Phoenix	pitfall1	NDV-M	Pheidole tetra	0.888163463676179
+Phoenix	pitfall1	I-17	Pheidole tucsonica	1.57216707631373
+Phoenix	pitfall1	AD-10	Pogonomyrmex rugosus	-0.615364849580155
+Phoenix	pitfall1	AF-12	Pogonomyrmex rugosus	-0.0907724707649417
+Phoenix	pitfall1	L-7	Pogonomyrmex rugosus	1.95902820423252
+Phoenix	pitfall1	O-9	Pogonomyrmex rugosus	-0.0344782131980266
+Phoenix	pitfall1	P-18	Pogonomyrmex rugosus	0.378415332033096
+Phoenix	pitfall1	Q-7	Pogonomyrmex rugosus	1.1162513940786
+Phoenix	pitfall1	DBG	Pseudoscorpiones	-2.2754851338068
+Phoenix	pitfall1	AD-10	Psilochorus	2.16672804051743
+Phoenix	pitfall1	I-17	Psilochorus	-1.61611387020596
+Phoenix	pitfall1	L-7	Psilochorus	-1.42474980812959
+Phoenix	pitfall1	O-9	Psilochorus	-0.905382331158741
+Phoenix	pitfall1	AC-16	Psocoptera	0.648244101179595
+Phoenix	pitfall1	DBG	Psocoptera	-0.0776711391997682
+Phoenix	pitfall1	T-11	Psocoptera	-1.26183038947376
+Phoenix	pitfall1	W-6	Ptomaphagus	1.47743253324286
+Phoenix	pitfall1	Y-19	Scarites	0.0280038937602942
+Phoenix	pitfall1	NDV-M	Scelionidae	-0.296733221247573
+Phoenix	pitfall1	NDV-O	Scelionidae	2.29609016026196
+Phoenix	pitfall1	NDV-M	Sciaridae	-1.02801496139061
+Phoenix	pitfall1	AD-10	Sminthuridae	1.11516615163133
+Phoenix	pitfall1	DBG	Sminthuridae	-0.261409345150824
+Phoenix	pitfall1	I-17	Sminthuridae	0.62024703564878
+Phoenix	pitfall1	NDV-M	Sminthuridae	0.660019101435099
+Phoenix	pitfall1	NDV-O	Sminthuridae	3.34814276538982
+Phoenix	pitfall1	O-9	Sminthuridae	2.01421896081581
+Phoenix	pitfall1	P-18	Sminthuridae	0.676090961429619
+Phoenix	pitfall1	V-14	Sminthuridae	-1.50989841412226
+Phoenix	pitfall1	W-6	Sminthuridae	0.7521608977686
+Phoenix	pitfall1	Y-19	Sminthuridae	-0.578974785809971
+Phoenix	pitfall1	AF-12	Solenopsis	-0.406243101906443
+Phoenix	pitfall1	AF-12	Solenopsis amblychila	-1.17243633270568
+Phoenix	pitfall1	AA-17	Solenopsis xyloni	1.7180745877887
+Phoenix	pitfall1	AC-16	Solenopsis xyloni	-3.14353578078966
+Phoenix	pitfall1	AD-10	Solenopsis xyloni	-0.568102920861001
+Phoenix	pitfall1	ADODAM	Solenopsis xyloni	-1.54464051695882
+Phoenix	pitfall1	DBG	Solenopsis xyloni	-1.151615661175
+Phoenix	pitfall1	DREAMY	Solenopsis xyloni	-2.11652756761444
+Phoenix	pitfall1	L-7	Solenopsis xyloni	-0.680237033006491
+Phoenix	pitfall1	NDV-C	Solenopsis xyloni	-0.714702724809865
+Phoenix	pitfall1	NDV-M	Solenopsis xyloni	2.08104969300164
+Phoenix	pitfall1	NDV-N	Solenopsis xyloni	0.586543002235368
+Phoenix	pitfall1	NDV-O	Solenopsis xyloni	2.44045932882222
+Phoenix	pitfall1	O-9	Solenopsis xyloni	0.997842075710584
+Phoenix	pitfall1	P-18	Solenopsis xyloni	-1.45185365855406
+Phoenix	pitfall1	Q-16	Solenopsis xyloni	-0.508664273027633
+Phoenix	pitfall1	T-11	Solenopsis xyloni	-0.588675740662726
+Phoenix	pitfall1	V-14	Solenopsis xyloni	-2.37597027982208
+Phoenix	pitfall1	V-16	Solenopsis xyloni	0.16345174100012
+Phoenix	pitfall1	W-15	Solenopsis xyloni	-0.665838646602222
+Phoenix	pitfall1	W-17	Solenopsis xyloni	-1.71532400296249
+Phoenix	pitfall1	W-6	Solenopsis xyloni	0.00592851533790518
+Phoenix	pitfall1	DREAMY	Solpugida	3.59348705866495
+Phoenix	pitfall1	NDV-M	Sphenophorus	-0.489672918131834
+Phoenix	pitfall1	NDV-O	Sphenophorus	4.59617137745758
+Phoenix	pitfall1	T-11	Sphenophorus	-1.52848194225718
+Phoenix	pitfall1	V-14	Sphenophorus	-0.328242088510248
+Phoenix	pitfall1	Y-19	Sphenophorus	-2.77041999488261
+Phoenix	pitfall1	NDV-M	Staphylinidae	-0.487225338969741
+Phoenix	pitfall1	P-18	Staphylinidae	1.78896168003467
+Phoenix	pitfall1	V-14	Staphylinidae	-2.55755405054244
+Phoenix	pitfall1	Y-19	Staphylinidae	0.770715351509649
+Phoenix	pitfall1	AA-17	Syntomus	0.0177995250736584
+Phoenix	pitfall1	M-16	Syntomus	1.38310625629733
+Phoenix	pitfall1	NDV-N	Syntomus	0.486193005786736
+Phoenix	pitfall1	NDV-O	Syntomus	-0.528548807031243
+Phoenix	pitfall1	NDV-X	Syntomus	-0.663125188250397
+Phoenix	pitfall1	P-18	Syntomus	-0.479463845427384
+Phoenix	pitfall1	T-11	Syntomus	-0.898526652853699
+Phoenix	pitfall1	DBG	Tenebrionidae	-2.54659716278569
+Phoenix	pitfall1	AD-10	Termitidae	0.919107258284348
+Phoenix	pitfall1	ADODAM	Termitidae	-1.12040457933084
+Phoenix	pitfall1	AF-12	Termitidae	0.75220383489715
+Phoenix	pitfall1	DBG	Termitidae	1.76622155586573
+Phoenix	pitfall1	I-17	Termitidae	0.666539066262052
+Phoenix	pitfall1	L-7	Termitidae	2.05885041196914
+Phoenix	pitfall1	O-9	Termitidae	1.94527630845771
+Phoenix	pitfall1	Q-7	Termitidae	1.09829800941555
+Phoenix	pitfall1	V-14	Termitidae	1.64453946599739
+Phoenix	pitfall1	W-15	Termitidae	2.15559923914591
+Phoenix	pitfall1	W-6	Termitidae	1.51083196763763
+Phoenix	pitfall1	DBG	Tetragonoderus	-1.00446716318572
+Phoenix	pitfall1	DBG	Tetramorium	-0.971975720904151
+Phoenix	pitfall1	DREAMY	Tetramorium	-1.45762443808278
+Phoenix	pitfall1	O-9	Tetramorium	-1.66212296684464
+Phoenix	pitfall1	W-6	Tetramorium	-0.919298971113495
+Phoenix	pitfall1	DBG	Vaejovidae	-1.72721444332143
+Phoenix	pitfall1	DREAMY	Vaejovidae	-0.157833252092115
+Phoenix	pitfall1	W-6	Vaejovidae	0.844354936977966
+Sevilleta	Grasshoppers	LATR	ACPI	1.52359228851933
+Sevilleta	Grasshoppers	BOER	AGDE	-0.732394930215768
+Sevilleta	Grasshoppers	BOGR	AGDE	-0.479791275405094
+Sevilleta	Grasshoppers	LATR	AGDE	-1.07649904409427
+Sevilleta	Grasshoppers	BOER	ARCO	-1.38115113980157
+Sevilleta	Grasshoppers	LATR	ARCO	-1.8177361866298
+Sevilleta	Grasshoppers	BOER	ARPS	1.61720572585975
+Sevilleta	Grasshoppers	BOGR	ARPS	1.00247498067795
+Sevilleta	Grasshoppers	LATR	ARPS	-1.15154734618538
+Sevilleta	Grasshoppers	BOER	AUFE	-0.68585527580375
+Sevilleta	Grasshoppers	BOGR	AUFE	0.711699454955946
+Sevilleta	Grasshoppers	LATR	AUFE	1.34038043569958
+Sevilleta	Grasshoppers	LATR	BOAR	-1.59384407566993
+Sevilleta	Grasshoppers	LATR	CIPA	-1.01627850335049
+Sevilleta	Grasshoppers	BOER	COOC	-1.97035270899565
+Sevilleta	Grasshoppers	BOER	DABI	0.455536707842857
+Sevilleta	Grasshoppers	BOER	ERSI	-2.22726446821431
+Sevilleta	Grasshoppers	BOGR	ERSI	-0.607669108660763
+Sevilleta	Grasshoppers	LATR	ERSI	-0.0207819015475944
+Sevilleta	Grasshoppers	BOGR	HATR	-0.399039754689233
+Sevilleta	Grasshoppers	LATR	HICA	1.69421785759294
+Sevilleta	Grasshoppers	LATR	LEWH	0.738764601244414
+Sevilleta	Grasshoppers	BOER	MEAR2	1.38077929581877
+Sevilleta	Grasshoppers	BOGR	MEAR2	-0.784567384813957
+Sevilleta	Grasshoppers	BOER	MEBO	-1.51928453550668
+Sevilleta	Grasshoppers	BOER	MEGL	-0.230015235531683
+Sevilleta	Grasshoppers	LATR	NONE	-0.405004919918631
+Sevilleta	Grasshoppers	BOER	PAPA	-1.63901003011118
+Sevilleta	Grasshoppers	LATR	PAPA	-1.52915700956535
+Sevilleta	Grasshoppers	BOER	PSDE	-1.95685875509
+Sevilleta	Grasshoppers	BOGR	PSDE	1.7556250564579
+Sevilleta	Grasshoppers	LATR	PSDE	-1.5539795352628
+Sevilleta	Grasshoppers	BOGR	PSTE	0.334757407963308
+Sevilleta	Grasshoppers	BOER	SYMO	0.647936922100878
+Sevilleta	Grasshoppers	LATR	SYMO	0.326258939639458
+Sevilleta	Grasshoppers	BOER	TRCA	1.58903263715683
+Sevilleta	Grasshoppers	LATR	TRCA	-0.400217317336122
+Sevilleta	Grasshoppers	BOER	TRFO	1.67351648916398
+Sevilleta	Grasshoppers	BOER	TRKI	1.63743098881992
+Sevilleta	Grasshoppers	BOGR	TRKI	1.49741592037476
+Sevilleta	Grasshoppers	LATR	TRKI	-0.819225302898676
+Sevilleta	Grasshoppers	BOER	TRPA	2.17918177853259
+Sevilleta	Grasshoppers	BOGR	TRPA	-0.843453110795591
+Sevilleta	Grasshoppers	LATR	TRPA	1.40711162015752
+Sevilleta	Grasshoppers	BOER	TRPI	2.91738031137168
+Sevilleta	Grasshoppers	LATR	TRPI	0.072142368356543
+Sevilleta	Grasshoppers	BOER	XACO	-1.91640085449525
+Sevilleta	Grasshoppers	BOGR	XACO	-0.134940828044014
+Sevilleta	Grasshoppers	LATR	XACO	0.317520860125015
