@@ -2663,6 +2663,7 @@ for (i in 1:length(kg.sp)){
 mean(add1$Species.mean.trend[which(add1$Locale=='Grazed')])
 mean(add1$Species.mean.trend[which(add1$Locale=='Ungrazed')])
 dat2 = data.frame(rbind(dat2,add1),stringsAsFactors=F)
+L = unique(dat2$LTER)
 means2 = apply(array(L),1,function(x){mean(dat2$Species.mean.trend[which(dat2$LTER==x)],na.rm=T)})
 
 t2 = t.test(means2)
