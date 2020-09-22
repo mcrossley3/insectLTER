@@ -1,0 +1,1445 @@
+LTER	Dataset	Species	Abundance.trend
+Arctic	StreamInsects	BAETIS	-0.802222555876577
+Arctic	StreamInsects	BAETSP3	2.67813637751303
+Arctic	StreamInsects	BLACK	-0.135392231585248
+Arctic	StreamInsects	BLKPUPA	1.76341775884835
+Arctic	StreamInsects	BRACHY	-0.142219560759273
+Arctic	StreamInsects	CHIPUPA	2.13299965324455
+Arctic	StreamInsects	CINYG	2.83192319945887
+Arctic	StreamInsects	EPHEM	2.58862828317311
+Arctic	StreamInsects	NATARSIA	2.5816806475784
+Arctic	StreamInsects	NEMOURA	1.74799537814039
+Arctic	StreamInsects	ORTHO	-2.24972729381125
+Arctic	StreamInsects	OTHCHIR	2.48861834954806
+Arctic	StreamInsects	RHYAC	1.62368982536068
+Arctic	StreamInsects	TIPULA	2.41336344314419
+Baltimore	Mosquitoes	aeae	-2.87624084153138
+Baltimore	Mosquitoes	aeal	3.19926780845788
+Baltimore	Mosquitoes	aeci	-2.79508497185369
+Baltimore	Mosquitoes	aeja	-0.601363505139941
+Baltimore	Mosquitoes	anpu	-2.79508497187054
+Baltimore	Mosquitoes	cxpi	2.49550311937135
+Baltimore	Mosquitoes	cxre	0.377829765902148
+Baltimore	Mosquitoes	cxsa	-0.813691953582214
+Baltimore	Mosquitoes	cxte	0.135826050739291
+Baltimore	Mosquitoes	octr	-2.63232302187853
+Baltimore	Mosquitoes	orsi	-1.89333484751203
+Baltimore	Mosquitoes	toxo	-1.15705776391065
+BonanzaCreek	BarkBeetles	Ips beetle	-0.260310824871243
+BonanzaCreek	BarkBeetles	Larch beetle	-1.11963375387938
+BonanzaCreek	BarkBeetles	Spruce beetle	-1.84620084912789
+BonanzaCreek	Leafminers	leafminers	-1.49149609763008
+CedarCreek	Grasshoppers	Aeropedellus clavatus	-2.83740145344937
+CedarCreek	Grasshoppers	Ageneotettix deorum	-2.84804410749371
+CedarCreek	Grasshoppers	Arphia conspersa	-1.09936738973439
+CedarCreek	Grasshoppers	Arphia pseudonietana	-1.41631862157703
+CedarCreek	Grasshoppers	Atlanticus testaceus	1.63433125602605
+CedarCreek	Grasshoppers	Chloealtis conspersa	-1.81302460664192
+CedarCreek	Grasshoppers	Chorthippus curtipennis	-0.413024697950214
+CedarCreek	Grasshoppers	Chortophaga viridifasciata	0.2717412184153
+CedarCreek	Grasshoppers	Conocephalus brevipennis	2.22949086699882
+CedarCreek	Grasshoppers	Conocephalus fasciatus	-1.81634063342081
+CedarCreek	Grasshoppers	Conocephalus saltans	-0.439836913369178
+CedarCreek	Grasshoppers	Conocephalus strictus	-0.082618960329315
+CedarCreek	Grasshoppers	Conocephalus undet	1.12109884791921
+CedarCreek	Grasshoppers	Diapheromera femorata	0
+CedarCreek	Grasshoppers	Dissosteira carolina	-0.963504664720538
+CedarCreek	Grasshoppers	Encoptolophus sordidus	-0.403531890081497
+CedarCreek	Grasshoppers	Eritettix simplex	0.895179397451898
+CedarCreek	Grasshoppers	Gryllus undet	-5.18957533177845
+CedarCreek	Grasshoppers	Hypochlora alba	0.1017580822953
+CedarCreek	Grasshoppers	Melanoplus angustipennis	-1.98205309479643
+CedarCreek	Grasshoppers	Melanoplus bivittatus	-1.95109787858065
+CedarCreek	Grasshoppers	Melanoplus confusus	-0.0469360659465173
+CedarCreek	Grasshoppers	Melanoplus dawsoni	-1.63683060449127
+CedarCreek	Grasshoppers	Melanoplus fasciatus	-1.37074994028413
+CedarCreek	Grasshoppers	Melanoplus femurrubrum	0.448485190355812
+CedarCreek	Grasshoppers	Melanoplus flavidus	0.467954441147194
+CedarCreek	Grasshoppers	Melanoplus foedus	-1.69067749723223
+CedarCreek	Grasshoppers	Melanoplus keeleri	-0.614900697912029
+CedarCreek	Grasshoppers	Melanoplus sanguinipes	-0.11176170691555
+CedarCreek	Grasshoppers	Nemobius undet	-0.438025081952392
+CedarCreek	Grasshoppers	Neoconocephalus ensiger	-0.977830653583129
+CedarCreek	Grasshoppers	Oecanthus undet	-1.51451807509034
+CedarCreek	Grasshoppers	Orchelimum undet	-0.585636933851149
+CedarCreek	Grasshoppers	Orphulella pelidna	2.42215900475463
+CedarCreek	Grasshoppers	Orphulella speciosa	-1.62143628581776
+CedarCreek	Grasshoppers	Pardalophora apiculata	-1.5848579842358
+CedarCreek	Grasshoppers	Phoetaliotes nebrascensis	2.04248752125796
+CedarCreek	Grasshoppers	Pseudopomala brachyptera	-0.449803747619012
+CedarCreek	Grasshoppers	Schistocerca emarginata	-0.912464138833601
+CedarCreek	Grasshoppers	Scudderia curvicauda	1.71340266209735
+CedarCreek	Grasshoppers	Scudderia furcata	-2.24356957378912
+CedarCreek	Grasshoppers	Scudderia texensis	-1.97317599920102
+CedarCreek	Grasshoppers	Scudderia undet	-0.170719131547463
+CedarCreek	Grasshoppers	Spharagemon bolli	-1.04542912428325
+CedarCreek	Grasshoppers	Spharagemon collare	-1.65589206622689
+CedarCreek	Grasshoppers	Tetrix ornata	-0.520787493856685
+CedarCreek	sweep1	Aceratagallia sanguinolenta	1.08477166964467
+CedarCreek	sweep1	Adelphocoris lineolatus	1.09063372908441
+CedarCreek	sweep1	Amphicnephes pullus	3.40356038026818
+CedarCreek	sweep1	Anthomyza undet	1.10922627394421
+CedarCreek	sweep1	Apanteles undet	-2.66666666663366
+CedarCreek	sweep1	Aphalara undet	-2.45819259521222
+CedarCreek	sweep1	Apion undet	1.49161551657356
+CedarCreek	sweep1	Araneus pratense	2.0604784124115
+CedarCreek	sweep1	Araneus undet	6.10298069339941e-11
+CedarCreek	sweep1	Bruchomorpha dorsata	2.82783040458209
+CedarCreek	sweep1	Bruchomorpha nasuta	3.18125738206417
+CedarCreek	sweep1	Bruchomorpha tristis	3.38378944817862
+CedarCreek	sweep1	Chamaemyia undet	-0.584213291102646
+CedarCreek	sweep1	Chauliognathus pennsylvanicus	-1.77064453922077
+CedarCreek	sweep1	Chelonus(s.str.) undet	1.33333332673478
+CedarCreek	sweep1	Chlorotettix undet	1.51077789764618
+CedarCreek	sweep1	Chrysotus undet	1.33333332673478
+CedarCreek	sweep1	Coccinella septempunctata	-2.66666666663366
+CedarCreek	sweep1	Coenosia undet	1.24909306945766
+CedarCreek	sweep1	Commellus comma	1.7286229156443
+CedarCreek	sweep1	Conocephalus saltans	-2.53328090334506
+CedarCreek	sweep1	Conocephalus strictus	2.66666666663305
+CedarCreek	sweep1	Conocephalus undet	2.62459131272963
+CedarCreek	sweep1	Crambus undet	1.11471143669323
+CedarCreek	sweep1	Curtonotus helvum	-2.95153908676292
+CedarCreek	sweep1	Delphacodes undet	-0.331368792904259
+CedarCreek	sweep1	Deltocephalus undet	-2.66666666663366
+CedarCreek	sweep1	Diabrotica barberi	1.24915855065953
+CedarCreek	sweep1	Diabrotica undecimpunctata	-1.02180683933327e-10
+CedarCreek	sweep1	Dialictus undet	-0.16679033695844
+CedarCreek	sweep1	Dictyna undet	2.67556237652001
+CedarCreek	sweep1	Diplocolenus configuratus	3.37418113999859
+CedarCreek	sweep1	Diprion simile	0.944665261084392
+CedarCreek	sweep1	Dolichopus undet	-2.54003491153021
+CedarCreek	sweep1	Doratura stylata	2.99647766688488
+CedarCreek	sweep1	Dorycephalus? platyrhynchus	1.33333330223417
+CedarCreek	sweep1	Empoasca fabae	2.85327270909685
+CedarCreek	sweep1	Endria inimica	1.6961218763507
+CedarCreek	sweep1	Epicauta pennsylvanica	0.7217959370107
+CedarCreek	sweep1	Euaresta bella	0.0201107483328602
+CedarCreek	sweep1	Exitianus exitiosus	-6.45483680528944e-17
+CedarCreek	sweep1	Hylemya undet	0.319157695930779
+CedarCreek	sweep1	Hyperaspis fimbriolata?	6.59554715511182e-18
+CedarCreek	sweep1	Incertella? undet	3.34490129670305
+CedarCreek	sweep1	Jalysus spinosus	3.46410159108974
+CedarCreek	sweep1	Laevicephalus unicoloratus	2.48455595892428
+CedarCreek	sweep1	Leptocera undet	0.400300346682199
+CedarCreek	sweep1	Leptothorax ambiguum	2.71027326888144
+CedarCreek	sweep1	Lepyronia gibbosa	2.05591820150752
+CedarCreek	sweep1	Ligyrocoris diffusus	-1.02100701466491
+CedarCreek	sweep1	Lygus lineolaris	0.741418748997264
+CedarCreek	sweep1	Macrosteles fascifrons	-0.50239035753547
+CedarCreek	sweep1	Malloweia? undet	2.94815029976743
+CedarCreek	sweep1	Melanoplus bivittatus	2.80608861920236
+CedarCreek	sweep1	Melanoplus femurrubrum	-0.500919959949253
+CedarCreek	sweep1	Melanoplus keeleri-luridus	2.80569162617621
+CedarCreek	sweep1	Mesograpta undet	1.36552534690377
+CedarCreek	sweep1	Metaphidippus undet	3.3669734732995
+CedarCreek	sweep1	Misumenops undet	-2.01260440531967
+CedarCreek	sweep1	Monomorium minimum	3.38592898413156
+CedarCreek	sweep1	Mordellistena undet	-0.897530985283041
+CedarCreek	sweep1	Myrmica emeryana	2.82670595595574
+CedarCreek	sweep1	Nabis americoferus	-1.36047302415759
+CedarCreek	sweep1	Nesosteles neglectus	3.32959792668749
+CedarCreek	sweep1	Nysius niger	0.80652345818737
+CedarCreek	sweep1	Odontocorynus scutellumalbum	0.584972079988606
+CedarCreek	sweep1	Oecanthus undet	3.45633025406989
+CedarCreek	sweep1	Orius insidiosus	0.625486151404261
+CedarCreek	sweep1	Orphulella speciosa	1.80687574596293
+CedarCreek	sweep1	Osbornellus undet	0
+CedarCreek	sweep1	Oscinella undet	2.98830738346717
+CedarCreek	sweep1	Pachyschelus laevigatus	2.97288026484237
+CedarCreek	sweep1	Paratrechina parvula	3.14983904153256
+CedarCreek	sweep1	Pardalophora apiculata	0
+CedarCreek	sweep1	Phidippus undet	-1.93442636895392
+CedarCreek	sweep1	Philaenus(Philaenarcys) bilineatus	1.75776705576823
+CedarCreek	sweep1	Phlegyas abbreviatus	2.7785782666914
+CedarCreek	sweep1	Phoetaliotes nebrascensis	2.98038997785604
+CedarCreek	sweep1	Pristocera armifera	-2.8178658064185
+CedarCreek	sweep1	Proformica neogagates	3.06065590317238
+CedarCreek	sweep1	Pseudodinia undet	-1.60261974122342
+CedarCreek	sweep1	Quantas sayi?	3.27427069139079
+CedarCreek	sweep1	Scleroraccus osborni	1.52088628570671
+CedarCreek	sweep1	Scolops sulcipes	0.199187324514158
+CedarCreek	sweep1	Stenodema vicinum	0.041257053158888
+CedarCreek	sweep1	Stictopleurus punctiventris	-0.37338675062724
+CedarCreek	sweep1	Tetragnatha undet	2.54770679169673
+CedarCreek	sweep1	Tetrastichus undet	-2.81625404892013
+CedarCreek	sweep1	Thaumatomyia glabra	-2.98712290803368
+CedarCreek	sweep1	Tibellus undet	0.859244097790397
+CedarCreek	sweep1	Typhlocyba undet	0.195795060922682
+CedarCreek	sweep1	Xysticus undet	0.471705585340862
+CedarCreek	sweep2	Acanthepeira stellata	-2.17125292715717
+CedarCreek	sweep2	Acanthoscelidius acephalus	2.59807620383831
+CedarCreek	sweep2	Aceratagallia sanguinolenta	-0.703915825570216
+CedarCreek	sweep2	Adelphocoris lineolatus	-2.05470078864352
+CedarCreek	sweep2	Adelphocoris rapidus	-1.33333334084374
+CedarCreek	sweep2	Agapostemon undet	0
+CedarCreek	sweep2	Agathis undet	1.28920524083001
+CedarCreek	sweep2	Ageneotettix deorum	-0.585343311970467
+CedarCreek	sweep2	Agromyza undet	-1.49579906458906
+CedarCreek	sweep2	Aleochara undet	0
+CedarCreek	sweep2	Altica undet	0
+CedarCreek	sweep2	Alydus undet	-0.621028278274009
+CedarCreek	sweep2	Amphicnephes pullus	1.00506669439567
+CedarCreek	sweep2	Andrena undet	-1.6821311904363
+CedarCreek	sweep2	Anthicus undet	-1.25240526489415
+CedarCreek	sweep2	Anthomyza undet	-0.764085988370001
+CedarCreek	sweep2	Apanteles undet	1.46537262806074
+CedarCreek	sweep2	Aphalara undet	2.52280110575848
+CedarCreek	sweep2	Aphanogmus? undet	-0.821335998701307
+CedarCreek	sweep2	Aphrodes undet	1.71188617685661
+CedarCreek	sweep2	Apion undet	1.24325733885081
+CedarCreek	sweep2	Araneus pratense	0.758437286315845
+CedarCreek	sweep2	Araneus undet	-0.194370761997155
+CedarCreek	sweep2	Argiope undet	-2.1452219749175
+CedarCreek	sweep2	Arhyssus lateralis	-1.35134010274697
+CedarCreek	sweep2	Asyndetus undet	-2.38338695937083
+CedarCreek	sweep2	Athysanus argentarius	-0.560770237545453
+CedarCreek	sweep2	Bocchus undet	-0.246652671699606
+CedarCreek	sweep2	Bombus fervidus	3.33333329219518
+CedarCreek	sweep2	Bombus griseocollis	-1.74750549530956
+CedarCreek	sweep2	Bombus impatiens	-0.313776947403735
+CedarCreek	sweep2	Bracon undet	-1.00395947403853
+CedarCreek	sweep2	Calliscelio undet	1.80868300837429
+CedarCreek	sweep2	Calopteron reticulatum	1.88268372549889
+CedarCreek	sweep2	Camptoprosopella undet	0.627915779349119
+CedarCreek	sweep2	Campylenchia latipes	1.35840368686485
+CedarCreek	sweep2	Carpophilus undet	-1.65719543433145
+CedarCreek	sweep2	Centrinaspis? undet	-0.449082566213466
+CedarCreek	sweep2	Cephus undet	0.907895687060893
+CedarCreek	sweep2	Cerceris undet	0
+CedarCreek	sweep2	Cerodontha undet	0.274784667565936
+CedarCreek	sweep2	Ceutorhynchus undet	3.17225165734869
+CedarCreek	sweep2	Chaetopsis undet	0
+CedarCreek	sweep2	Chamaemyia undet	-1.28862461461489
+CedarCreek	sweep2	Chauliognathus pennsylvanicus	-1.97726312723016
+CedarCreek	sweep2	Chelonus(Microchelonus) undet	0.226327085193354
+CedarCreek	sweep2	Chelonus(s.str.) undet	-1.62235222862975
+CedarCreek	sweep2	Chlamydatus associatus	-0.310224613841519
+CedarCreek	sweep2	Chlorotettix undet	0.592574093812308
+CedarCreek	sweep2	Chorthippus curtipennis	-0.407407492196652
+CedarCreek	sweep2	Chrysopa undet	0.585382106714962
+CedarCreek	sweep2	Chrysops undet	5.55862936716396e-16
+CedarCreek	sweep2	Chrysotus undet	-0.716832147354506
+CedarCreek	sweep2	Cicindela scutellaris	0
+CedarCreek	sweep2	Coccinella 7-punctata	1.68021137729177
+CedarCreek	sweep2	Coenosia undet	-0.232433580895735
+CedarCreek	sweep2	Coenus delius	0
+CedarCreek	sweep2	Colaspis suilla-borealis	-2.02608191688217
+CedarCreek	sweep2	Coleoptera undet	0.899554077669535
+CedarCreek	sweep2	Commellus comma	-0.573006020532581
+CedarCreek	sweep2	Condylostylus undet	-1.65752351144364
+CedarCreek	sweep2	Conocephalus saltans	-2.92609311575767
+CedarCreek	sweep2	Conocephalus strictus	-2.18902344333332
+CedarCreek	sweep2	Conocephalus undet	-2.68374820661909
+CedarCreek	sweep2	Corythucha marmorata	-2.06085717928349
+CedarCreek	sweep2	Crambus undet	-3.21170293846867
+CedarCreek	sweep2	Curtonotus helvum	0.531985588566968
+CedarCreek	sweep2	Cycloneda munda	-1.07258171659167
+CedarCreek	sweep2	Cyclotelus undet	-1.37509991126093
+CedarCreek	sweep2	Cymus undet	0
+CedarCreek	sweep2	Cyphon variabilis	-1.20136897362374
+CedarCreek	sweep2	Danaus plexippus	-3.26405343774157
+CedarCreek	sweep2	Dasymutilla undet	0
+CedarCreek	sweep2	Delphacodes campestris	-3.04084727637106
+CedarCreek	sweep2	Delphacodes undet	-0.414709121592162
+CedarCreek	sweep2	Diabrotica 11-punctata	0.412017251835764
+CedarCreek	sweep2	Diabrotica barberi	-1.78882204288228
+CedarCreek	sweep2	Dialictus undet	0.25523872666054
+CedarCreek	sweep2	Dibrachys undet	-1.14389741664671
+CedarCreek	sweep2	Dictyna undet	-0.600450134563592
+CedarCreek	sweep2	Dikraneura undet	2.60117956432381
+CedarCreek	sweep2	Dioxyna piccicola	-1.97071935946653
+CedarCreek	sweep2	Diplocolenus configuratus	0.800785329041538
+CedarCreek	sweep2	Diplotoxa versicolor	0.305035603927557
+CedarCreek	sweep2	Dolichoderus undet	0
+CedarCreek	sweep2	Dolichopus undet	-0.137394671224647
+CedarCreek	sweep2	Doratura stylata	2.14156987611908
+CedarCreek	sweep2	Draeculacephala undet	-0.205284886178653
+CedarCreek	sweep2	Empoasca fabae	-0.157645072132112
+CedarCreek	sweep2	Enallagma undet	0
+CedarCreek	sweep2	Encyrtus undet	0
+CedarCreek	sweep2	Endria inimica	1.22798858240887
+CedarCreek	sweep2	Epicauta pennsylvanica	-3.45344144418395
+CedarCreek	sweep2	Eribolus undet	0
+CedarCreek	sweep2	Eritettix simplex	0
+CedarCreek	sweep2	Euaresta bella	-0.328480092125156
+CedarCreek	sweep2	Euarestoides abstersus	-0.796563491843642
+CedarCreek	sweep2	Euschistus undet	0.244940803776331
+CedarCreek	sweep2	Euxoa undet	-1.58836928072937
+CedarCreek	sweep2	Everes comyntas	0
+CedarCreek	sweep2	Everes undet	-0.115795142956055
+CedarCreek	sweep2	Evylaeus undet	0
+CedarCreek	sweep2	Exitianus exitiosus	-0.400349334588478
+CedarCreek	sweep2	Flexamia undet	-1.18884633343071
+CedarCreek	sweep2	Formica cinerea	2.68665516507755
+CedarCreek	sweep2	Formica fusca	1.1459087654147
+CedarCreek	sweep2	Formica obscuripes	2.62840363032055
+CedarCreek	sweep2	Geocoris undet	-2.48188940816222
+CedarCreek	sweep2	Habronattus undet	-1.82350197115692
+CedarCreek	sweep2	Harmonia axyridis	2.26774666105721
+CedarCreek	sweep2	Harmostes reflexulus	1.40426701690851
+CedarCreek	sweep2	Hippelates undet	-1.15443998727905
+CedarCreek	sweep2	Hippodamia 13-punctata	0
+CedarCreek	sweep2	Hippodamia convergens	-2.70117112662393
+CedarCreek	sweep2	Hippodamia parenthesis	2.78688873599567
+CedarCreek	sweep2	Holcostethus limbolarius	-1.14389750300325
+CedarCreek	sweep2	Homaemus undet	-1.13357162943875
+CedarCreek	sweep2	Hylemya undet	-1.47192822511051
+CedarCreek	sweep2	Hypera punctata	4.36749444804246e-16
+CedarCreek	sweep2	Hypolampis pilosa	0.482416868754983
+CedarCreek	sweep2	Incertella undet	-1.92470228382915
+CedarCreek	sweep2	Jalysus spinosus	0.131234162688675
+CedarCreek	sweep2	Laevicephalus unicoloratus	-0.361128983089246
+CedarCreek	sweep2	Larinia undet	0
+CedarCreek	sweep2	Lasius neoniger	2.60379931227862
+CedarCreek	sweep2	Leptocera undet	-0.277494913404931
+CedarCreek	sweep2	Leptocera(Rachispoda) undet	0
+CedarCreek	sweep2	Lestes undet	0
+CedarCreek	sweep2	Leucopis undet	-1.44505704498988
+CedarCreek	sweep2	Liburniella ornata	-0.12952295836656
+CedarCreek	sweep2	Ligyrocoris diffusus	-0.959959238727995
+CedarCreek	sweep2	Liohippelates undet	2.31479918140646
+CedarCreek	sweep2	Liriomyza undet	1.67751288654251
+CedarCreek	sweep2	Lygaeus kalmii	0
+CedarCreek	sweep2	Lygus atritibialis	-1.22363588593267
+CedarCreek	sweep2	Lygus lineolaris	0.708204638381524
+CedarCreek	sweep2	Macrodactylus subspinosus	-0.26619200871898
+CedarCreek	sweep2	Macrosteles fascifrons	-1.87381931916104
+CedarCreek	sweep2	Macroteleia undet	0
+CedarCreek	sweep2	Malloweia? undet	-1.97806289485265
+CedarCreek	sweep2	Medeterus undet	-0.759118112002723
+CedarCreek	sweep2	Melanoplus angustipennis	3.45091445400824
+CedarCreek	sweep2	Melanoplus bivittatus	0
+CedarCreek	sweep2	Melanoplus femurrubrum	-2.34232179872346
+CedarCreek	sweep2	Melanoplus foedus	-2.29796136337906
+CedarCreek	sweep2	Melanoplus keeleri(luridus)	1.58836928779674
+CedarCreek	sweep2	Melanoplus sanguinipes	-1.82144622875158
+CedarCreek	sweep2	Melissodes undet	-1.78571270954894
+CedarCreek	sweep2	Meromyza americana	-0.710043535236807
+CedarCreek	sweep2	Mesograpta marginata	-1.64132850251912
+CedarCreek	sweep2	Mesorhaga undet	-1.66629048507053e-11
+CedarCreek	sweep2	Metaphidippus undet	-0.360319684804819
+CedarCreek	sweep2	Microplitis undet	-0.848603132968921
+CedarCreek	sweep2	Misumena vatia	-2.04914365973266
+CedarCreek	sweep2	Misumenops asperatus	-1.18234379625607
+CedarCreek	sweep2	Misumenops undet	-0.623188922296925
+CedarCreek	sweep2	Monomorium minimum	2.08767511332589
+CedarCreek	sweep2	Mordellistena undet	-3.17438951633648
+CedarCreek	sweep2	Myrmica americana	1.83688942781689
+CedarCreek	sweep2	Myzinum undet	0
+CedarCreek	sweep2	Nabis americoferus	-3.4689239860861
+CedarCreek	sweep2	Neaspilota undet	0
+CedarCreek	sweep2	Nehalennia irene	-1.961844368561
+CedarCreek	sweep2	Nemobius undet	0
+CedarCreek	sweep2	Neoconocephalus ensiger	0
+CedarCreek	sweep2	Neoformica pallidefulva	0.231188923743454
+CedarCreek	sweep2	Neogonatopus undet	0
+CedarCreek	sweep2	Neokolla hieroglyphica	1.90718008206755
+CedarCreek	sweep2	Neoscona undet	-1.63768871958333
+CedarCreek	sweep2	Neotephritis finalis	5.4966887114738e-08
+CedarCreek	sweep2	Nephrotoma? undet	0.171591299833105
+CedarCreek	sweep2	Nesosteles neglectus	-0.427197494246648
+CedarCreek	sweep2	Norvellina undet	0
+CedarCreek	sweep2	Nostima undet	-1.67456667607383
+CedarCreek	sweep2	Notoxus anchora	-1.03689591015413
+CedarCreek	sweep2	Notoxus bifasciatus	1.48987915627598
+CedarCreek	sweep2	Nysius niger	-0.720137748891265
+CedarCreek	sweep2	Odontocorynus scutellumalbum	-2.62025928790755
+CedarCreek	sweep2	Oecanthus undet	-0.802897927336824
+CedarCreek	sweep2	Olcella undet	-0.952236144330039
+CedarCreek	sweep2	Opomyza? undet	-2.5594712934278
+CedarCreek	sweep2	Orgilus undet	0
+CedarCreek	sweep2	Orius insidiosus	-0.446498217961527
+CedarCreek	sweep2	Ortholomus scolopax	0.847119323658925
+CedarCreek	sweep2	Oscinella undet	-1.69854068414452
+CedarCreek	sweep2	Oxybelus undet	-1.78125894548019
+CedarCreek	sweep2	Pachybrachis undet	-2.8463601959977
+CedarCreek	sweep2	Pachyschelus laevigatus	-0.61319423035268
+CedarCreek	sweep2	Parabolocratus undet	1.33723252355563
+CedarCreek	sweep2	Paragus undet	0.735453482572646
+CedarCreek	sweep2	Paratrechina parvula	-1.8278699070019
+CedarCreek	sweep2	Pardalophora apiculata	-0.4864227175671
+CedarCreek	sweep2	Paroxyna albiceps	-1.8087401994032
+CedarCreek	sweep2	Perilampus undet	0.903706779749779
+CedarCreek	sweep2	Phaonia undet	0
+CedarCreek	sweep2	Pherbellia undet	-0.765200570158551
+CedarCreek	sweep2	Phidippus undet	-0.641319606254518
+CedarCreek	sweep2	Philaenus spumarius	-2.13192997905476
+CedarCreek	sweep2	Philaenus(Philaenarcys) bilineata	0
+CedarCreek	sweep2	Philanthus undet	0
+CedarCreek	sweep2	Philygria debilis	-2.4120473362036
+CedarCreek	sweep2	Phlepsius undet	0.338613092682734
+CedarCreek	sweep2	Phoetaliotes nebrascensis	-2.6026980362133
+CedarCreek	sweep2	Phthiria undet	-0.761195362786511
+CedarCreek	sweep2	Phymata pennsylvanica	-0.443998788464361
+CedarCreek	sweep2	Pipunculus undet	-0.529377235558878
+CedarCreek	sweep2	Pitedia persimilis	1.26759622394196
+CedarCreek	sweep2	Plagiognathus undet	1.83600903632868
+CedarCreek	sweep2	Platycheirus undet	-2.10839072422933
+CedarCreek	sweep2	Plunomia undet	0.816074150400983
+CedarCreek	sweep2	Polyamia obtecta	0.893859771088621
+CedarCreek	sweep2	Pristocera armifera	4.37487662065693
+CedarCreek	sweep2	Proformica neogagates	1.57392789822841
+CedarCreek	sweep2	Psammotettix lividellus	3.31110062867903
+CedarCreek	sweep2	Psen undet	-2.39469747339059
+CedarCreek	sweep2	Pseudatomoscelis seriatus	2.73470446145162
+CedarCreek	sweep2	Pseudodinia undet	2.06672738330658
+CedarCreek	sweep2	Psyllobora 20-maculata	-1.03597501932329
+CedarCreek	sweep2	Ptilodexia undet	0
+CedarCreek	sweep2	Pyrausta undet	0
+CedarCreek	sweep2	Quantas sayi?	1.34507358959746
+CedarCreek	sweep2	Rhinoncus pyrrhopus	-0.234027326512147
+CedarCreek	sweep2	Rivellia undet	0
+CedarCreek	sweep2	Rogas undet	0
+CedarCreek	sweep2	Scaphytopius acutus	2.52215008234401
+CedarCreek	sweep2	Scatella undet	0
+CedarCreek	sweep2	Scelio undet	-1.67374335451259
+CedarCreek	sweep2	Schistocerca emarginata	-2.37929083635221
+CedarCreek	sweep2	Schoenomyza undet	-1.14500313742182
+CedarCreek	sweep2	Scleroracus osborni	-0.615725438688956
+CedarCreek	sweep2	Scolops angustatus	0.218464707805983
+CedarCreek	sweep2	Scolops sulcipes	2.61157486455554
+CedarCreek	sweep2	Scolops undet	-1.49843719786484
+CedarCreek	sweep2	Senotainia undet	1.88683985596377
+CedarCreek	sweep2	Sepsis undet	2.66666666663305
+CedarCreek	sweep2	Sinea diadema	-2.03342571161473
+CedarCreek	sweep2	Siphonella oscinina	0.453073002459253
+CedarCreek	sweep2	Slaterobius insignis	2.56172801997359
+CedarCreek	sweep2	Smicronyx undet	-0.477490349593209
+CedarCreek	sweep2	Sphaerophoria undet	-0.462631258592334
+CedarCreek	sweep2	Spilochalcis undet	0
+CedarCreek	sweep2	Stenodema vicinum	1.23612664853925
+CedarCreek	sweep2	Stictocephala undet	2.88951839644033
+CedarCreek	sweep2	Stictopleurus punctiventris	-0.920620699579041
+CedarCreek	sweep2	Strigoderma arboricola	1.33333332673478
+CedarCreek	sweep2	Teleas undet	0
+CedarCreek	sweep2	Telenomus undet	-2.13718103492647
+CedarCreek	sweep2	Tetragnatha undet	-2.5058733297858
+CedarCreek	sweep2	Tetraopes 5-maculata	1.57693014875045
+CedarCreek	sweep2	Tetrastichus undet	-1.67810520094511
+CedarCreek	sweep2	Thanatus undet	0
+CedarCreek	sweep2	Thaumatomyia glabra	-1.37203200315858
+CedarCreek	sweep2	Tibellus undet	-0.539853062280997
+CedarCreek	sweep2	Tiphia undet	-0.131378826025844
+CedarCreek	sweep2	Trigonotylus coelestialium	-2.45636488220075
+CedarCreek	sweep2	Trimorus undet	0.440588377651533
+CedarCreek	sweep2	Trisulcus undet	0.893445595000652
+CedarCreek	sweep2	Trupanea actinobola	-0.121159112865242
+CedarCreek	sweep2	Tychius undet	-0.914755167914422
+CedarCreek	sweep2	Typhlocyba undet	-0.141529068104572
+CedarCreek	sweep2	Urophora undet	3.45034558658163
+CedarCreek	sweep2	Urosigalphus undet	0
+CedarCreek	sweep2	Vanduzea triguttata	2.74478475457582
+CedarCreek	sweep2	Villa lateralis	0
+CedarCreek	sweep2	Xyonysius californicus	-0.838773704487721
+CedarCreek	sweep2	Xysticus undet	-1.05857891879652
+Coweeta	StreamInvertebrates	Mixed_Substrate_Filterer	0.822996943088481
+Coweeta	StreamInvertebrates	Mixed_Substrate_Gatherer	-0.376215807358523
+Coweeta	StreamInvertebrates	Mixed_Substrate_Predator	-0.719084525825831
+Coweeta	StreamInvertebrates	Mixed_Substrate_Scraper	-1.38515241771719
+Coweeta	StreamInvertebrates	Mixed_Substrate_Shredder	0.589811500815601
+Coweeta	StreamInvertebrates	Rockface_Filterer	-0.0757368206919565
+Coweeta	StreamInvertebrates	Rockface_Gatherer	0.367820496235606
+Coweeta	StreamInvertebrates	Rockface_Predator	0.219831727372262
+Coweeta	StreamInvertebrates	Rockface_Scraper	0.606939773821688
+Coweeta	StreamInvertebrates	Rockface_Shredder	0.740733996245074
+GeorgiaCoastal	BurrowingCrabs	BurrowingCrabs	-0.219731510760103
+GeorgiaCoastal	FiddlerCrabs	FiddlerCrabs	-0.804655189451992
+GeorgiaCoastal	Grasshoppers	G0	-1.65886400410263
+GeorgiaCoastal	Grasshoppers	G1	-0.647443266258084
+GeorgiaCoastal	Grasshoppers	G2	2.68261590581832
+GeorgiaCoastal	Grasshoppers	G3	-0.0395057614731914
+GeorgiaCoastal	Grasshoppers	G4	3.64828726928977
+GeorgiaCoastal	Grasshoppers	G5	-0.656737518588868
+GeorgiaCoastal	Invertebrates	Acrididae	-1.16598062670386
+GeorgiaCoastal	Invertebrates	Prokelisia	-1.67757273377129
+HarvardForest	Ants	aphful	0.686087477525785
+HarvardForest	Ants	aphpic	0.636045494928808
+HarvardForest	Ants	camnea	2.99999997038053
+HarvardForest	Ants	camnov	-0.545319635922994
+HarvardForest	Ants	campen	0.475500710666429
+HarvardForest	Ants	forase	2.322513163412
+HarvardForest	Ants	forneo1	2.37714031937016
+HarvardForest	Ants	forsub1	-1.5398112803211
+HarvardForest	Ants	forsub2	-2.24164383116611
+HarvardForest	Ants	forsub3	-1.08532607632238
+HarvardForest	Ants	lasali	0.209049550192215
+HarvardForest	Ants	lasnea	-0.562895641498555
+HarvardForest	Ants	lasumb	0.553194777222457
+HarvardForest	Ants	myrpun	-0.808928213179081
+HarvardForest	Ants	myrscu	3.34632583234824
+HarvardForest	Ants	stebre	-2.08771064583422
+HarvardForest	Ants	steimp	-1.01469798592616
+HarvardForest	Ants	tapses	0
+HarvardForest	Ants	temlon	0.811338596087912
+HarvardForest	AntsNantucket	ambpal	-1.26607637602818
+HarvardForest	AntsNantucket	aphrud	-0.0232185593217972
+HarvardForest	AntsNantucket	aphtre	-0.338673478166009
+HarvardForest	AntsNantucket	bradep	-1.7295026900591
+HarvardForest	AntsNantucket	crelin	1.32832916891131
+HarvardForest	AntsNantucket	fordol	1.01565960294421
+HarvardForest	AntsNantucket	forexs	-1.7613680064314
+HarvardForest	AntsNantucket	forinc	2.66437259782018
+HarvardForest	AntsNantucket	forneo1	-1.42487286359199
+HarvardForest	AntsNantucket	forpal	1.345868269233
+HarvardForest	AntsNantucket	forper	6.59554715511182e-18
+HarvardForest	AntsNantucket	forsub2	3.3474268142353
+HarvardForest	AntsNantucket	forsub3	1.32487980824717
+HarvardForest	AntsNantucket	lasali	-1.08589396109846
+HarvardForest	AntsNantucket	lasfla	-2.79148394507551
+HarvardForest	AntsNantucket	laslat	0.574050699535756
+HarvardForest	AntsNantucket	lassub1	2.49573030487453
+HarvardForest	AntsNantucket	monema	1.46103001817233
+HarvardForest	AntsNantucket	myrame1	-1.85221093308895
+HarvardForest	AntsNantucket	myrame2	1.54693331570298
+HarvardForest	AntsNantucket	myrpin	-0.110744114654023
+HarvardForest	AntsNantucket	myrpun	-2.43507192911917
+HarvardForest	AntsNantucket	myrscu	1.36011812185931
+HarvardForest	AntsNantucket	myrsmi	-1.14992988589923
+HarvardForest	AntsNantucket	parpar	2.91986544090416
+HarvardForest	AntsNantucket	ponpen	1.70141426904873
+HarvardForest	AntsNantucket	preimp	3.14562061075643
+HarvardForest	AntsNantucket	solmol	-0.691755121341508
+HarvardForest	AntsNantucket	soltex	2.81599698638162
+HarvardForest	AntsNantucket	steimp	2.45034112018671
+HarvardForest	AntsNantucket	tapses	4.43167801933207
+HarvardForest	AntsNantucket	temamb	-1.81776790009774
+HarvardForest	AntsNantucket	temcur	0
+HarvardForest	AntsNantucket	tetcae	0.331051802390712
+HarvardForest	AntsNantucket	velvet ant	3.0702497910823
+HarvardForest	Ticks	Dermacentor variabilis	1.8399274611453
+HarvardForest	Ticks	Ixodes scapularis	-1.85318757978694
+HubbardBrook	lepidoptera1	2	-1.34913685450377
+HubbardBrook	lepidoptera1	3	-1.1792691825139
+HubbardBrook	lepidoptera1	4	0.353036765950095
+HubbardBrook	lepidoptera1	5	-1.91912083710487
+HubbardBrook	lepidoptera1	6	0.171906008915576
+HubbardBrook	lepidoptera2	2	1.61879149507629
+HubbardBrook	lepidoptera2	3	-0.766006304527568
+HubbardBrook	lepidoptera2	4	-1.12858748344616
+HubbardBrook	lepidoptera2	5	-2.43333267086207
+HubbardBrook	lepidoptera2	6	-0.0450058361918623
+KonzaPrairie	GallInsects	ceanothus	-1.22186528543695
+KonzaPrairie	GallInsects	solidago	1.10478164904798
+KonzaPrairie	GallInsects	vernonia	0.755147207482288
+KonzaPrairie	Grasshoppers	Ageneotettix deorum	-1.5184151978038
+KonzaPrairie	Grasshoppers	Arphia conspersa	-1.70107014486287
+KonzaPrairie	Grasshoppers	Arphia simplex	-1.368097830846
+KonzaPrairie	Grasshoppers	Arphia spp.	-1.33871433378884
+KonzaPrairie	Grasshoppers	Arphia xanthoptera	-0.190074628461624
+KonzaPrairie	Grasshoppers	Boopedon auriventris	1.2175297378075
+KonzaPrairie	Grasshoppers	Boopedon gracile	1.07744424077243
+KonzaPrairie	Grasshoppers	Campylacantha olivacea	1.62248964676979
+KonzaPrairie	Grasshoppers	Chrotophag viridifas	-0.274936801463332
+KonzaPrairie	Grasshoppers	Eritettix simplex	-1.89826542927751
+KonzaPrairie	Grasshoppers	Hadrotettix trifasciatus	1.32060805036436
+KonzaPrairie	Grasshoppers	Hesperotettix speciosus	-1.487771474996
+KonzaPrairie	Grasshoppers	Hesperotettix spp.	1.11182630930941
+KonzaPrairie	Grasshoppers	Hesperotettix viridis	-0.0320072093848327
+KonzaPrairie	Grasshoppers	Hipposicus rugosus	-1.28104921116307
+KonzaPrairie	Grasshoppers	Hypochlora alba	-1.08657976560005
+KonzaPrairie	Grasshoppers	Melanoplus bivittatus	0.201049174540745
+KonzaPrairie	Grasshoppers	Melanoplus confusus	-0.703011603012635
+KonzaPrairie	Grasshoppers	Melanoplus differentialis	1.04774853233202
+KonzaPrairie	Grasshoppers	Melanoplus femurrubrum	-1.71626686271677
+KonzaPrairie	Grasshoppers	Melanoplus keeleri	-0.973603317302378
+KonzaPrairie	Grasshoppers	Melanoplus packardii	1.44265133016094
+KonzaPrairie	Grasshoppers	Melanoplus sanguinipes	-0.668156627124549
+KonzaPrairie	Grasshoppers	Melanoplus scudderi	0.35478932910083
+KonzaPrairie	Grasshoppers	Melanoplus spp.	-0.819188517936178
+KonzaPrairie	Grasshoppers	Mermiria bivittata	0.399202858446767
+KonzaPrairie	Grasshoppers	Mermiria picta	0.875527198517283
+KonzaPrairie	Grasshoppers	Mermiria spp.	1.96323406264604
+KonzaPrairie	Grasshoppers	Opeia obscura	3.58976213428308
+KonzaPrairie	Grasshoppers	Orphulella speciosa	-2.02710324968071
+KonzaPrairie	Grasshoppers	Paratylotr brunneri	1.65832510475415
+KonzaPrairie	Grasshoppers	Pardalopho apiculata	0.509410166150883
+KonzaPrairie	Grasshoppers	Pardalophora haldemani	-1.22184125965653
+KonzaPrairie	Grasshoppers	Pardalophora spp.	-1.0814442052867
+KonzaPrairie	Grasshoppers	Phoetaliotes nebrascensis	-1.24980492359573
+KonzaPrairie	Grasshoppers	Pseudopoma brachypte	1.72745136625162
+KonzaPrairie	Grasshoppers	Schistocerca lineata	3.23358415482942
+KonzaPrairie	Grasshoppers	Syrbula admirabilis	-3.5033336108195
+Midwest	Aphids	Acyrthosiphon caraganae	0.062656832773453
+Midwest	Aphids	Acyrthosiphon lactucae	-1.09930358725541
+Midwest	Aphids	Acyrthosiphon pisum	-0.060241580463896
+Midwest	Aphids	Anoecia corni	-0.808165679707898
+Midwest	Aphids	Anoecia cornicola	-0.368022441570142
+Midwest	Aphids	Anoecia oenotherae	-0.787480053939914
+Midwest	Aphids	Anoecia setariae	-0.183397197321208
+Midwest	Aphids	Aphis asclepiadis	-1.67240666959734
+Midwest	Aphids	Aphis coreopsidis	0.112242767758367
+Midwest	Aphids	Aphis craccivora	-0.611371650699616
+Midwest	Aphids	Aphis decepta	-0.117590759492824
+Midwest	Aphids	Aphis fabae	3.57039944118753
+Midwest	Aphids	Aphis folsomii	0.063490275360489
+Midwest	Aphids	Aphis glycines	0.0246925220790451
+Midwest	Aphids	Aphis gossypii	-1.68163112229554
+Midwest	Aphids	Aphis illinoisensis	-0.638109223224541
+Midwest	Aphids	Aphis maculatae	0.147602316236186
+Midwest	Aphids	Aphis nasturtii	1.23349884183977
+Midwest	Aphids	Aphis nerii	-1.25914203670543
+Midwest	Aphids	Aphis polygonata	-0.489572284847307
+Midwest	Aphids	Aphis pulchella	0.847100529319578
+Midwest	Aphids	Aphis rubicola	-2.8452856911161
+Midwest	Aphids	Aphis rumicis	-0.808991849161864
+Midwest	Aphids	Aphis sambuci	-0.132776841270331
+Midwest	Aphids	Aphis spiraecola	-1.06398527320897
+Midwest	Aphids	Aulacorthum solani	-2.97013277750917
+Midwest	Aphids	Brachycaudus helichrysi	-0.299544299838987
+Midwest	Aphids	Calaphis betulella	-1.15566065091684
+Midwest	Aphids	Capitophorus elaeagni	-1.01767972819877
+Midwest	Aphids	Capitophorus hippophaes	1.41300797684076
+Midwest	Aphids	Cavariella aegopodii	0.019360676184626
+Midwest	Aphids	Chaitophorus populicola	-0.282106112690382
+Midwest	Aphids	Colopha ulmicola	-0.327979264900167
+Midwest	Aphids	Drepanaphis acerifoliae	-0.782660561733723
+Midwest	Aphids	Dysaphis plantaginea	-0.413582527047355
+Midwest	Aphids	Eucallipterus tiliae	0.772208418238128
+Midwest	Aphids	Eulachnus rileyi	-0.64906363652806
+Midwest	Aphids	Forda marginata	-1.18299614721245
+Midwest	Aphids	Geoica utricularia	-1.06357929883224
+Midwest	Aphids	Hamamelistes spinosus	-1.46083880151974
+Midwest	Aphids	Hayhurstia atriplicis	-0.0994078413658185
+Midwest	Aphids	Hyadaphis foeniculi	-0.423459370464345
+Midwest	Aphids	Hyadaphis tataricae	-0.558750272794151
+Midwest	Aphids	Hyalopterus pruni	-0.238814290622114
+Midwest	Aphids	Hyperomyzus spp.	0.15456467449124
+Midwest	Aphids	Hysteroneura setariae	-1.04864133397879
+Midwest	Aphids	Illinoia spp.	0.193437492062618
+Midwest	Aphids	Iziphya flabella	-1.78169123385493
+Midwest	Aphids	Kaltenbachiella ulmifusa	-0.910974228881646
+Midwest	Aphids	Lipaphis pseudobrassicae	-0.306874743098294
+Midwest	Aphids	Macrosiphoniella spp.	-0.854560188889269
+Midwest	Aphids	Macrosiphum euphorbiae	-0.00311360173628544
+Midwest	Aphids	Melanaphis sacchari	-0.779896727383145
+Midwest	Aphids	Metopolophium dirhodum	0.0814246529834372
+Midwest	Aphids	Monellia caryella	0.307349806418765
+Midwest	Aphids	Myzocallis spp.	-0.751833805442289
+Midwest	Aphids	Myzus lythri	-0.763702820463396
+Midwest	Aphids	Myzus persicae	0.241864598051291
+Midwest	Aphids	Nearctaphis bakeri	-1.04300067036337
+Midwest	Aphids	Nearctaphis crataegifoliae	1.08253028077033
+Midwest	Aphids	Phorodon humuli	0.255180562565579
+Midwest	Aphids	Prociphilus spp.	-0.476590458305053
+Midwest	Aphids	Protaphis debilicornis	-0.524109127240898
+Midwest	Aphids	Protaphis middletonii	-2.06688366024675
+Midwest	Aphids	Pterocallis alnifoliae	0.461250517271528
+Midwest	Aphids	Rhopalosiphoninus latysiphon	-4.37679511317743
+Midwest	Aphids	Rhopalosiphoninus staphyleae	-1.03995870808872
+Midwest	Aphids	Rhopalosiphum cerasifoliae	-1.32400739574073
+Midwest	Aphids	Rhopalosiphum maidis	-1.87463610243629
+Midwest	Aphids	Rhopalosiphum nymphaeae	0.420295324767808
+Midwest	Aphids	Rhopalosiphum oxyacanthae	0.884605597888428
+Midwest	Aphids	Rhopalosiphum padi	0.91301485828572
+Midwest	Aphids	Rhopalosiphum rufiabdominale	0.24644886419195
+Midwest	Aphids	Schizaphis graminum	0.721463133696455
+Midwest	Aphids	Shivaphis celti	0.591428206540562
+Midwest	Aphids	Sipha elegans	-0.0566057637490822
+Midwest	Aphids	Sipha flava	-1.58190510780106
+Midwest	Aphids	Sitobion avenae	0.619953627585157
+Midwest	Aphids	Tetraneura spp.	-0.318491432396532
+Midwest	Aphids	Therioaphis riehmi	-0.313637549354642
+Midwest	Aphids	Therioaphis trifolii	-1.37295141599263
+Midwest	Aphids	Thripsaphis spp.	-1.09548774570404
+Midwest	Aphids	Tinocallis saltans	-1.46116521124717
+Midwest	Aphids	Uroleucon taraxaci	-0.213569321769214
+NorthTemperateLakes	BenthicMacroinvertebrates	ACARI	-3.79221077334144
+NorthTemperateLakes	BenthicMacroinvertebrates	AESHA	-2.04344389856459
+NorthTemperateLakes	BenthicMacroinvertebrates	AESHN	-1.38784457954383
+NorthTemperateLakes	BenthicMacroinvertebrates	AGARO	-1.69207116814871
+NorthTemperateLakes	BenthicMacroinvertebrates	AMNIC	0.357334202318009
+NorthTemperateLakes	BenthicMacroinvertebrates	ANCYL	1.29886079665016
+NorthTemperateLakes	BenthicMacroinvertebrates	ANNEL	-0.737039491236547
+NorthTemperateLakes	BenthicMacroinvertebrates	ASELD	2.1175706060933
+NorthTemperateLakes	BenthicMacroinvertebrates	ASELL	-1.35477869196836
+NorthTemperateLakes	BenthicMacroinvertebrates	ATENE	-0.0589545601541583
+NorthTemperateLakes	BenthicMacroinvertebrates	BAETI	0.081623802546575
+NorthTemperateLakes	BenthicMacroinvertebrates	BASIA	0.889340914506506
+NorthTemperateLakes	BenthicMacroinvertebrates	BASJAN	1.33948441527423
+NorthTemperateLakes	BenthicMacroinvertebrates	BOYER	-0.364990136559993
+NorthTemperateLakes	BenthicMacroinvertebrates	CAECI	-1.15674984527907
+NorthTemperateLakes	BenthicMacroinvertebrates	CAENI	-1.5564110462261
+NorthTemperateLakes	BenthicMacroinvertebrates	CALLI	1.34061634151983
+NorthTemperateLakes	BenthicMacroinvertebrates	CENTROP	-0.0585878965721151
+NorthTemperateLakes	BenthicMacroinvertebrates	CERAT	1.28975579961331
+NorthTemperateLakes	BenthicMacroinvertebrates	CHEATO	1.40789101214036
+NorthTemperateLakes	BenthicMacroinvertebrates	CHIRO	-1.53021465493225
+NorthTemperateLakes	BenthicMacroinvertebrates	CHRIONI	2.03462271502934
+NorthTemperateLakes	BenthicMacroinvertebrates	CLADO	2.20268521343422
+NorthTemperateLakes	BenthicMacroinvertebrates	CO_LI	-0.484401558347472
+NorthTemperateLakes	BenthicMacroinvertebrates	COENA	2.34480366921498
+NorthTemperateLakes	BenthicMacroinvertebrates	COLEO	-0.787037152359307
+NorthTemperateLakes	BenthicMacroinvertebrates	COLLE	-0.655792312373747
+NorthTemperateLakes	BenthicMacroinvertebrates	COPEP	2.26748916271067
+NorthTemperateLakes	BenthicMacroinvertebrates	CORDU	3.52498851725936
+NorthTemperateLakes	BenthicMacroinvertebrates	CRANG	1.70935492827258
+NorthTemperateLakes	BenthicMacroinvertebrates	DASYH	0.967033407999364
+NorthTemperateLakes	BenthicMacroinvertebrates	DIAMES	-0.0585878965715537
+NorthTemperateLakes	BenthicMacroinvertebrates	DIPTE	-1.86521974579221
+NorthTemperateLakes	BenthicMacroinvertebrates	DROMO	-0.359407644465233
+NorthTemperateLakes	BenthicMacroinvertebrates	DUBIR	-2.31711912762931
+NorthTemperateLakes	BenthicMacroinvertebrates	DUBMIN	1.37077673985127
+NorthTemperateLakes	BenthicMacroinvertebrates	DUBQUA	1.03940348311893
+NorthTemperateLakes	BenthicMacroinvertebrates	DUBROB	0.896713295042981
+NorthTemperateLakes	BenthicMacroinvertebrates	ELMID	-2.4657846342736
+NorthTemperateLakes	BenthicMacroinvertebrates	EMPID	1.82089276813939
+NorthTemperateLakes	BenthicMacroinvertebrates	ENAEBR	0.549030673249727
+NorthTemperateLakes	BenthicMacroinvertebrates	ENALL	-1.18028059641414
+NorthTemperateLakes	BenthicMacroinvertebrates	ENCHYT	1.03940348311893
+NorthTemperateLakes	BenthicMacroinvertebrates	EPHED	-0.643368786970519
+NorthTemperateLakes	BenthicMacroinvertebrates	EPHEM	0.282944022852603
+NorthTemperateLakes	BenthicMacroinvertebrates	EPHRA	0.993020929605343
+NorthTemperateLakes	BenthicMacroinvertebrates	EPITH	-1.81375485562237
+NorthTemperateLakes	BenthicMacroinvertebrates	ERPPUN	-1.46435927473869
+NorthTemperateLakes	BenthicMacroinvertebrates	EURYL	-1.34268795605384
+NorthTemperateLakes	BenthicMacroinvertebrates	GASTR	-0.749249830083192
+NorthTemperateLakes	BenthicMacroinvertebrates	GOMPH	1.82815812871657
+NorthTemperateLakes	BenthicMacroinvertebrates	GOMPHUS	-0.710319809262935
+NorthTemperateLakes	BenthicMacroinvertebrates	GYRAU	-1.63600389801277
+NorthTemperateLakes	BenthicMacroinvertebrates	HAGBRE	1.00979519377774
+NorthTemperateLakes	BenthicMacroinvertebrates	HAGEN	-1.55339107954946
+NorthTemperateLakes	BenthicMacroinvertebrates	HALAC	2.61328766158371
+NorthTemperateLakes	BenthicMacroinvertebrates	HELIC	-2.57661979385874
+NorthTemperateLakes	BenthicMacroinvertebrates	HELIS	-0.855699754565587
+NorthTemperateLakes	BenthicMacroinvertebrates	HEPTA	-1.20093043968355
+NorthTemperateLakes	BenthicMacroinvertebrates	HIRUD	-0.0809507079605838
+NorthTemperateLakes	BenthicMacroinvertebrates	HYALE	-1.93350976665804
+NorthTemperateLakes	BenthicMacroinvertebrates	HYDRA	-0.451635877610622
+NorthTemperateLakes	BenthicMacroinvertebrates	HYDRB	-1.68210883624278
+NorthTemperateLakes	BenthicMacroinvertebrates	HYDRC	0.130867760627451
+NorthTemperateLakes	BenthicMacroinvertebrates	HYDRO	-0.730645115937532
+NorthTemperateLakes	BenthicMacroinvertebrates	HYDRP	-1.49470328247613
+NorthTemperateLakes	BenthicMacroinvertebrates	ISOPO	0.238849123052693
+NorthTemperateLakes	BenthicMacroinvertebrates	LEPBI	0.353661509742769
+NorthTemperateLakes	BenthicMacroinvertebrates	LEPTO	-0.29915364749861
+NorthTemperateLakes	BenthicMacroinvertebrates	LEPTP	1.73870971462702
+NorthTemperateLakes	BenthicMacroinvertebrates	LEUCO	0.799497064425863
+NorthTemperateLakes	BenthicMacroinvertebrates	LIBEL	-0.752564319727614
+NorthTemperateLakes	BenthicMacroinvertebrates	LYMNA	-0.48010291011462
+NorthTemperateLakes	BenthicMacroinvertebrates	MACRO	-0.700108322234215
+NorthTemperateLakes	BenthicMacroinvertebrates	MOLGRA	1.29886079665016
+NorthTemperateLakes	BenthicMacroinvertebrates	MYSTA	-1.23416929810244
+NorthTemperateLakes	BenthicMacroinvertebrates	NAIDIN	1.2311931823553
+NorthTemperateLakes	BenthicMacroinvertebrates	NECTO	-1.91832269811898
+NorthTemperateLakes	BenthicMacroinvertebrates	NEMAT	0.660931781199565
+NorthTemperateLakes	BenthicMacroinvertebrates	NEMER	-0.858181621532693
+NorthTemperateLakes	BenthicMacroinvertebrates	OECET	-1.51824022176122
+NorthTemperateLakes	BenthicMacroinvertebrates	OLIGO	-0.310037104008797
+NorthTemperateLakes	BenthicMacroinvertebrates	ORBIT	-0.975834337003928
+NorthTemperateLakes	BenthicMacroinvertebrates	ORCON	1.1092119960296
+NorthTemperateLakes	BenthicMacroinvertebrates	ORTHOC	2.23438067552738
+NorthTemperateLakes	BenthicMacroinvertebrates	OSTRA	-3.94725999644782
+NorthTemperateLakes	BenthicMacroinvertebrates	OXYTH	-0.717907776896161
+NorthTemperateLakes	BenthicMacroinvertebrates	PALPOM	0.720465726998433
+NorthTemperateLakes	BenthicMacroinvertebrates	PARAL	-0.239520898466954
+NorthTemperateLakes	BenthicMacroinvertebrates	PELEC	1.2416264555831
+NorthTemperateLakes	BenthicMacroinvertebrates	PHRYA	-1.50777658113187
+NorthTemperateLakes	BenthicMacroinvertebrates	PHYSA	-0.455884953120171
+NorthTemperateLakes	BenthicMacroinvertebrates	PHYSI	2.28566394012098
+NorthTemperateLakes	BenthicMacroinvertebrates	PISIDM	1.90294707862129
+NorthTemperateLakes	BenthicMacroinvertebrates	PLANA	0.635877120115
+NorthTemperateLakes	BenthicMacroinvertebrates	PLANO	4.05289553674802
+NorthTemperateLakes	BenthicMacroinvertebrates	POLYC	-1.04539540242323
+NorthTemperateLakes	BenthicMacroinvertebrates	POLYD	-0.271953292573388
+NorthTemperateLakes	BenthicMacroinvertebrates	PROCL	1.25671233777367
+NorthTemperateLakes	BenthicMacroinvertebrates	RIPPAR	0.806195118313015
+NorthTemperateLakes	BenthicMacroinvertebrates	SIALI	-4.08195057885893
+NorthTemperateLakes	BenthicMacroinvertebrates	SLAAPP	0.916010771912894
+NorthTemperateLakes	BenthicMacroinvertebrates	STEFEM	0.466182356006836
+NorthTemperateLakes	BenthicMacroinvertebrates	STENE	-3.04847612365176
+NorthTemperateLakes	BenthicMacroinvertebrates	STENO	-0.533788360616712
+NorthTemperateLakes	BenthicMacroinvertebrates	STYLAC	0.145780760229758
+NorthTemperateLakes	BenthicMacroinvertebrates	SYMPE	-0.313876596974684
+NorthTemperateLakes	BenthicMacroinvertebrates	TANYP	1.96291390774624
+NorthTemperateLakes	BenthicMacroinvertebrates	TANYT	-0.654623245400845
+NorthTemperateLakes	BenthicMacroinvertebrates	TIMPA	1.71973820512228
+NorthTemperateLakes	BenthicMacroinvertebrates	TIPUL	1.60569346260986
+NorthTemperateLakes	BenthicMacroinvertebrates	TRIAE	-1.24495324442675
+NorthTemperateLakes	BenthicMacroinvertebrates	TRICH	1.65037235754636
+NorthTemperateLakes	BenthicMacroinvertebrates	TRICLA	-2.11844831482576
+NorthTemperateLakes	BenthicMacroinvertebrates	TRIPU	-2.37808160509764
+NorthTemperateLakes	BenthicMacroinvertebrates	TUBIMMWO	1.20511787871308
+NorthTemperateLakes	BenthicMacroinvertebrates	TURBL	1.08572878260953
+NorthTemperateLakes	Crayfish1	Orconectes propinquus	1.29970977073339
+NorthTemperateLakes	Crayfish1	Orconectes rusticus	1.04056458850628
+NorthTemperateLakes	Crayfish1	Orconectes virilis	-0.941692863892864
+NorthTemperateLakes	Crayfish2	Orconectes rusticus	-2.56525755092403
+NorthTemperateLakes	Crayfish2	Orconectes virilis	2.40089041852454
+NorthTemperateLakes	PelagicMacroinvertebrates	BYTHOTREPHES	2.231193021985
+NorthTemperateLakes	PelagicMacroinvertebrates	CHAOBORUS LARVAE	-0.339592803308214
+NorthTemperateLakes	PelagicMacroinvertebrates	CHAOBORUS PUPAE	1.59760854530064
+NorthTemperateLakes	PelagicMacroinvertebrates	LEPTODORA	0.0844782121157458
+NorthTemperateLakes	PelagicMacroinvertebrates	MYSIS	0.668234315456139
+Phoenix	pitfall1	(Anisotarsus) Notiobia	-0.623990746056947
+Phoenix	pitfall1	Acari	-2.93486500052539
+Phoenix	pitfall1	Aceratagallia	-1.27801910114759
+Phoenix	pitfall1	Aconobius	0.334180533957723
+Phoenix	pitfall1	Acrididae	-0.739240816995244
+Phoenix	pitfall1	Aeolothripidae	0.859598056911215
+Phoenix	pitfall1	Agonum	2.51022725446546
+Phoenix	pitfall1	Agroeca	2.55852945559624
+Phoenix	pitfall1	Alconeura	-1.13607755519604
+Phoenix	pitfall1	Aleochara	0.582446698031739
+Phoenix	pitfall1	Aleyrodidae	-2.84525194630478
+Phoenix	pitfall1	Allocosa	-0.77328201161275
+Phoenix	pitfall1	Alopecosa	0.543439652022535
+Phoenix	pitfall1	Amara	1.06404489938252
+Phoenix	pitfall1	Andrenidae	-2.21091904430076
+Phoenix	pitfall1	Anepsius	-2.68645080152177
+Phoenix	pitfall1	Anthicidae	-2.43074198341521
+Phoenix	pitfall1	Anthicus	0.444841676036573
+Phoenix	pitfall1	Anthocoridae	1.18652844593438
+Phoenix	pitfall1	Anthomyiidae	-0.116436074633842
+Phoenix	pitfall1	Anystidae	-2.71204166673847
+Phoenix	pitfall1	Anystoidea	-0.8556976919109
+Phoenix	pitfall1	Aphaenogaster	0.690837295324457
+Phoenix	pitfall1	Aphididae	-2.20870442655787
+Phoenix	pitfall1	Aphodius	-0.840430232855626
+Phoenix	pitfall1	Apis	-0.585950291893956
+Phoenix	pitfall1	Apis mellifera	-1.24818295829762
+Phoenix	pitfall1	Apocellus	1.57139693988982
+Phoenix	pitfall1	Araeoschizus	1.50507892123804
+Phoenix	pitfall1	Araneida	-1.25704801640116
+Phoenix	pitfall1	Araneidae	-1.78323138727792
+Phoenix	pitfall1	Arctosa	0.796910581667375
+Phoenix	pitfall1	Arenivaga	1.16929351322734
+Phoenix	pitfall1	Argidae	-2.48324513127001
+Phoenix	pitfall1	Argoporis	1.22128210529485
+Phoenix	pitfall1	Argoporis bicolor	0.0862313394089324
+Phoenix	pitfall1	Asbolus	1.29292264251684
+Phoenix	pitfall1	Asidina parallela	-0.16688358260559
+Phoenix	pitfall1	Asilidae	2.42850395872538
+Phoenix	pitfall1	Ataenius	-1.86585959838785
+Phoenix	pitfall1	Athysanella	2.79591134937723
+Phoenix	pitfall1	Aufeius	0.984828530636265
+Phoenix	pitfall1	Baetidae	2.03677543339031
+Phoenix	pitfall1	Batuliodes	-1.56674774867043
+Phoenix	pitfall1	Bdellidae	2.33676070800705
+Phoenix	pitfall1	Bembidion	1.38601504375402
+Phoenix	pitfall1	Bethylidae	-0.207753512747227
+Phoenix	pitfall1	Blapstinus	4.81233047391559
+Phoenix	pitfall1	Blattaria	-0.798570876460414
+Phoenix	pitfall1	Blattidae	-2.93090642668937
+Phoenix	pitfall1	Bombyliidae	-4.00917006743877
+Phoenix	pitfall1	Brachymyrmex	6.09362652057795
+Phoenix	pitfall1	Brachymyrmex patagonicus	0.636569002295178
+Phoenix	pitfall1	Braconidae	2.19173786939402
+Phoenix	pitfall1	Bruchidae	-0.193382226459337
+Phoenix	pitfall1	Caeculidae	-1.90059414749592
+Phoenix	pitfall1	Calliphoridae	2.20047945929506
+Phoenix	pitfall1	Camponotus	0.934109600839423
+Phoenix	pitfall1	Caponiidae	-0.721954456236574
+Phoenix	pitfall1	Carabidae	-2.69276278009077
+Phoenix	pitfall1	Cardiocondyla	-1.4777879097865
+Phoenix	pitfall1	Carneocephala	2.53325099912621
+Phoenix	pitfall1	Cecidomyiidae	0.987530227394395
+Phoenix	pitfall1	Ceraphronidae	0.424730118586218
+Phoenix	pitfall1	Ceraticelus	2.12534201270797
+Phoenix	pitfall1	Ceratocapsus	-2.22252764533638
+Phoenix	pitfall1	Ceratopogonidae	1.07123540144884
+Phoenix	pitfall1	Chaetocnema	7.74886139370264
+Phoenix	pitfall1	Chalcidoidea	-2.1998120909893
+Phoenix	pitfall1	Charhyphus	0.812808861928521
+Phoenix	pitfall1	Chilopoda	-2.15486997646167
+Phoenix	pitfall1	Chironomidae	6.82580818946481
+Phoenix	pitfall1	Chloropidae	1.43697136738734
+Phoenix	pitfall1	Chrysididae	2.74848948044837
+Phoenix	pitfall1	Chrysomelidae	-0.657461427482331
+Phoenix	pitfall1	Chrysopidae	-3.7116910534941
+Phoenix	pitfall1	Cicadellidae	-3.35109753738463
+Phoenix	pitfall1	Cicindela (Cicindelidia) nigrocoerulea	-0.955511418185077
+Phoenix	pitfall1	Cixiidae	2.4981038615129
+Phoenix	pitfall1	Clubionidae	-1.07383507397654
+Phoenix	pitfall1	Cnemodus	0.153441340084918
+Phoenix	pitfall1	Coccidophilus	0.119639665241251
+Phoenix	pitfall1	Coccinella	1.99707260144457
+Phoenix	pitfall1	Coccinellidae	-1.92007945214691
+Phoenix	pitfall1	Coccoidea	-0.225959829043982
+Phoenix	pitfall1	Coleoptera	-0.835185279979011
+Phoenix	pitfall1	Collembola	-2.87515044703202
+Phoenix	pitfall1	Collops	1.55656066545827
+Phoenix	pitfall1	Conoderus	-0.0148550352976954
+Phoenix	pitfall1	Cononotus	-0.587296566380835
+Phoenix	pitfall1	Coproporus	2.47666135102601
+Phoenix	pitfall1	Corylophidae	-1.73186032492852
+Phoenix	pitfall1	Corythaica	1.52118351403949
+Phoenix	pitfall1	Corythucha	1.50640457881582
+Phoenix	pitfall1	Crematogaster	-0.44009352533823
+Phoenix	pitfall1	Cryptoglossa	1.72268176892419
+Phoenix	pitfall1	Cryptoglossa muricatus	1.98931948670022
+Phoenix	pitfall1	Crytophagus	2.54607307190436
+Phoenix	pitfall1	Ctenisis	-0.505385838577682
+Phoenix	pitfall1	Cucujidae	-2.55905408975445
+Phoenix	pitfall1	Culicidae	1.6153138813365
+Phoenix	pitfall1	Curculionidae	0.343074825192601
+Phoenix	pitfall1	Cyclocephala	1.76850800524321
+Phoenix	pitfall1	Cydnidae	-2.46344528854066
+Phoenix	pitfall1	Cyphomyrmex	1.19201680307776
+Phoenix	pitfall1	Cyphophthalmi	1.84224474425029
+Phoenix	pitfall1	Delphacidae	-1.19909531261744
+Phoenix	pitfall1	Deltocephalus	2.07632190076291
+Phoenix	pitfall1	Dermaptera	-1.05312235956737
+Phoenix	pitfall1	Dermestidae	0.978256965608941
+Phoenix	pitfall1	Derobrachus	-1.73572336754846
+Phoenix	pitfall1	Diapriidae	0.69207991297582
+Phoenix	pitfall1	Dictyna	0.391290044090886
+Phoenix	pitfall1	Dictynidae	-1.76020071129619
+Phoenix	pitfall1	Diptera	-2.24932800327828
+Phoenix	pitfall1	Dolichopodidae	0.261858939011062
+Phoenix	pitfall1	Dorymyrmex	-1.17151858954428
+Phoenix	pitfall1	Dorymyrmex bicolor	-0.527477727936146
+Phoenix	pitfall1	Dorymyrmex insanus	0.530347477360425
+Phoenix	pitfall1	Drapetis	-1.97657893139218
+Phoenix	pitfall1	Drassyllus	1.34308119583387
+Phoenix	pitfall1	Dryinidae	-0.144857795453361
+Phoenix	pitfall1	Elateridae	-1.87376893783663
+Phoenix	pitfall1	Eleodes	0.286397913056872
+Phoenix	pitfall1	Eleodes armatus	2.12832811553055
+Phoenix	pitfall1	Eleodes omissa	-0.285332198264431
+Phoenix	pitfall1	Embiidina	-2.31772218661201
+Phoenix	pitfall1	Emblethis	2.3362991953357
+Phoenix	pitfall1	Empididae	1.35122414348641
+Phoenix	pitfall1	Empoasca	-1.18486682653328
+Phoenix	pitfall1	Encyrtidae	1.34415204619913
+Phoenix	pitfall1	Enicocephalidae	0.184755729765138
+Phoenix	pitfall1	Entomobryidae	0.641299137084436
+Phoenix	pitfall1	Eperigone	-0.139074295394421
+Phoenix	pitfall1	Ephebomyrmex	-1.08423291235882
+Phoenix	pitfall1	Ephydridae	1.51617909043974
+Phoenix	pitfall1	Eremobatidae	-0.122953452488619
+Phoenix	pitfall1	Eremosaprinus	1.75933789562039
+Phoenix	pitfall1	Erigone	-2.13680669339624
+Phoenix	pitfall1	Eriosomatidae	-0.183789303424584
+Phoenix	pitfall1	Erythraeidae	1.84858608685351
+Phoenix	pitfall1	Erythraeoidea	0.0327883425342959
+Phoenix	pitfall1	Eucyllus	1.82552084829355
+Phoenix	pitfall1	Euetheola	-0.46428743122202
+Phoenix	pitfall1	Eulophidae	0.279968820838837
+Phoenix	pitfall1	Eupompha	0.490714775275292
+Phoenix	pitfall1	Euryopis	0.382015670642831
+Phoenix	pitfall1	Exitianus	0.443512761404888
+Phoenix	pitfall1	Fanniinae	1.19407065722324
+Phoenix	pitfall1	Figitidae	-1.31400395839044
+Phoenix	pitfall1	Filistatoides	2.11244455058475
+Phoenix	pitfall1	Forelius	-0.766830276699818
+Phoenix	pitfall1	Forelius mccooki	2.46500452371675
+Phoenix	pitfall1	Forelius pruinosus	1.40397844610767
+Phoenix	pitfall1	Formicidae	-2.64619915587678
+Phoenix	pitfall1	Formicilla	-0.815842716142088
+Phoenix	pitfall1	Gastropoda (not an arthropod)	-1.63488781531996
+Phoenix	pitfall1	Gelechiidae	1.29235190691176
+Phoenix	pitfall1	Geocoris	0.00991619451159725
+Phoenix	pitfall1	Geometridae	0.791756138452004
+Phoenix	pitfall1	Geomysaprinus (Priscosaprinus)	-0.790631638086851
+Phoenix	pitfall1	Glenognatha	2.60043838178325
+Phoenix	pitfall1	Gloridonus	-0.438926087733075
+Phoenix	pitfall1	Glyptina	-1.47030302458805
+Phoenix	pitfall1	Gnaphosa	-0.412480070159034
+Phoenix	pitfall1	Gnaphosidae	-0.623059078497195
+Phoenix	pitfall1	Gryllacrididae	-1.27516916293613
+Phoenix	pitfall1	Gryllidae	-2.68277235413682
+Phoenix	pitfall1	Habronattus	1.4002766217494
+Phoenix	pitfall1	Hadrurus arizonensis	-1.02980101901563
+Phoenix	pitfall1	Halictidae	-6.81259361978964
+Phoenix	pitfall1	Hebecephalus	0.155255589823559
+Phoenix	pitfall1	Heleomyzidae	-0.222678009293267
+Phoenix	pitfall1	Hemerobiidae	-2.86593646548286
+Phoenix	pitfall1	Hemiptera	-0.0432495400942671
+Phoenix	pitfall1	Henicopidae	1.53135694912263
+Phoenix	pitfall1	Heteroderes	0.237456155384458
+Phoenix	pitfall1	Hippodamia	0.522913803227579
+Phoenix	pitfall1	Histeridae	-1.53703080647476
+Phoenix	pitfall1	Hogna	0.584037319792844
+Phoenix	pitfall1	Homoptera	1.03319592497769
+Phoenix	pitfall1	Horistonotus	0.684129681520758
+Phoenix	pitfall1	Hymenoptera	-1.09133487811762
+Phoenix	pitfall1	Hypera	0.582598181218545
+Phoenix	pitfall1	Hypogastruridae	-0.85441984405096
+Phoenix	pitfall1	Hypoponera	-0.600608158002935
+Phoenix	pitfall1	Ichneumonidae	-3.70071611730543
+Phoenix	pitfall1	Isopoda	-2.0044832873095
+Phoenix	pitfall1	Isoptera	-2.77850406049551
+Phoenix	pitfall1	Isotomidae	-2.35707384863695
+Phoenix	pitfall1	Labidura riparia	-2.25610736988311
+Phoenix	pitfall1	Labiidae	-2.61807073412239
+Phoenix	pitfall1	Largus	-2.21411756920144
+Phoenix	pitfall1	Lathridiidae	-2.85757842134543
+Phoenix	pitfall1	Latrodectus	2.75767370434735
+Phoenix	pitfall1	Lebia	-1.70676930945207
+Phoenix	pitfall1	Leiodidae	-2.09270632582536
+Phoenix	pitfall1	Lepidoptera	-2.1713299564386
+Phoenix	pitfall1	Lepismatidae	-1.0082273700322
+Phoenix	pitfall1	Leptacinus	-1.2729154575595
+Phoenix	pitfall1	Ligyrocoris	1.53443078312334
+Phoenix	pitfall1	Linepithema	-1.03754981345774
+Phoenix	pitfall1	Linyphiidae	-1.76680248211226
+Phoenix	pitfall1	Liocranidae	-2.06169311753284
+Phoenix	pitfall1	Liorhyssus	1.07208629565011
+Phoenix	pitfall1	Loxosceles	-0.8701195723571
+Phoenix	pitfall1	Lycosa	-3.15837228851224
+Phoenix	pitfall1	Lycosidae	0.0472359458457746
+Phoenix	pitfall1	Lygaeidae	-1.98966360819736
+Phoenix	pitfall1	Lygaeus	-0.303182556753556
+Phoenix	pitfall1	Mantidae	-3.09893797323693
+Phoenix	pitfall1	Mantodea	-1.37306658481517
+Phoenix	pitfall1	Mecinus	1.54519501435177
+Phoenix	pitfall1	Megalostomis	2.51751534891139
+Phoenix	pitfall1	Meinertellidae	-1.58848713353738
+Phoenix	pitfall1	Melanaethus	1.55568842495408
+Phoenix	pitfall1	Melanophthalma	-0.412463026764672
+Phoenix	pitfall1	Meloidae	-0.315221697121629
+Phoenix	pitfall1	Melyridae	-2.11986501988752
+Phoenix	pitfall1	Membracidae	0.801201955117016
+Phoenix	pitfall1	Meristhus	-2.02374044579667
+Phoenix	pitfall1	Messor	-1.19881640330805
+Phoenix	pitfall1	Metoponium	-2.42558220404406
+Phoenix	pitfall1	Micaria	0.941707422723386
+Phoenix	pitfall1	Microporus	0.655017454317687
+Phoenix	pitfall1	Migneauxia	1.53533826245433
+Phoenix	pitfall1	Mimetus	-2.67024392289629
+Phoenix	pitfall1	Miridae	-2.9114385380887
+Phoenix	pitfall1	Monomorium	1.34545262675305
+Phoenix	pitfall1	Muscidae	0.139259170689584
+Phoenix	pitfall1	Mutillidae	-2.8768409357448
+Phoenix	pitfall1	Mycetophagidae	0.56557462280857
+Phoenix	pitfall1	Mymaridae	-0.480226979796829
+Phoenix	pitfall1	Myrmecocystus	-0.233277195804278
+Phoenix	pitfall1	Myrmeleontidae	0.145331934855533
+Phoenix	pitfall1	Nabidae	-1.5010283616711
+Phoenix	pitfall1	Nabis	1.53380562110769
+Phoenix	pitfall1	Neivamyrmex	-1.45131342103717
+Phoenix	pitfall1	Neoanagraphis	1.09572971765316
+Phoenix	pitfall1	Neobisnius	-0.0514812380417421
+Phoenix	pitfall1	Nesticidae	-1.79110566014962
+Phoenix	pitfall1	Neuroptera	-0.196453022661626
+Phoenix	pitfall1	Niesthrea	0.04408920547438
+Phoenix	pitfall1	Nitidulidae	-2.91447621595654
+Phoenix	pitfall1	Nocibiotes	2.64695570365814
+Phoenix	pitfall1	Nocibiotes granulatus	2.37572154403916
+Phoenix	pitfall1	Noctuidae	1.71875017030976
+Phoenix	pitfall1	Notiophilus	0.232494027870287
+Phoenix	pitfall1	Novomessor cockerelli	1.18277924959009
+Phoenix	pitfall1	Nysius	-0.503299439264005
+Phoenix	pitfall1	Odontomachus	-1.46732802009712
+Phoenix	pitfall1	Oecobiidae	-1.55831095387436
+Phoenix	pitfall1	Oecobius	0.736622085787811
+Phoenix	pitfall1	Oligotomidae	1.57190958156408
+Phoenix	pitfall1	Oonopidae	-0.407198243115841
+Phoenix	pitfall1	Opiliones	-1.6723924979048
+Phoenix	pitfall1	Oribatida	2.04595237081227
+Phoenix	pitfall1	Orius	2.07606300634738
+Phoenix	pitfall1	Osorius	-0.185498682857267
+Phoenix	pitfall1	Oxyopes	0.199908353647789
+Phoenix	pitfall1	Oxyopidae	-2.07313333973189
+Phoenix	pitfall1	Ozognathus	-0.559108858888219
+Phoenix	pitfall1	Pachybrachis	-0.117115853470788
+Phoenix	pitfall1	Pangaeus	2.11172614864782
+Phoenix	pitfall1	Papusus	1.17373885951214
+Phoenix	pitfall1	Paratrechina	-3.36337170256768
+Phoenix	pitfall1	Pardosa	-0.309927659372593
+Phoenix	pitfall1	Pentatomidae	-0.627435970958322
+Phoenix	pitfall1	Pheidole	1.00155794269881
+Phoenix	pitfall1	Pheidole desertorum	-2.29110370435236
+Phoenix	pitfall1	Pheidole floridana	0.251492460479542
+Phoenix	pitfall1	Pheidole gilvescens	-1.47665532853124
+Phoenix	pitfall1	Pheidole sciophila	-1.52705088628347
+Phoenix	pitfall1	Pheidole tetra	1.34702097182983
+Phoenix	pitfall1	Pheidole tucsonica	1.90651367396082
+Phoenix	pitfall1	Phelister	-1.78602806909351
+Phoenix	pitfall1	Phlaeothripidae	1.42190885321398
+Phoenix	pitfall1	Pholcidae	0.364471306603757
+Phoenix	pitfall1	Phoridae	0.860412735849177
+Phoenix	pitfall1	Phthiria	2.45391117149339
+Phoenix	pitfall1	Phyllotreta	0.828054230143011
+Phoenix	pitfall1	Phytocoris	2.6944923826369
+Phoenix	pitfall1	Pinacodera	0.265132927765278
+Phoenix	pitfall1	Platydracus	-1.86650025950819
+Phoenix	pitfall1	Platystethus	-2.46178976523941
+Phoenix	pitfall1	Platytomus	1.47973934338424
+Phoenix	pitfall1	Plectreuridae	-1.06048890594013
+Phoenix	pitfall1	Poecilus	-1.80883814751912
+Phoenix	pitfall1	Pogonomyrmex	-1.12390282786346
+Phoenix	pitfall1	Pogonomyrmex californicus	-1.03253331751469
+Phoenix	pitfall1	Pogonomyrmex maricopa	2.10632080538896
+Phoenix	pitfall1	Pogonomyrmex rugosus	0.148604331063694
+Phoenix	pitfall1	Polyphagidae	-1.1684480434843
+Phoenix	pitfall1	Pompilidae	-0.0297657475717
+Phoenix	pitfall1	Pronotacantha	0.190985490060338
+Phoenix	pitfall1	Prytanes	0.24532349812278
+Phoenix	pitfall1	Pseudoscorpiones	-2.35906578949014
+Phoenix	pitfall1	Psilochorus	-0.705980233941735
+Phoenix	pitfall1	Psocoptera	-2.60046720333456
+Phoenix	pitfall1	Psyllidae	-1.8122858816064
+Phoenix	pitfall1	Pteromalidae	0.621392153731754
+Phoenix	pitfall1	Pterostichus	-1.02436177375455
+Phoenix	pitfall1	Ptomaphagus	1.50135577734986
+Phoenix	pitfall1	Pyralidae	1.56607425142685
+Phoenix	pitfall1	Pyramica	0.789555832660598
+Phoenix	pitfall1	Reduviidae	-1.80519423858515
+Phoenix	pitfall1	Rhaphidophorinae	0.243309191346064
+Phoenix	pitfall1	Rhopalidae	-1.41134464716525
+Phoenix	pitfall1	Salticidae	-0.568904126494613
+Phoenix	pitfall1	Sarcophagidae	0.659621213518972
+Phoenix	pitfall1	Scale Insects	-2.49880825973134
+Phoenix	pitfall1	Scaphiella	2.56126177840223
+Phoenix	pitfall1	Scarabaeidae	-1.08870568919938
+Phoenix	pitfall1	Scarites	-1.53403991736225
+Phoenix	pitfall1	Scatopsidae	-1.83249869340768
+Phoenix	pitfall1	Scelionidae	1.83718134623192
+Phoenix	pitfall1	Sciaridae	0.148631681613033
+Phoenix	pitfall1	Sciopithes	0.297948892238032
+Phoenix	pitfall1	Sclerogibbidae	-0.249042644043557
+Phoenix	pitfall1	Scolopendridae	3.18431449582558
+Phoenix	pitfall1	Scolytidae	-2.35178663163
+Phoenix	pitfall1	Scopoides	2.16831592768856
+Phoenix	pitfall1	Scorpiones	-1.89513062796047
+Phoenix	pitfall1	Scutigeridae	1.57018469278978
+Phoenix	pitfall1	Scymnus	-3.26886291404515
+Phoenix	pitfall1	Scytodes	0.543278871802819
+Phoenix	pitfall1	Scytodidae	-1.483254700453
+Phoenix	pitfall1	Selenophorus	-1.96196799080772
+Phoenix	pitfall1	Sinea	2.69797437868854
+Phoenix	pitfall1	Sminthuridae	2.39055248430667
+Phoenix	pitfall1	Solenopsis	-2.73113968139153
+Phoenix	pitfall1	Solenopsis amblychila	0.358621221100577
+Phoenix	pitfall1	Solenopsis aurea	-0.784159582450281
+Phoenix	pitfall1	Solenopsis xyloni	1.62318413397256
+Phoenix	pitfall1	Solenopsis(Diplorhoptrum)	-1.99417783580613
+Phoenix	pitfall1	Solpugida	-3.01714223254556
+Phoenix	pitfall1	Spanagonicus	1.8191330933685
+Phoenix	pitfall1	Sphaeroceridae	3.58086815572544
+Phoenix	pitfall1	Sphecidae	-1.4020646321257
+Phoenix	pitfall1	Sphenophorus	-0.41516125263672
+Phoenix	pitfall1	Spirobolida	-2.08112063812129
+Phoenix	pitfall1	Staphylinidae	-1.03803428667081
+Phoenix	pitfall1	Steatoda	1.93367178418619
+Phoenix	pitfall1	Steriphanus	1.83149818169026
+Phoenix	pitfall1	Strumigenys	1.95778646071338
+Phoenix	pitfall1	Syntomus	0.254855743955672
+Phoenix	pitfall1	Syntomus americanus	-2.33489011454931
+Phoenix	pitfall1	Syrphidae	-0.558951043243501
+Phoenix	pitfall1	Systena	-1.13117926130856
+Phoenix	pitfall1	Tachinidae	0.878020278780304
+Phoenix	pitfall1	Tarsonops	2.17687824587389
+Phoenix	pitfall1	Tenebrionidae	-1.82503522973431
+Phoenix	pitfall1	Tennesseellum	1.79087900455709
+Phoenix	pitfall1	Termitidae	2.72869399356075
+Phoenix	pitfall1	Tetragnathidae	-0.953622969880561
+Phoenix	pitfall1	Tetragonoderus	-0.969371163975074
+Phoenix	pitfall1	Tetramorium	-0.801113152934175
+Phoenix	pitfall1	Texananus	2.48387517552556
+Phoenix	pitfall1	Theridiidae	-1.53644713881429
+Phoenix	pitfall1	Thinoxenus	0.391731219180561
+Phoenix	pitfall1	Thomisidae	-2.33080309487366
+Phoenix	pitfall1	Thripidae	1.5508155129778
+Phoenix	pitfall1	Thysanoptera	-2.44777609034177
+Phoenix	pitfall1	Thysanura	0.51430583073417
+Phoenix	pitfall1	Tingidae	-2.75041715460723
+Phoenix	pitfall1	Tiphiidae	-2.54697064942837
+Phoenix	pitfall1	Tipulidae	0.322298383848608
+Phoenix	pitfall1	Torymidae	2.45993732788755
+Phoenix	pitfall1	Trichiasida hirsuta	-0.146961005041911
+Phoenix	pitfall1	Trichiasida hispidula	3.38101046322574
+Phoenix	pitfall1	Trichochrous	-0.111734504050939
+Phoenix	pitfall1	Trichogrammatidae	1.32153883845203
+Phoenix	pitfall1	Trichoton	0.631043190068625
+Phoenix	pitfall1	Trichoton sordidum	-1.21130135458421
+Phoenix	pitfall1	Triorophus	0.82415279042598
+Phoenix	pitfall1	Trombidioidea	1.16112562970162
+Phoenix	pitfall1	Tymnes	-0.491902556469895
+Phoenix	pitfall1	Ulus	2.04187145239052
+Phoenix	pitfall1	Vacusus	1.85156359710886
+Phoenix	pitfall1	Vaejovidae	1.66303628356131
+Phoenix	pitfall1	Xylocoris	2.56629091708959
+Phoenix	pitfall1	Xysticus	1.45800000860906
+Phoenix	pitfall1	Zabrotes	-0.76952145926717
+Phoenix	pitfall1	Zelotes	3.90315619501254
+Phoenix	pitfall1	Zophobas	2.87754443840011
+Phoenix	pitfall2	Acari	-1.54411952488855
+Phoenix	pitfall2	Acrididae	0.874933568111595
+Phoenix	pitfall2	Agroeca	-1.58608394738156
+Phoenix	pitfall2	Aleyrodidae	0.942658378423495
+Phoenix	pitfall2	Alopecosa	-0.272914607384084
+Phoenix	pitfall2	Ammotrechidae	-0.710060832958526
+Phoenix	pitfall2	Anystidae	-0.236491510082311
+Phoenix	pitfall2	Anystoidea	4.73594437708948
+Phoenix	pitfall2	Aphididae	-1.21616419745807
+Phoenix	pitfall2	Apis	-0.0527226538307728
+Phoenix	pitfall2	Araeoschizus	2.18402017474487
+Phoenix	pitfall2	Araneida	0.25405814740183
+Phoenix	pitfall2	Argoporis	-2.72781231210727
+Phoenix	pitfall2	Bdellidae	-2.49615654915861
+Phoenix	pitfall2	Bethylidae	0.175052202599785
+Phoenix	pitfall2	Caeculidae	-1.68545361813029
+Phoenix	pitfall2	Camponotus	-0.879970771286162
+Phoenix	pitfall2	Carabidae	0.983502242664752
+Phoenix	pitfall2	Cecidomyiidae	-2.46221244586366
+Phoenix	pitfall2	Ceraticelus	-1.72595500288664
+Phoenix	pitfall2	Chalcidoidea	0.788719106488268
+Phoenix	pitfall2	Chironomidae	-1.87846720114477
+Phoenix	pitfall2	Chloropidae	0.0428928328484631
+Phoenix	pitfall2	Chrysomelidae	0.923027285064513
+Phoenix	pitfall2	Chrysopidae	1.28385875067472
+Phoenix	pitfall2	Chyphotes	-2.94892440995971
+Phoenix	pitfall2	Cicadellidae	-1.36570051724113
+Phoenix	pitfall2	Coccoidea	-1.8774266346994
+Phoenix	pitfall2	Coleoptera	-2.48600262139264
+Phoenix	pitfall2	Collembola	0.181592711057592
+Phoenix	pitfall2	Cononotus	-2.65224434831966
+Phoenix	pitfall2	Crematogaster	-3.19815573205188
+Phoenix	pitfall2	Cryptoglossa	0.996140395380299
+Phoenix	pitfall2	Cryptoglossa muricatus	1.18884632941144
+Phoenix	pitfall2	Diptera	-0.151435821925926
+Phoenix	pitfall2	Dorymyrmex	-2.71177020868497
+Phoenix	pitfall2	Dorymyrmex insanus	-1.62423759411231
+Phoenix	pitfall2	Drassyllus	0.732178528595997
+Phoenix	pitfall2	Eleodes armatus	-0.663228690661737
+Phoenix	pitfall2	Emblethis	2.88366905254955
+Phoenix	pitfall2	Entomobryidae	1.91576974931838
+Phoenix	pitfall2	Erythraeidae	2.30199254187725
+Phoenix	pitfall2	Erythraeoidea	0.126775757070009
+Phoenix	pitfall2	Eusattus	-0.763640515270783
+Phoenix	pitfall2	Forelius	1.63165591917989
+Phoenix	pitfall2	Forelius mccooki	-0.572102943521043
+Phoenix	pitfall2	Forelius pruinosus	-3.06844321000551
+Phoenix	pitfall2	Formicidae	-2.27240504464054
+Phoenix	pitfall2	Gnaphosidae	0.326076023391863
+Phoenix	pitfall2	Gryllidae	-0.880635673557366
+Phoenix	pitfall2	Habronattus	-1.57509919761942
+Phoenix	pitfall2	Hadrurus arizonensis	2.11560092525257
+Phoenix	pitfall2	Hemiptera	2.88896956121689
+Phoenix	pitfall2	Hypogastruridae	0.0527709288737475
+Phoenix	pitfall2	Isopoda	-1.81480013913325
+Phoenix	pitfall2	Isotomidae	-0.579818473063142
+Phoenix	pitfall2	Lepidoptera	1.99393027298976
+Phoenix	pitfall2	Lepismatidae	-2.18498902932205
+Phoenix	pitfall2	Linyphiidae	0.854541671664533
+Phoenix	pitfall2	Lycosidae	-1.66928064336043
+Phoenix	pitfall2	Lygaeidae	-2.55079141970285
+Phoenix	pitfall2	Mantidae	2.6576147206663
+Phoenix	pitfall2	Mantodea	-1.7596101308405
+Phoenix	pitfall2	Mecinus	2.54807948574826
+Phoenix	pitfall2	Meinertellidae	-2.08617441468735
+Phoenix	pitfall2	Miridae	0.521349387993038
+Phoenix	pitfall2	Monomorium	-3.84082813796772
+Phoenix	pitfall2	Mutillidae	-0.464955323758283
+Phoenix	pitfall2	Myrmecocystus	-2.08733454457042
+Phoenix	pitfall2	Myrmeleontidae	-0.480853618740283
+Phoenix	pitfall2	Neivamyrmex	1.85021569415002
+Phoenix	pitfall2	Nocibiotes	0.28373103208764
+Phoenix	pitfall2	Noctuidae	-2.37350735370192
+Phoenix	pitfall2	Novomessor cockerelli	-2.78632619750392
+Phoenix	pitfall2	Oecobius	-3.03365090037088
+Phoenix	pitfall2	Opiliones	-2.63107527843791
+Phoenix	pitfall2	Oribatida	-0.199217833098347
+Phoenix	pitfall2	Oxyopes	-2.55894024718878
+Phoenix	pitfall2	Paravaejovis spinigerus	1.39734493368026
+Phoenix	pitfall2	Pardosa	-1.22565605135856
+Phoenix	pitfall2	Pheidole	-0.872898282467393
+Phoenix	pitfall2	Pheidole desertorum	-2.98375581915287
+Phoenix	pitfall2	Phoridae	1.09305416376057
+Phoenix	pitfall2	Phyllotreta	-4.17185756135525
+Phoenix	pitfall2	Pogonomyrmex rugosus	-1.30200663146175
+Phoenix	pitfall2	Pseudoscorpiones	-1.3656977765188
+Phoenix	pitfall2	Psilochorus	-2.75797319961915
+Phoenix	pitfall2	Psocoptera	0.774811304737612
+Phoenix	pitfall2	Ptomaphagus	-1.18988332204887
+Phoenix	pitfall2	Salticidae	0.217835086003335
+Phoenix	pitfall2	Sciaridae	-0.362355878432469
+Phoenix	pitfall2	Scolopendridae	-0.510661503515216
+Phoenix	pitfall2	Sminthuridae	-2.12344619989093
+Phoenix	pitfall2	Solenopsis	-0.988546507425457
+Phoenix	pitfall2	Solenopsis amblychila	-0.299550921770578
+Phoenix	pitfall2	Solenopsis xyloni	-1.49553329342937
+Phoenix	pitfall2	Solifugae	-1.1449354642591
+Phoenix	pitfall2	Spirobolida	-2.07319205398445
+Phoenix	pitfall2	Staphylinidae	1.62145557436246
+Phoenix	pitfall2	Steatoda	0.130791079509187
+Phoenix	pitfall2	Steriphanus	2.77436584945927
+Phoenix	pitfall2	Syntomus	-1.13749195556686
+Phoenix	pitfall2	Tarsonops	-1.69679793496449
+Phoenix	pitfall2	Tenebrionidae	-2.00608207049316
+Phoenix	pitfall2	Tennesseellum	-0.936141595064452
+Phoenix	pitfall2	Termitidae	-2.5034292662599
+Phoenix	pitfall2	Tetramorium	-3.74467888375382
+Phoenix	pitfall2	Theridiidae	2.72777072680309
+Phoenix	pitfall2	Thinoxenus	-0.0345168796701324
+Phoenix	pitfall2	Thripidae	-1.51314778422101
+Phoenix	pitfall2	Trichiasida hispidula	2.04611129991415
+Phoenix	pitfall2	Triorophus	1.84288536431069
+Phoenix	pitfall2	Trombidioidea	-0.688418571663842
+Phoenix	pitfall2	Vaejovidae	-2.83293864153343
+Phoenix	pitfall2	Xysticus	-1.54572110457131
+Phoenix	pitfall2	Zelotes	1.58888526159205
+Phoenix	Sweep	Acari	-2.54217449856942
+Phoenix	Sweep	Aleyrodidae	1.57701890869143
+Phoenix	Sweep	Anthocoridae	1.85827973794499
+Phoenix	Sweep	Aphididae	2.14026508371822
+Phoenix	Sweep	Braconidae	1.52121676539202
+Phoenix	Sweep	Bruchidae	-0.269841339617547
+Phoenix	Sweep	Cecidomyiidae	-1.70527159097803
+Phoenix	Sweep	Chalcidoidea	0.79753521980056
+Phoenix	Sweep	Chironomidae	-1.96103126272395
+Phoenix	Sweep	Chloropidae	2.31296461351303
+Phoenix	Sweep	Chrysopidae	0.41816260045759
+Phoenix	Sweep	Cicadellidae	1.89483634480063
+Phoenix	Sweep	Coccinellidae	0.924087038949872
+Phoenix	Sweep	Coccoidea	-0.319856684654464
+Phoenix	Sweep	Coleoptera	2.13333333330801
+Phoenix	Sweep	Collembola	-0.194767951434894
+Phoenix	Sweep	Curculionidae	1.15427763645319
+Phoenix	Sweep	Delphacidae	1.15649160913416
+Phoenix	Sweep	Dictynidae	-1.58595703547068
+Phoenix	Sweep	Diptera	2.30032561358547
+Phoenix	Sweep	Empididae	2.40122816066808
+Phoenix	Sweep	Formicidae	-1.38548244450843
+Phoenix	Sweep	Geometridae	-1.76934606983121
+Phoenix	Sweep	Hemiptera	1.6014779798438
+Phoenix	Sweep	Hymenoptera	-1.96531385038152
+Phoenix	Sweep	Ichneumonidae	2.207035464224
+Phoenix	Sweep	Lepidoptera	-1.71972468733198
+Phoenix	Sweep	Linyphiidae	2.13333333330692
+Phoenix	Sweep	Lygaeidae	-1.22754619024025
+Phoenix	Sweep	Melyridae	-0.586174210964681
+Phoenix	Sweep	Membracidae	-0.310946374502229
+Phoenix	Sweep	Miridae	-2.26793054927448
+Phoenix	Sweep	Muscidae	-1.47909018387084
+Phoenix	Sweep	Pentatomidae	0.780386421397362
+Phoenix	Sweep	Psocoptera	-1.06666664824415
+Phoenix	Sweep	Psyllidae	-1.08365675536609
+Phoenix	Sweep	Rhopalidae	2.23693614065623
+Phoenix	Sweep	Salticidae	0.0717977240418983
+Phoenix	Sweep	Thomisidae	1.46378079340705
+Phoenix	Sweep	Thysanoptera	-1.64396493560631
+Phoenix	Sweep	Tingidae	0.90197308158763
+Sevilleta	Grasshoppers	ACPI	0
+Sevilleta	Grasshoppers	AGDE	1.56796682522917
+Sevilleta	Grasshoppers	AMCO	1.17342511900452
+Sevilleta	Grasshoppers	ARCO	0.982929497144514
+Sevilleta	Grasshoppers	ARPS	-2.77769473882305
+Sevilleta	Grasshoppers	AUEL	0.491226139086245
+Sevilleta	Grasshoppers	AUFE	-2.37559420757388
+Sevilleta	Grasshoppers	BOAR	1.14223472247611
+Sevilleta	Grasshoppers	BRMA	-1.19986770555031
+Sevilleta	Grasshoppers	CIPA	1.23725350783396
+Sevilleta	Grasshoppers	COCR	1.40745741526846
+Sevilleta	Grasshoppers	COOC	0.782498134982793
+Sevilleta	Grasshoppers	DABI	-0.267220316716772
+Sevilleta	Grasshoppers	ERSI	1.61815109599867
+Sevilleta	Grasshoppers	HATR	-0.198430326766161
+Sevilleta	Grasshoppers	HERU	0.141993119654582
+Sevilleta	Grasshoppers	HEVI	-1.48584426294372
+Sevilleta	Grasshoppers	HICA	0
+Sevilleta	Grasshoppers	LEWH	-1.962001022011
+Sevilleta	Grasshoppers	MEAR	3.0530868348211
+Sevilleta	Grasshoppers	MEAR2	-2.32774091139783
+Sevilleta	Grasshoppers	MEBO	-0.920058489555913
+Sevilleta	Grasshoppers	MEGL	-2.091987862862
+Sevilleta	Grasshoppers	MELA	-1.11370085682084
+Sevilleta	Grasshoppers	MEPL	0
+Sevilleta	Grasshoppers	MESA	2.40303521812237
+Sevilleta	Grasshoppers	MESP	0.618942836143083
+Sevilleta	Grasshoppers	METE	1.1428571360432
+Sevilleta	Grasshoppers	NONE	1.46584116970456
+Sevilleta	Grasshoppers	OPOB	-1.83890756090226
+Sevilleta	Grasshoppers	PAPA	1.35336882823589
+Sevilleta	Grasshoppers	PAWY	0
+Sevilleta	Grasshoppers	PHNE	0
+Sevilleta	Grasshoppers	PHQU	0.859435109150539
+Sevilleta	Grasshoppers	PSDE	0.822417467820398
+Sevilleta	Grasshoppers	PSTE	1.28973257940865
+Sevilleta	Grasshoppers	SYMO	-1.01612014661
+Sevilleta	Grasshoppers	TRCA	0.25239880623308
+Sevilleta	Grasshoppers	TRFO	-2.04442927219159
+Sevilleta	Grasshoppers	TRFR	-0.827579998474823
+Sevilleta	Grasshoppers	TRKI	-2.31574176830513
+Sevilleta	Grasshoppers	TRME	-3.33333329219518
+Sevilleta	Grasshoppers	TRPA	-0.43422781627713
+Sevilleta	Grasshoppers	TRPI	-1.97849381212838
+Sevilleta	Grasshoppers	XACO	0.293920020652188
+Sevilleta	Pitfall	1_1	2.8061169288549
+Sevilleta	Pitfall	1_NYM	-2.55422682867844
+Sevilleta	Pitfall	ACA_PIP	0.707020365084867
+Sevilleta	Pitfall	ACR_NYM	2.61770589401304
+Sevilleta	Pitfall	ALO_KOC	-0.0603616948871601
+Sevilleta	Pitfall	AMP_COL	-2.66666666663172
+Sevilleta	Pitfall	ARA_DEC	1.20088552741938
+Sevilleta	Pitfall	ARE_1	-1.26544875163911
+Sevilleta	Pitfall	ARG_RUF	-2.7224873653041
+Sevilleta	Pitfall	ARP_CON	1.70735054640167
+Sevilleta	Pitfall	ARP_PSE	-1.83717767524138
+Sevilleta	Pitfall	AUL_ELL	-1.17152774290249
+Sevilleta	Pitfall	BLA_PIM	-0.107201453329673
+Sevilleta	Pitfall	BOO_ARG	0.601823796279767
+Sevilleta	Pitfall	CAS_OCC	1.62441705726654
+Sevilleta	Pitfall	CIB_PAR	1.60553062327483
+Sevilleta	Pitfall	CIC_1	1.04177707984939
+Sevilleta	Pitfall	CLU_1	2.49970372323175
+Sevilleta	Pitfall	CYC_COM	1.09163117650367
+Sevilleta	Pitfall	CYM_PUN	-0.483809875707106
+Sevilleta	Pitfall	DAC_BIC	-1.58403774794097
+Sevilleta	Pitfall	DAI_HAS	0.0928609065330593
+Sevilleta	Pitfall	DIP_1	1.21908588433661
+Sevilleta	Pitfall	DIP_SUB	0.055265183528164
+Sevilleta	Pitfall	DRA_DRO	0.207155385087439
+Sevilleta	Pitfall	DRA_MEX	-3.34929985144289
+Sevilleta	Pitfall	DRA_MUM	1.42302057466252
+Sevilleta	Pitfall	DRD_GOS	-0.156837238164582
+Sevilleta	Pitfall	EBO_PAR	-2.33931506498827
+Sevilleta	Pitfall	ELE_CAU	0.598103427272073
+Sevilleta	Pitfall	ELE_EXT	-2.70922776677841
+Sevilleta	Pitfall	ELE_HIS	2.58477610384421
+Sevilleta	Pitfall	ELE_LON	0.361286833029987
+Sevilleta	Pitfall	ELE_OBS	0.569064214734538
+Sevilleta	Pitfall	EMB_VIC	0.44497778119046
+Sevilleta	Pitfall	ERE_PAL	-2.54083238192951
+Sevilleta	Pitfall	ERE_SCU	-1.55709640591485
+Sevilleta	Pitfall	ERE_SUB	1.00672964098539
+Sevilleta	Pitfall	ERI_SIM	1.94253745675509
+Sevilleta	Pitfall	EUP_IND	0.784538090711486
+Sevilleta	Pitfall	EUR_SCR	2.97144621642191
+Sevilleta	Pitfall	GLY_SOR	1.42715450262777
+Sevilleta	Pitfall	GRY_1	1.41490480508672
+Sevilleta	Pitfall	GRY_NYM	-1.50419897278049
+Sevilleta	Pitfall	GRY_PEN	2.09857960323238
+Sevilleta	Pitfall	HAB_CLY	-0.80011547423002
+Sevilleta	Pitfall	HAP_CHA	-0.958787289967342
+Sevilleta	Pitfall	HEL_RUF	-3.09510732535442
+Sevilleta	Pitfall	HER_BUB	-1.28913465083768
+Sevilleta	Pitfall	HER_HES	2.1837837587176
+Sevilleta	Pitfall	HOG_CAR	-2.24137555814212
+Sevilleta	Pitfall	HOL_HOL	0.991575752556195
+Sevilleta	Pitfall	HOP_BOR	-0.0637466956832057
+Sevilleta	Pitfall	LAN_SCH	-0.397375761513618
+Sevilleta	Pitfall	LAT_HES	2.18505887540039
+Sevilleta	Pitfall	LEP_INT	2.61957717418405
+Sevilleta	Pitfall	MAC_AUR	0.0882211239886091
+Sevilleta	Pitfall	MAS_GIG	2.729384828896
+Sevilleta	Pitfall	MEG_TEN	-2.56762124113196
+Sevilleta	Pitfall	MEL_1	-1.99317971695351
+Sevilleta	Pitfall	NYS_1	1.38627628494727
+Sevilleta	Pitfall	OEC_CAL	1.75183548689567
+Sevilleta	Pitfall	PAN_BIL	-2.36701404294329
+Sevilleta	Pitfall	PAR_ORO	2.2582328990407
+Sevilleta	Pitfall	PAS_ELO	0.0184805523258906
+Sevilleta	Pitfall	PAS_OBS	-3.0430722897558
+Sevilleta	Pitfall	PLA_ARI	1.23393148137055
+Sevilleta	Pitfall	PSI_1	1.80800283560504
+Sevilleta	Pitfall	PSO_DEL	-0.769535624481112
+Sevilleta	Pitfall	PSO_TEX	1.25769323448482
+Sevilleta	Pitfall	SCH_MCC	2.89113279445584
+Sevilleta	Pitfall	SCO_POL	2.03993731137002
+Sevilleta	Pitfall	STE_1	1.81491477944221
+Sevilleta	Pitfall	SYR_MON	-1.05173853324504
+Sevilleta	Pitfall	THA_COL	0.282404427972901
+Sevilleta	Pitfall	TRI_PAL	-2.08899720317348
+Sevilleta	Pitfall	VAE_COA	-0.516191801679442
+Sevilleta	Pitfall	VAR_GOS	-1.52478986079213
+Sevilleta	Pitfall	XAN_COR	3.85412967318755
+Sevilleta	Pitfall	XYS_FAC	-1.09091453343167
+Sevilleta	Pitfall	XYS_LAS	-0.108983624378629
+Sevilleta	Pitfall	XYS_LOC	-2.68416994927131
+Sevilleta	Pitfall	ZEL_ANG	0.887214019921979
+Sevilleta	Pitfall	ZEL_LAS	3.32872137237774
+Sevilleta	Pitfall	ZEL_TUO	2.45986184291691
